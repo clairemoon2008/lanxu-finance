@@ -9,15 +9,21 @@ Set-Location $Root
 $git = "C:\Program Files\Git\bin\git.exe"
 $gh = "C:\Program Files\GitHub CLI\gh.exe"
 
-Write-Host "==> 岚序财经 GitHub 自动更新设置" -ForegroundColor Cyan
+Write-Host "==> Lanxu Finance GitHub setup" -ForegroundColor Cyan
 Write-Host ""
 
-if (-not (Test-Path $git)) { throw "未安装 Git，请先安装 Git for Windows" }
-if (-not (Test-Path $gh)) { throw "未安装 GitHub CLI，请先安装 gh" }
+if (-not (Test-Path $git)) { throw "Git not found. Install Git for Windows first." }
+if (-not (Test-Path $gh)) { throw "GitHub CLI not found. Install gh first." }
 
-& $gh auth status 2>$null
-if ($LASTEXITCODE -ne 0) {
-  Write-Host "请先登录 GitHub（会打开浏览器）..." -ForegroundColor Yellow
+$loggedIn = $false
+try {
+  & $gh auth status *> $null
+  $loggedIn = ($LASTEXITCODE -eq 0)
+} catch {
+  $loggedIn = $false
+}
+if (-not $loggedIn) {
+  Write-Host "Please sign in to GitHub in the browser..." -ForegroundColor Yellow
   & $gh auth login -p https -w
 }
 
@@ -26,6 +32,11 @@ if (-not (Test-Path ".git")) {
   & $git branch -M main
 }
 
+$env:GIT_AUTHOR_NAME = "Didimoon609"
+$env:GIT_AUTHOR_EMAIL = "Didimoon609@gmail.com"
+$env:GIT_COMMITTER_NAME = "Didimoon609"
+$env:GIT_COMMITTER_EMAIL = "Didimoon609@gmail.com"
+
 & $git add .
 & $git diff --staged --quiet
 if ($LASTEXITCODE -ne 0) {
@@ -33,7 +44,7 @@ if ($LASTEXITCODE -ne 0) {
 }
 
 Write-Host ""
-Write-Host "==> 创建 GitHub 仓库并推送..." -ForegroundColor Cyan
+Write-Host "==> Create GitHub repo and push..." -ForegroundColor Cyan
 $user = (& $gh api user -q .login)
 $fullRepo = "$user/$RepoName"
 & $gh repo view $fullRepo 2>$null
@@ -44,30 +55,30 @@ if ($LASTEXITCODE -ne 0) {
 }
 
 Write-Host ""
-Write-Host "==> 写入 GitHub Secrets..." -ForegroundColor Cyan
+Write-Host "==> Set GitHub Secrets..." -ForegroundColor Cyan
 if (Test-Path ".env.deploy") {
   Get-Content ".env.deploy" | ForEach-Object {
     if ($_ -match '^\s*#' -or $_ -notmatch '=') { return }
     $name, $value = $_.Split('=', 2)
     $name = $name.Trim()
     $value = $value.Trim().Trim('"').Trim("'")
-    if ($name -in @('CLOUDFLARE_API_TOKEN','CLOUDFLARE_ACCOUNT_ID','DEEPSEEK_API_KEY') -and $value) {
+    if ($name -in @('CLOUDFLARE_API_TOKEN', 'CLOUDFLARE_ACCOUNT_ID', 'DEEPSEEK_API_KEY') -and $value) {
       $value | & $gh secret set $name --repo $fullRepo
-      Write-Host "  已设置 Secret: $name" -ForegroundColor Green
+      Write-Host "  Secret set: $name" -ForegroundColor Green
     }
   }
 } else {
-  Write-Host "  未找到 .env.deploy，请手动在 GitHub 设置 Secrets：" -ForegroundColor Yellow
+  Write-Host "  .env.deploy not found. Add secrets manually on GitHub." -ForegroundColor Yellow
 }
 
 Write-Host ""
-Write-Host "完成！" -ForegroundColor Green
-Write-Host "  仓库: https://github.com/$fullRepo"
+Write-Host "Done!" -ForegroundColor Green
+Write-Host "  Repo: https://github.com/$fullRepo"
 Write-Host "  Actions: https://github.com/$fullRepo/actions"
 Write-Host ""
-Write-Host "请在 GitHub → Settings → Secrets → Actions 确认以下 3 个 Secret 已设置：" -ForegroundColor Yellow
-Write-Host "  - DEEPSEEK_API_KEY"
-Write-Host "  - CLOUDFLARE_API_TOKEN"
-Write-Host "  - CLOUDFLARE_ACCOUNT_ID"
+Write-Host "Confirm these GitHub Secrets exist:" -ForegroundColor Yellow
+Write-Host "  DEEPSEEK_API_KEY"
+Write-Host "  CLOUDFLARE_API_TOKEN"
+Write-Host "  CLOUDFLARE_ACCOUNT_ID"
 Write-Host ""
-Write-Host "设置完成后，在 Actions 页点击 Daily Brief and Deploy → Run workflow 可手动测试。" -ForegroundColor Yellow
+Write-Host "Then run Actions -> Daily Brief and Deploy -> Run workflow" -ForegroundColor Yellow
