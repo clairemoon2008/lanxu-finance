@@ -1,0 +1,70 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>历史归档｜岚序财经</title>
+    <meta name="description" content="岚序财经历史日报归档，查阅过往香港、新加坡、阿联酋与海湾国家经济政策简报。" />
+    <link rel="canonical" href="https://lanxu-finance.pages.dev/archive.html" />
+    <link rel="icon" href="./favicon.svg" type="image/svg+xml" />
+    <link rel="stylesheet" href="./styles.css" />
+  </head>
+  <body>
+    <header class="topbar">
+      <a class="brand" href="./">
+        <span class="brand-mark" aria-hidden="true">岚</span>
+        <span>
+          <strong>岚序财经</strong>
+          <small>Lanxu Finance</small>
+        </span>
+      </a>
+      <div class="topbar-actions">
+        <nav class="nav" aria-label="主导航">
+          <a href="./" data-i18n="navHome">返回首页</a>
+          <a href="./#subscribe" data-i18n="navSubscribe">订阅</a>
+        </nav>
+        <div class="lang-switch" aria-label="Language">
+          <button type="button" data-lang-option="zh" aria-pressed="true">中文</button>
+          <button type="button" data-lang-option="en" aria-pressed="false">EN</button>
+        </div>
+      </div>
+    </header>
+
+    <main class="archive-page">
+      <section class="section">
+        <div class="section-heading">
+          <p class="eyebrow">Archive</p>
+          <h1 data-i18n="archiveTitle">历史日报归档</h1>
+          <p data-i18n="archiveDesc">查阅过往经济政策简报，了解区域政策演变脉络。</p>
+        </div>
+
+        <div id="archiveLoading" class="loading-state">
+          <div class="spinner"></div>
+          <p data-i18n="archiveLoading">正在加载归档列表…</p>
+        </div>
+
+        <div id="archiveList" class="archive-list" hidden></div>
+
+        <article id="archiveDetail" class="archive-detail" hidden>
+          <div class="archive-detail-header">
+            <button type="button" class="button secondary" id="archiveBack" data-i18n="archiveBack">← 返回列表</button>
+            <div class="brief-meta">
+              <span id="archiveDate">--</span>
+              <span id="archiveUpdated">--</span>
+            </div>
+          </div>
+          <p id="archiveSummary" class="archive-summary"></p>
+          <div class="archive-stories" id="archiveStories"></div>
+          <div class="analysis-layout" id="archiveAnalysis"></div>
+        </article>
+      </section>
+    </main>
+
+    <footer class="footer">
+      <span>岚序财经</span>
+      <span data-i18n="footerText">Lanxu Finance · 亚洲与海湾经济政策情报</span>
+    </footer>
+
+    <script src="./archive.js?v=20260621-v2" type="module"></script>
+  </body>
+</html>

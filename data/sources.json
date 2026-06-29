@@ -1,0 +1,149 @@
+{
+  "regions": [
+    {
+      "id": "hong-kong",
+      "name": "香港",
+      "queries": [
+        "Hong Kong economy policy finance regulation",
+        "Hong Kong Monetary Authority SFC market policy",
+        "Hong Kong family office capital market"
+      ],
+      "requiredTerms": [
+        "hong kong",
+        "hkma",
+        "sfc",
+        "hksar"
+      ],
+      "rss": [
+      ]
+    },
+    {
+      "id": "singapore",
+      "name": "新加坡",
+      "queries": [
+        "Singapore economy policy finance regulation MAS",
+        "Singapore Ministry of Trade Industry policy",
+        "Singapore family office fintech tax"
+      ],
+      "requiredTerms": [
+        "singapore",
+        "mas",
+        "monetary authority of singapore"
+      ],
+      "rss": [
+      ]
+    },
+    {
+      "id": "uae",
+      "name": "阿联酋",
+      "queries": [
+        "UAE economy policy finance tax regulation",
+        "Dubai Abu Dhabi free zone corporate tax",
+        "UAE sovereign fund investment policy"
+      ],
+      "requiredTerms": [
+        "uae",
+        "united arab emirates",
+        "dubai",
+        "abu dhabi",
+        "adgm",
+        "difc"
+      ],
+      "rss": [
+        "https://wam.ae/en/rss"
+      ]
+    },
+    {
+      "id": "gcc",
+      "name": "海湾国家",
+      "queries": [
+        "GCC economy policy finance Saudi Qatar Bahrain Kuwait Oman",
+        "Saudi Arabia investment policy Vision 2030 finance",
+        "Qatar energy sovereign fund economic policy"
+      ],
+      "requiredTerms": [
+        "gcc",
+        "gulf",
+        "saudi",
+        "qatar",
+        "bahrain",
+        "kuwait",
+        "oman"
+      ],
+      "rss": []
+    }
+  ],
+  "topics": [
+    "经济政策",
+    "金融监管",
+    "资本市场",
+    "税务与自由区",
+    "能源与产业投资",
+    "主权基金",
+    "贸易与物流"
+  ],
+  "hotKeywords": [
+    "central bank",
+    "monetary authority",
+    "tax",
+    "tariff",
+    "regulation",
+    "policy",
+    "sovereign fund",
+    "investment",
+    "free zone",
+    "capital market",
+    "family office",
+    "energy",
+    "trade",
+    "sanction",
+    "budget"
+  ],
+  "trustedDomains": [
+    "hkma.gov.hk",
+    "sfc.hk",
+    "info.gov.hk",
+    "mas.gov.sg",
+    "mti.gov.sg",
+    "enterprisesg.gov.sg",
+    "wam.ae",
+    "mof.gov.ae",
+    "economy.ae",
+    "adgm.com",
+    "difc.ae",
+    "spa.gov.sa",
+    "vision2030.gov.sa",
+    "qna.org.qa",
+    "qcb.gov.qa",
+    "cbk.gov.kw",
+    "cbb.gov.bh",
+    "cbo.gov.om",
+    "reuters.com",
+    "bloomberg.com",
+    "ft.com",
+    "thenationalnews.com",
+    "straitstimes.com",
+    "scmp.com",
+    "nikkei.com",
+    "channelnewsasia.com",
+    "kpmg.com",
+    "deloitte.com"
+  ],
+  "blockedDomains": [
+    "wikipedia.org",
+    "wikipedia",
+    "britannica.com",
+    "britannica",
+    "travelandtourworld.com",
+    "travel and tour world",
+    "stocktitan.net",
+    "stock titan",
+    "marketscreener.com",
+    "marketscreener",
+    "prnewswire.com",
+    "pr newswire",
+    "globenewswire.com",
+    "globe newswire",
+    "einnews.com"
+  ]
+}

@@ -1,0 +1,43 @@
+name: Daily Brief and Deploy
+
+on:
+  schedule:
+    # 每天 UTC 01:00 = 北京时间 09:00
+    - cron: "0 1 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Generate daily brief
+        env:
+          DEEPSEEK_API_KEY: ${{ secrets.DEEPSEEK_API_KEY }}
+          DEEPSEEK_MODEL: deepseek-v4-flash
+          AI_PROVIDER: deepseek
+        run: python scripts/build_daily.py
+        continue-on-error: true
+
+      - name: Deploy to Cloudflare Pages
+        uses: cloudflare/wrangler-action@v3
+        with:
+          apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+          command: pages deploy . --project-name=lanxu-finance --branch=main
+
+      - name: Commit updated brief
+        run: |
+          git config user.name "lanxu-bot"
+          git config user.email "bot@lanxucaijing.com"
+          git add data/latest.json data/archive-index.json daily/ newsletters/ feed.xml sitemap.xml || true
+          git diff --staged --quiet || git commit -m "chore: update daily brief $(date -u +%F)"
+          git push

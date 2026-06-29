@@ -1,0 +1,174 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>岚序财经｜Lanxu Finance — 香港、新加坡、阿联酋经济政策日报</title>
+    <meta
+      name="description"
+      content="岚序财经每日追踪香港、新加坡、阿联酋与海湾国家的经济政策、金融监管、税务与贸易动态，面向跨境投资与出海企业。"
+    />
+    <meta name="keywords" content="岚序财经,香港财经,新加坡金融,阿联酋经济,海湾国家,经济政策,跨境投资,财经日报" />
+    <meta name="robots" content="index, follow" />
+    <link rel="canonical" href="https://lanxucaijing.com/" />
+    <link rel="icon" href="./favicon.svg" type="image/svg+xml" />
+    <link rel="alternate" type="application/rss+xml" title="岚序财经 RSS" href="./feed.xml" />
+
+    <meta property="og:type" content="website" />
+    <meta property="og:site_name" content="岚序财经" />
+    <meta property="og:title" content="岚序财经 — 亚洲与海湾经济政策情报" />
+    <meta
+      property="og:description"
+      content="每日汇总香港、新加坡、阿联酋与海湾国家的经济政策变化与热点解读。"
+    />
+    <meta property="og:url" content="https://lanxucaijing.com/" />
+    <meta property="og:locale" content="zh_CN" />
+
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="岚序财经 — Lanxu Finance" />
+    <meta
+      name="twitter:description"
+      content="追踪香港、新加坡、阿联酋与海湾国家的经济政策变化。"
+    />
+
+    <link rel="stylesheet" href="./styles.css" />
+  </head>
+  <body>
+    <header class="topbar">
+      <a class="brand" href="./">
+        <span class="brand-mark" aria-hidden="true">岚</span>
+        <span>
+          <strong>岚序财经</strong>
+          <small>Lanxu Finance</small>
+        </span>
+      </a>
+      <div class="topbar-actions">
+        <nav class="nav" aria-label="主导航">
+          <a href="#brief" data-i18n="navBrief">今日简报</a>
+          <a href="#regions" data-i18n="navRegions">地区</a>
+          <a href="#analysis" data-i18n="navAnalysis">热点解读</a>
+          <a href="./broadcast.html">数字人播报</a>
+          <a href="./archive.html" data-i18n="navArchive">历史归档</a>
+          <a href="#subscribe" data-i18n="navSubscribe">订阅</a>
+        </nav>
+        <div class="lang-switch" aria-label="Language">
+          <button type="button" data-lang-option="zh" aria-pressed="true">中文</button>
+          <button type="button" data-lang-option="en" aria-pressed="false">EN</button>
+        </div>
+      </div>
+    </header>
+
+    <main>
+      <section class="hero">
+        <div class="hero-copy">
+          <p class="eyebrow" data-i18n="heroEyebrow">Lanxu Finance · 每日更新 · 保留原文出处</p>
+          <h1 data-i18n="heroTitle">追踪香港、新加坡、阿联酋与海湾国家的经济政策变化</h1>
+          <p class="hero-text" data-i18n="heroText">
+            面向跨境投资、贸易、金融、出海服务和区域研究人群，自动汇总政策信号、市场动态与产业趋势，并给出可读的热点解读。
+          </p>
+          <div class="hero-actions">
+            <a class="button primary" href="#brief" data-i18n="heroPrimary">查看今日简报</a>
+            <a class="button secondary" href="./broadcast.html">数字人播报</a>
+            <a class="button secondary" href="#subscribe" data-i18n="heroSecondary">订阅日报</a>
+          </div>
+        </div>
+        <aside class="hero-panel" aria-label="今日关键数据">
+          <div>
+            <span data-i18n="metricArticles">今日新闻</span>
+            <strong data-metric="articles">--</strong>
+          </div>
+          <div>
+            <span data-i18n="metricRegions">覆盖地区</span>
+            <strong data-metric="regions">--</strong>
+          </div>
+          <div>
+            <span data-i18n="metricHotspots">重点解读</span>
+            <strong data-metric="hotspots">--</strong>
+          </div>
+        </aside>
+      </section>
+
+      <section class="ticker-wrap" aria-label="快讯">
+        <div class="ticker" id="ticker">
+          <span data-i18n="tickerHongKong">香港资本市场改革</span>
+          <span data-i18n="tickerSingapore">新加坡金融监管</span>
+          <span data-i18n="tickerUae">阿联酋税务政策</span>
+          <span data-i18n="tickerSaudi">沙特产业投资</span>
+          <span data-i18n="tickerQatar">卡塔尔能源与主权基金</span>
+        </div>
+      </section>
+
+      <section id="brief" class="section">
+        <div class="section-heading">
+          <p class="eyebrow">Daily Brief</p>
+          <h2 data-i18n="briefTitle">今日简报</h2>
+          <p id="daily-summary" data-loading-text>正在加载今日简报…</p>
+        </div>
+        <div class="brief-meta">
+          <span id="daily-date">--</span>
+          <span id="daily-updated">--</span>
+        </div>
+        <div class="brief-grid">
+          <article class="lead-story" id="lead-story">
+            <span class="tag" data-i18n="tagLead">重点</span>
+            <h3 data-i18n="loadingTitle">正在加载最新内容</h3>
+            <p data-i18n="loadingText">请稍候，正在获取今日经济政策简报。</p>
+          </article>
+          <div class="story-list" id="story-list"></div>
+        </div>
+        <button type="button" class="load-more-btn" id="loadMoreBtn" hidden data-i18n="loadMore">加载更多新闻</button>
+      </section>
+
+      <section id="regions" class="section muted">
+        <div class="section-heading">
+          <p class="eyebrow">Coverage</p>
+          <h2 data-i18n="regionsTitle">地区监测</h2>
+        </div>
+        <div class="region-grid" id="region-grid"></div>
+      </section>
+
+      <section id="analysis" class="section">
+        <div class="section-heading">
+          <p class="eyebrow">Interpretation</p>
+          <h2 data-i18n="analysisTitle">热点解读</h2>
+        </div>
+        <div class="analysis-layout" id="analysis-layout"></div>
+      </section>
+
+      <section id="subscribe" class="section subscribe">
+        <div>
+          <p class="eyebrow">Newsletter</p>
+          <h2 data-i18n="subscribeTitle">订阅每日经济政策简报</h2>
+          <p data-i18n="subscribeText">留下邮箱，每日接收香港、新加坡、阿联酋与海湾国家的政策摘要与热点解读。</p>
+        </div>
+        <div class="subscribe-form-wrap">
+          <form class="subscribe-form" id="subscribeForm">
+            <input type="email" id="subscribeEmail" name="email" placeholder="name@example.com" required aria-label="邮箱地址" />
+            <button type="submit" data-i18n="subscribeButton">订阅日报</button>
+          </form>
+          <p class="subscribe-note" id="subscribeNote" hidden></p>
+        </div>
+      </section>
+    </main>
+
+    <footer class="footer">
+      <span>岚序财经</span>
+      <span data-i18n="footerText">Lanxu Finance · 亚洲与海湾经济政策情报</span>
+      <a href="./feed.xml" class="footer-link">RSS</a>
+      <a href="./archive.html" class="footer-link" data-i18n="navArchive">历史归档</a>
+    </footer>
+
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "WebSite",
+      "name": "岚序财经",
+      "alternateName": "Lanxu Finance",
+      "url": "https://lanxucaijing.com/",
+      "description": "亚洲与海湾经济政策情报日报"
+    }
+    </script>
+
+    <script src="./app.js?v=20260629-v3" type="module"></script>
+  </body>
+</html>

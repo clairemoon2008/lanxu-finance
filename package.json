@@ -1,0 +1,11 @@
+{
+  "name": "gulfasia-brief",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "python -m http.server 4173",
+    "build:daily": "python scripts/build_daily.py",
+    "build:daily:node": "node scripts/build-daily.mjs"
+  }
+}

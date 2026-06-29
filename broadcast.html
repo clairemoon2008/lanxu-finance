@@ -1,0 +1,66 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+    <title>数字人财经播报｜岚序财经</title>
+    <meta name="description" content="岚序财经数字人每日财经播报，语音解读香港、新加坡、阿联酋经济政策动态。" />
+    <link rel="icon" href="./favicon.svg" type="image/svg+xml" />
+    <link rel="stylesheet" href="./broadcast.css" />
+  </head>
+  <body>
+    <div class="broadcast-app">
+      <header class="broadcast-header">
+        <a class="back-link" href="./">← 返回岚序财经</a>
+        <div class="live-badge" id="liveBadge">AI 播报</div>
+      </header>
+
+      <section class="studio">
+        <div class="studio-bg"></div>
+        <div class="anchor-wrap">
+          <div class="anchor" id="anchor" aria-hidden="true">
+            <div class="anchor-head">
+              <div class="anchor-face">
+                <div class="anchor-eye left"></div>
+                <div class="anchor-eye right"></div>
+                <div class="anchor-mouth" id="anchorMouth"></div>
+              </div>
+              <div class="anchor-hair"></div>
+            </div>
+            <div class="anchor-body">
+              <div class="anchor-suit"></div>
+              <div class="anchor-tie"></div>
+            </div>
+          </div>
+          <div class="anchor-info">
+            <strong id="anchorName">岚序</strong>
+            <span>岚序财经 · 数字主播</span>
+          </div>
+          <div class="wave-bars" id="waveBars" aria-hidden="true">
+            <span></span><span></span><span></span><span></span><span></span>
+          </div>
+        </div>
+
+        <div class="teleprompter">
+          <div class="teleprompter-meta">
+            <span id="broadcastDate">--</span>
+            <span id="segmentTitle">准备就绪</span>
+          </div>
+          <p class="teleprompter-text" id="teleprompterText">正在加载今日播报稿…</p>
+        </div>
+      </section>
+
+      <section class="controls">
+        <button type="button" class="ctrl-btn primary" id="playBtn">▶ 开始播报</button>
+        <button type="button" class="ctrl-btn" id="pauseBtn" disabled>⏸ 暂停</button>
+        <button type="button" class="ctrl-btn" id="stopBtn" disabled>⏹ 停止</button>
+      </section>
+
+      <section class="script-list" id="scriptList"></section>
+
+      <p class="tip" id="tipText">使用浏览器语音合成免费播报。在微信小程序中通过网页嵌入打开本页。</p>
+    </div>
+
+    <script src="./broadcast.js" type="module"></script>
+  </body>
+</html>
