@@ -47,11 +47,18 @@ Write-Host ""
 Write-Host "==> Create GitHub repo and push..." -ForegroundColor Cyan
 $user = (& $gh api user -q .login)
 $fullRepo = "$user/$RepoName"
-& $gh repo view $fullRepo 2>$null
-if ($LASTEXITCODE -ne 0) {
+$repoExists = $false
+$prevErrorAction = $ErrorActionPreference
+$ErrorActionPreference = "Continue"
+& $gh repo view $fullRepo *> $null
+$repoExists = ($LASTEXITCODE -eq 0)
+$ErrorActionPreference = $prevErrorAction
+if (-not $repoExists) {
   & $gh repo create $RepoName --public --source=. --remote=origin --push
+  if ($LASTEXITCODE -ne 0) { throw "Failed to create GitHub repo $fullRepo" }
 } else {
   & $git push -u origin main
+  if ($LASTEXITCODE -ne 0) { throw "Failed to push to $fullRepo" }
 }
 
 Write-Host ""
