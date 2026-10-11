@@ -1,0 +1,429 @@
+{
+  "date": "2026-10-11",
+  "generatedAt": "2026-10-11T00:00:00+00:00",
+  "status": "published",
+  "headline": "香港、新加坡与阿联酋：税务激励、家族办公室与自由贸易动态",
+  "summary": "本批新闻聚焦香港、新加坡、阿联酋及海湾国家的税务激励、家族办公室规则、自由贸易合作、稳定币监管与市场资产配置。新加坡在家族办公室税务与投资资产范围上密集调整，阿联酋推进跨国企业税务、增值税和电子发票规则，香港则涉及税务宽减、稳定币收益监管及私募投资动态。",
+  "metrics": {
+    "totalStories": 18,
+    "regionCounts": {
+      "香港": 3,
+      "新加坡": 9,
+      "阿联酋": 6
+    },
+    "topicCounts": {
+      "税务与自由区": 9,
+      "主权基金": 4,
+      "经济政策": 3,
+      "金融监管": 1,
+      "贸易与物流": 1
+    },
+    "sourceCount": 15,
+    "averageScore": 64.2,
+    "maxScore": 71,
+    "minScore": 61,
+    "dateRange": {
+      "start": "2026-09-28",
+      "end": "2026-10-09"
+    },
+    "articles": 18,
+    "regions": 4,
+    "hotspots": 6
+  },
+  "topStories": [
+    {
+      "title": "香港金管局列示税务宽减与激励计划",
+      "titleZh": "香港金管局列示税务宽减与激励计划",
+      "originalTitle": "Tax Concessions and Incentive Schemes",
+      "region": "香港",
+      "topic": "税务与自由区",
+      "source": "Hong Kong Monetary Authority",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNY09WOFRvaVBON0F4bHR0Yko1LWR6aXNJME5ZaXV6OGhyQlhiUG1tZ3JVNDBpS0RzQkd4aG1YdE8wN3hrVWpqYXZtZXluOW1lMU1Zd193NXJDcEF6RDJBYm4tOHZBTFRRQTRZa1lFZEI5V3pnRmt2cFluZnRfSjNUY3pTZUF5TS1mS2tZTjRUakpid1BuczlfYXIycWdrQmttaUV4RXRDRHA1OTIxQV9WR0Vwem1TX2VpeGJ3aVpxclpUT2JLaG5qQkFZbDZXcWtr?oc=5",
+      "publishedAt": "2026-09-29T07:00:00+00:00",
+      "summary": "香港金融管理局网站列示税务宽减及激励计划，供企业及投资者参考。",
+      "summaryZh": "香港金融管理局网站列示税务宽减及激励计划，供企业及投资者参考。",
+      "originalSummary": "Tax Concessions and Incentive Schemes Hong Kong Monetary Authority",
+      "impact": "香港税务宽减与激励计划信息是企业在港设立或扩展业务时评估税负与优惠的重要参考。",
+      "impactZh": "香港税务宽减与激励计划信息是企业在港设立或扩展业务时评估税负与优惠的重要参考。",
+      "score": 71
+    },
+    {
+      "title": "新加坡金管局拟将保单与数字支付代币纳入单一家族办公室指定投资资产",
+      "titleZh": "新加坡金管局拟将保单与数字支付代币纳入单一家族办公室指定投资资产",
+      "originalTitle": "MAS may include insurance policies, digital payment tokens as Designated Investment assets for single family offices",
+      "region": "新加坡",
+      "topic": "主权基金",
+      "source": "Yahoo Finance Singapore",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQdHg5UzhDLUMwYW5tNG96V2pSZndiVTlPWXV6N3J4OEtkWG1mLUpNOVFGdzV0QVRPanNkRUZhaEZMcGNaRmw4djhNMVcwTzJTMW9ieWdfNC1ZVUFyRW9qSktQcUtiRzhOSnRZNW1uUk5VTUhSSFBUazg4LXd4YTBVZVYzQjBFUndJWUd3?oc=5",
+      "publishedAt": "2026-10-05T01:03:00+00:00",
+      "summary": "新加坡金管局考虑扩大单一家族办公室指定投资资产范围，保险保单和数字支付代币可能被纳入。",
+      "summaryZh": "新加坡金管局考虑扩大单一家族办公室指定投资资产范围，保险保单和数字支付代币可能被纳入。",
+      "originalSummary": "MAS may include insurance policies, digital payment tokens as Designated Investment assets for single family offices Yahoo Finance Singapore",
+      "impact": "这可能拓宽新加坡单一家族办公室的可投资资产类别，但相关合规与税务认定仍需以金管局最终规则为准。",
+      "impactZh": "这可能拓宽新加坡单一家族办公室的可投资资产类别，但相关合规与税务认定仍需以金管局最终规则为准。",
+      "score": 71
+    },
+    {
+      "title": "新加坡调整家族办公室税务激励，并要求加大本地招聘",
+      "titleZh": "新加坡调整家族办公室税务激励，并要求加大本地招聘",
+      "originalTitle": "Singapore adjusts tax incentives for family offices, which must also do more to boost local hires",
+      "region": "新加坡",
+      "topic": "税务与自由区",
+      "source": "Singapore EDB",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQQ043MDN6SVdzWk1sRGRTMV92RG1GelBqUS0xcXMzQ2RhV0hTNlNZblpBTHRKQjFKWHVxRk1aMWR0NE9YWElRNUFlVnJxdmdEaTg5NnB0cUNkUDNfZUpzRWtvempKWlp3alU5R2xtU0dTV2dKNzhhekUtV2thUmxHRDU2aXZqSHRWSG9sZWNCTUVEOFZSdkVRZEdqMkFzRW00ME1XTnFFVGpKTkpsVXZfMXNNNmV0REticGIwVzJ6MkxjWjJUdUQyMXJ5QnZfalpiMmVZUnBnZw?oc=5",
+      "publishedAt": "2026-10-07T07:00:00+00:00",
+      "summary": "新加坡经济发展局信息显示，家族办公室税务激励方案调整，并须在促进本地就业方面承担更多责任。",
+      "summaryZh": "新加坡经济发展局信息显示，家族办公室税务激励方案调整，并须在促进本地就业方面承担更多责任。",
+      "originalSummary": "Singapore adjusts tax incentives for family offices, which must also do more to boost local hires Singapore EDB",
+      "impact": "跨境家族办公室需重新评估新加坡税务激励条件、雇佣承诺和合规成本。",
+      "impactZh": "跨境家族办公室需重新评估新加坡税务激励条件、雇佣承诺和合规成本。",
+      "score": 71
+    },
+    {
+      "title": "新加坡与13国共同启动伙伴关系，承诺促进自由贸易与投资流动",
+      "titleZh": "新加坡与13国共同启动伙伴关系，承诺促进自由贸易与投资流动",
+      "originalTitle": "Singapore joins 13 countries to launch partnership committed to free trade and enhancing investment flows",
+      "region": "新加坡",
+      "topic": "主权基金",
+      "source": "Singapore Economic Development Board (EDB)",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNUVIyOGtJN2pPd2hxNnNTenBzT3lZMlVmYXV1NUZfemZjbU5pc2lNRTE0NkNldGh6bDZLekVDakRHZnRsdC1Wa01VR3NHYnhpc0JyWVJ0NmhLUlRjczFkWGpLZ2tCMjhrVU96V2JlbzF6TVdzZ3VWVkY2RkRqUGpVdE8tb09wSDBYcldYTnRhRmRiM2NNS1YxN0drRHhqWndpUTZsRmk0UXE0emxnSm1OY2xDLW9OdDJfeEY4LVJESkpRMlk?oc=5",
+      "publishedAt": "2026-10-05T07:00:00+00:00",
+      "summary": "新加坡参与13国伙伴关系，旨在推动自由贸易和增进投资流动。",
+      "summaryZh": "新加坡参与13国伙伴关系，旨在推动自由贸易和增进投资流动。",
+      "originalSummary": "Singapore joins 13 countries to launch partnership committed to free trade and enhancing investment flows Singapore Economic Development Board (EDB)",
+      "impact": "对依赖自由贸易和跨境投资的企业而言，该伙伴关系释放出加强经济联结的信号，但具体规则和执行细节仍待观察。",
+      "impactZh": "对依赖自由贸易和跨境投资的企业而言，该伙伴关系释放出加强经济联结的信号，但具体规则和执行细节仍待观察。",
+      "score": 71
+    },
+    {
+      "title": "新加坡检讨家族办公室名单，数字代币有望获得免税地位",
+      "titleZh": "新加坡检讨家族办公室名单，数字代币有望获得免税地位",
+      "originalTitle": "Digital tokens eye tax-exempt status as Singapore reviews family office list",
+      "region": "新加坡",
+      "topic": "税务与自由区",
+      "source": "Asian Banking & Finance",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOb2VUeV9QMDN3ZUFkbGg5RjdHTV9UanNfaC15UEdOUW9USEl6NTF2UUswWjhGTTh0Sk9rZHkyd0xYd0NkNFF3Z1UwcDhzTWtabTdKdmV3cDhWYnRUdFp5N3kyX2c2dXNsZEFzcnBmendJNDBnWC1IbFRxa3F3ck43NFJOdUt3T05rdk1DY0NGQ2ZEOTI0VGlka3dOX2c2Yl95cUwzNjl5d1dUTHhrbk80bjZ4UQ?oc=5",
+      "publishedAt": "2026-10-06T04:49:49+00:00",
+      "summary": "随着新加坡检讨家族办公室相关名单，数字代币正寻求获得免税待遇。",
+      "summaryZh": "随着新加坡检讨家族办公室相关名单，数字代币正寻求获得免税待遇。",
+      "originalSummary": "Digital tokens eye tax-exempt status as Singapore reviews family office list Asian Banking & Finance",
+      "impact": "若数字代币获得免税地位，可能影响新加坡家族办公室的资产配置和税务规划，但监管口径仍待明确。",
+      "impactZh": "若数字代币获得免税地位，可能影响新加坡家族办公室的资产配置和税务规划，但监管口径仍待明确。",
+      "score": 71
+    },
+    {
+      "title": "Investopia Bridge 2026在阿布扎比启动新经济对话",
+      "titleZh": "Investopia Bridge 2026在阿布扎比启动新经济对话",
+      "originalTitle": "Investopia Bridge 2026 launches new economy dialogues in Abu Dhabi",
+      "region": "阿联酋",
+      "topic": "经济政策",
+      "source": "www.wam.ae",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNLU5GSW9yUC1DaVpEc0ozYVJEOFNyQ0R3a3RZMGlMMnY1bGx2NTh3SG1NNkZOelhsQ0l2U1hpNk03a0NYN0VBM1c1VlF0VU1PcE9IM1l2a040TTlhclZRck1pUzFQVE9iU284dXF4aFJPdGVpS3VSSzc0cEpNOVRybzQ4ZVB2OXBL?oc=5",
+      "publishedAt": "2026-10-07T12:46:07+00:00",
+      "summary": "Investopia Bridge 2026在阿布扎比举行，推出围绕新经济的对话。",
+      "summaryZh": "Investopia Bridge 2026在阿布扎比举行，推出围绕新经济的对话。",
+      "originalSummary": "Investopia Bridge 2026 launches new economy dialogues in Abu Dhabi www.wam.ae",
+      "impact": "该活动有助于阿联酋吸引新经济领域投资和人才，并强化阿布扎比作为区域对话枢纽的角色。",
+      "impactZh": "该活动有助于阿联酋吸引新经济领域投资和人才，并强化阿布扎比作为区域对话枢纽的角色。",
+      "score": 68
+    },
+    {
+      "title": "稳定币收益监管：香港与新加坡的做法比较",
+      "titleZh": "稳定币收益监管：香港与新加坡的做法比较",
+      "originalTitle": "Regulating Stablecoin Yields: Hong Kong and Singapore Approaches",
+      "region": "香港",
+      "topic": "金融监管",
+      "source": "Regulation Asia",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNUEcyclFTS3JiM3FqQUNSRURVdUdkX0hILS04VEZpdlZ1NGV2RXl2U2JJTkZQdF9wSGc2RHRvS0xxQVl6MFljLWhhMEFfTXdvYVRiQWFHQWlOMWRqcnRoNmd5cXdQTVpIV1VGNXFjQ1hEUzJxT1VXQWk4NzVBa09rSlExd1dTYkRpOEhyajJJRlVzZ2t4T3N1YWNoWWcyTkJUb1o1RWZ3?oc=5",
+      "publishedAt": "2026-10-08T04:29:29+00:00",
+      "summary": "Regulation Asia刊文比较香港与新加坡在稳定币收益监管方面的不同路径。",
+      "summaryZh": "Regulation Asia刊文比较香港与新加坡在稳定币收益监管方面的不同路径。",
+      "originalSummary": "Regulating Stablecoin Yields: Hong Kong and Singapore Approaches Regulation Asia",
+      "impact": "跨境稳定币和数字资产企业需关注香港与新加坡在收益产品上的监管差异，以调整合规与产品设计。",
+      "impactZh": "跨境稳定币和数字资产企业需关注香港与新加坡在收益产品上的监管差异，以调整合规与产品设计。",
+      "score": 61
+    },
+    {
+      "title": "消息称贝恩资本探索投资香港新世界",
+      "titleZh": "消息称贝恩资本探索投资香港新世界",
+      "originalTitle": "Bain exploring investment in Hong Kong’s New World: sources",
+      "region": "香港",
+      "topic": "主权基金",
+      "source": "The Business Times",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOVVlRUjNPaV9yREhxR2xzQjBybTJ0MjlGZmpVMDlSZmN4c2tGeEl6TFRObEgtbXFhSGs0bzNkSGJGM0ZwNUo4Q2o5SXoydWxqMHRHRkJ5MTk2ODJER2hpQ3ZoQzgzVnNjalFIMWxCT0xCUWhoaXZGM3dIUXZ5VjYwMGQ4Q0R1YXp6SWtXZUthdDF4Yk9OdkRQcjRyQ2NFVUUzdXU1WnB6TEQ?oc=5",
+      "publishedAt": "2026-10-02T07:00:00+00:00",
+      "summary": "据消息人士，贝恩资本正在研究对香港新世界集团的投资。",
+      "summaryZh": "据消息人士，贝恩资本正在研究对香港新世界集团的投资。",
+      "originalSummary": "Bain exploring investment in Hong Kong’s New World: sources The Business Times",
+      "impact": "该潜在投资显示私募资本对香港资产仍有兴趣，但交易是否成行及具体条款尚不确定。",
+      "impactZh": "该潜在投资显示私募资本对香港资产仍有兴趣，但交易是否成行及具体条款尚不确定。",
+      "score": 61
+    },
+    {
+      "title": "全球财富架构：新加坡的家族办公室",
+      "titleZh": "全球财富架构：新加坡的家族办公室",
+      "originalTitle": "Structuring Global Wealth – Family Offices in Singapore",
+      "region": "新加坡",
+      "topic": "经济政策",
+      "source": "RÖDL",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNQlVtSHBjX3QzWXVvOTRDZTUtTHMtVEV2cVZUSHFLMy1Md0hjZkk2WG5IVThyZVhKNmlEbXJmamtxbE5kTWhxXzgyRkhFeHlINEpTSXVNN3p0V1N4RTNta2dIZl9SS2dJMDlRQnNOMm1ZT0sxZ1MtcU9nR0lFVzA2UGhiQ2VmTVhqNVEtR2RR?oc=5",
+      "publishedAt": "2026-10-01T07:00:00+00:00",
+      "summary": "RÖDL发布关于新加坡家族办公室与全球财富架构安排的内容。",
+      "summaryZh": "RÖDL发布关于新加坡家族办公室与全球财富架构安排的内容。",
+      "originalSummary": "Structuring Global Wealth – Family Offices in Singapore RÖDL",
+      "impact": "新加坡家族办公室制度继续被视为全球财富配置和传承规划的重要选项。",
+      "impactZh": "新加坡家族办公室制度继续被视为全球财富配置和传承规划的重要选项。",
+      "score": 61
+    },
+    {
+      "title": "新加坡元兑美元呈区间交易，市场关注金管局政策—华侨银行",
+      "titleZh": "新加坡元兑美元呈区间交易，市场关注金管局政策—华侨银行",
+      "originalTitle": "Singapore Dollar: Range trade against US Dollar with MAS in focus – OCBC",
+      "region": "新加坡",
+      "topic": "贸易与物流",
+      "source": "www.tmgm.com",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPR3NGYjg4RS1EWEx5TEVkNEZUREhrQ3Q0STVWZWZyeW9LT3B1MVJWd2lPa2F4aTU3WlpzRzlGZlBmdjBrYTFVX3d4WFVDNlprTW5uMUs5bnZnTHhOU2xudmw3dF9ySmFpVFJYQ0ROMlVLUjZ3bTVIMThPeF9fQ21DMWxUb2xnM2otU3VwYVVYYWU0SWRScGMzenFRSms5dGJsUFhaVkVWMHhZNWFNMDFpQzNqdG5WNlp2SGpBWTZUN1RVSVZReUY0WkpxSXhlSVp3R2Z1cw?oc=5",
+      "publishedAt": "2026-10-06T22:42:08+00:00",
+      "summary": "华侨银行分析指出，新加坡元兑美元维持区间交易，投资者聚焦新加坡金管局政策。",
+      "summaryZh": "华侨银行分析指出，新加坡元兑美元维持区间交易，投资者聚焦新加坡金管局政策。",
+      "originalSummary": "Singapore Dollar: Range trade against US Dollar with MAS in focus – OCBC www.tmgm.com",
+      "impact": "在新加坡金管局政策预期下，新加坡元短期或延续区间走势，企业需管理汇率风险。",
+      "impactZh": "在新加坡金管局政策预期下，新加坡元短期或延续区间走势，企业需管理汇率风险。",
+      "score": 61
+    },
+    {
+      "title": "坚持新加坡债券配置",
+      "titleZh": "坚持新加坡债券配置",
+      "originalTitle": "Staying the course with Singapore bonds",
+      "region": "新加坡",
+      "topic": "主权基金",
+      "source": "Eastspring Investments",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPVndaS1JrLXJqbE1CTktGWXpua05SdEx1YWRNMHI5RlpuUWtVbzZPVjhreDJWMGhHVmNyOWNmNlR3R3UtZTFtT3pNQ2RFRDlDVDdVZ1ZKdEdiY0VIMXhiQlZtOVBpRWNRRENIaHdGMHdLODEzazJtNXhSLS1TSm1yNHlEUlB4WVhzdXpaWG03UQ?oc=5",
+      "publishedAt": "2026-10-08T01:53:25+00:00",
+      "summary": "Eastspring Investments认为应坚持新加坡债券投资策略。",
+      "summaryZh": "Eastspring Investments认为应坚持新加坡债券投资策略。",
+      "originalSummary": "Staying the course with Singapore bonds Eastspring Investments",
+      "impact": "在利率与汇率波动背景下，新加坡债券可作为投资组合中的稳定收益来源之一。",
+      "impactZh": "在利率与汇率波动背景下，新加坡债券可作为投资组合中的稳定收益来源之一。",
+      "score": 61
+    },
+    {
+      "title": "特朗普关税：新加坡将成立工作组协助企业和工人，黄循财总理表示",
+      "titleZh": "特朗普关税：新加坡将成立工作组协助企业和工人，黄循财总理表示",
+      "originalTitle": "Trump tariffs: Singapore to form task force to help businesses and workers, says PM Wong",
+      "region": "新加坡",
+      "topic": "经济政策",
+      "source": "Singapore Economic Development Board (EDB)",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPaDJSMm1nbXlDRldqOFVDMW5Qa18ybTJHXzVXQTFWSGpBS1RJcEo1NXg3Nzhtc1BWNGdUU2hzb0UyWHFLam9hcjVRdVBrbEZTRW5TdGxER0FiVWxSWHA5aXNfM0l4MmFxSlpGWHFtOUM1cmNJLTBORlMxLXVXRFBQeHRFNmJvcGJBVFNqejhpQ1AtWk9VOGx5OGlPSmRzaVBTbWM4MlZmVjBnWEc1RU9XWDk4ZElNa24wZDVBM0ctVlhQVC1UZ045Si1B?oc=5",
+      "publishedAt": "2026-10-07T07:00:00+00:00",
+      "summary": "针对特朗普关税，新加坡总理黄循财称将设立工作组，为企业和工人提供支持。",
+      "summaryZh": "针对特朗普关税，新加坡总理黄循财称将设立工作组，为企业和工人提供支持。",
+      "originalSummary": "Trump tariffs: Singapore to form task force to help businesses and workers, says PM Wong Singapore Economic Development Board (EDB)",
+      "impact": "该工作组反映新加坡对贸易保护主义冲击的应对，跨境企业可关注相关援助与调整政策。",
+      "impactZh": "该工作组反映新加坡对贸易保护主义冲击的应对，跨境企业可关注相关援助与调整政策。",
+      "score": 61
+    },
+    {
+      "title": "保险业一周：苏黎世完成Beazley交易、宏利32亿美元准备金再保险、新加坡检讨税务规则",
+      "titleZh": "保险业一周：苏黎世完成Beazley交易、宏利32亿美元准备金再保险、新加坡检讨税务规则",
+      "originalTitle": "This week in insurance: Zurich completes Beazley deal, Manulife reinsures $3.2b in reserves, Singapore reviews tax rules",
+      "region": "新加坡",
+      "topic": "税务与自由区",
+      "source": "Insurance Asia",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNZVBlYUFCdXFqYThweUJMLWdSM1ZrRGpsQzhfVzRQMXVsU1dxNTE4S1pROHlNMXpWaEhaN19TZENvN1JxMzhRaG9GRHFMZ1BDQ1hnM2lxdTZvSWR0YnBKV01tWjB3ZmRwajZOZzRLRDRObGkwM015TnRVNXJwZ3lIVzRYdkFKSmN2ci1SRHh5anlfTEJwM1lmenJHbWFDZDNvWHhPR1ZkcXo5c0FTdHlDWmd6X1NwTHp5WUEyVWVIVklwRGhJQUpnVXNzb1l1UmdBbXRZb1BnaUhmc01XVzgycDJudzlKUQ?oc=5",
+      "publishedAt": "2026-10-09T21:00:00+00:00",
+      "summary": "Insurance Asia汇总：苏黎世完成Beazley交易，宏利为32亿美元准备金安排再保险，新加坡检讨税务规则。",
+      "summaryZh": "Insurance Asia汇总：苏黎世完成Beazley交易，宏利为32亿美元准备金安排再保险，新加坡检讨税务规则。",
+      "originalSummary": "This week in insurance: Zurich completes Beazley deal, Manulife reinsures $3.2b in reserves, Singapore reviews tax rules Insurance Asia",
+      "impact": "新加坡税务规则检讨可能影响保险及家族办公室相关架构，区域保险市场交易活动亦持续。",
+      "impactZh": "新加坡税务规则检讨可能影响保险及家族办公室相关架构，区域保险市场交易活动亦持续。",
+      "score": 61
+    },
+    {
+      "title": "阿联酋在截止期限临近之际解释跨国企业税务规则",
+      "titleZh": "阿联酋在截止期限临近之际解释跨国企业税务规则",
+      "originalTitle": "UAE explains multinational tax rules as deadline looms",
+      "region": "阿联酋",
+      "topic": "税务与自由区",
+      "source": "Gulf Business",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPdVk1Nnl6OU5UQ0FLUEVPYlhtRnpDVkNpdmw0M1EwOWF6V0ZPTDRQYVRwalZmRjFhUEtIdnlTdWVoNXVTUDdIY0sycFByczZaNGJlUm52TzFwXzhtMU9KZmRoUTBDMV9jeVVtSk5Sc0JwbTlhX0o0Rmx4RnZaS1lFRzVMbnJyTHJ4WjhLb3B3VQ?oc=5",
+      "publishedAt": "2026-10-07T19:38:47+00:00",
+      "summary": "阿联酋在申报截止期限临近之际，就跨国企业税务规则作出说明。",
+      "summaryZh": "阿联酋在申报截止期限临近之际，就跨国企业税务规则作出说明。",
+      "originalSummary": "UAE explains multinational tax rules as deadline looms Gulf Business",
+      "impact": "在截止期限前明确规则有助于企业准备申报与合规，但未合规可能面临风险。",
+      "impactZh": "在截止期限前明确规则有助于企业准备申报与合规，但未合规可能面临风险。",
+      "score": 61
+    },
+    {
+      "title": "从阿联酋移居印度？六步财务回归指南：管理税务居民身份、银行账户与Du",
+      "titleZh": "从阿联酋移居印度？六步财务回归指南：管理税务居民身份、银行账户与Du",
+      "originalTitle": "Moving from UAE to India? 6-step financial homecoming guidebook to manage tax residency, bank accounts, Du",
+      "region": "阿联酋",
+      "topic": "税务与自由区",
+      "source": "The Economic Times",
+      "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxQMWE3MGtnMmNYdHRRajBkN2N6d1lwNWdoRVE4UkwtWG1XeU1hZUs5UVdudDI1alhTODZKcHB3QTFPN01nYW8wWkhTZ2J4cXJ2bzRxZVE2VkxhSzdnUUIza0hGWm56d3hPdDhUUDdRV3ZJZktpeXc1UmZxbnZ4SFdpOXFKSGhoa1Nyc2xWNHczTkkxUWxpSEdPYmZ6Nnp4c1ZYMXlTVldiVk9NWkFxbjY4WUNVaE5CQjRyT0VNT3FnVjFINjJ5d0YzR2FSS1B1bnZxOXRDT2NLUE1lcXVTZ0syTTZzQ043ZXZNalVYX01PSWMwM0k0YjEyTHlzeHNpRFhhcGQxbHNTTXh1UjRleG51czB1ckhrZU01NG9OS3BoONIBpAJBVV95cUxPQWNCNmNKRnJxSlljOG8xc0x6dlc1MGlJT0ljenVXWWRUYk9qakZPZ3lfUDVRX21RM1lHb0RIV1dhck1mSjRrWHdQWGFYVDU2SnhnakdkVWhiNDlzRmhBMnR4MEVac05rdmR0V3BWWXBuRHljNWdZbXhMNXJlV1AwYzJmdXlybVU2VmZoZGZfdHYxMkstT1V4Ui1mX0c1TkVlbGxQT2E5V1pHYVYwcXhBYU54a2s0UnIxV0lRazZxT2JFSmY4ZW5QaFRVQU1OTGVaUTNvS3F2endFQ3Rxa3BiQ2ZCSzBYR2dlVTBrUnkzRGNXdHFKd05WbmhjcWJjOWExNG9PX3pCbm01anloZVBsMmZQRC1KNzYwTm51MVNqMHhKYVpU?oc=5",
+      "publishedAt": "2026-09-28T07:00:00+00:00",
+      "summary": "《经济时报》发布六步财务回归指南，帮助从阿联酋移居印度的人管理税务居民身份、银行账户与Du。",
+      "summaryZh": "《经济时报》发布六步财务回归指南，帮助从阿联酋移居印度的人管理税务居民身份、银行账户与Du。",
+      "originalSummary": "Moving from UAE to India? 6-step financial homecoming guidebook to manage tax residency, bank accounts, Du The Economic Times",
+      "impact": "个人从阿联酋迁往印度需关注税务居民身份变化、银行账户和资产申报，以避免双重征税或合规问题。",
+      "impactZh": "个人从阿联酋迁往印度需关注税务居民身份变化、银行账户和资产申报，以避免双重征税或合规问题。",
+      "score": 61
+    },
+    {
+      "title": "Banqup集团获阿联酋联邦税务局Peppol Corner 5接入点合同，支持财政部电子发票计划",
+      "titleZh": "Banqup集团获阿联酋联邦税务局Peppol Corner 5接入点合同，支持财政部电子发票计划",
+      "originalTitle": "Banqup Group secures Peppol Corner 5 Access Point contract with the UAE Federal Tax Authority, supporting implementation under the UAE Ministry of Finance eInvoicing programme",
+      "region": "阿联酋",
+      "topic": "税务与自由区",
+      "source": "The Manila Times",
+      "url": "https://news.google.com/rss/articles/CBMi5wJBVV95cUxPRHhrU2FVMlhwRmFvcm1XNTBmNkQtMkpMZjlOX0E4T1hCeTZZUFA1bThOUU5fNEVqRUpZanNiY1EtRHVTclh0OGJfT3NwanV0Q0ZoMWpRQldBM041YW94cWliTkxRTFR0ZFBUQnh1SldMTGt2ekR1MkFkLXUyQlRyWlFraUNWaERkTld1ODZMaXNpTDcybURnajJVdjZJTnkyc1l0ODZTWUZMcUxWUVIybG5tQWdwa1p2Z1kwaDdoS3pGQm5pZzExVjIteEF4ZlF0NEQ2cmlhak5fajR2OGRycm4yaXhYcEJtVVpmY3AxRExDTTAwT2VOcVluMUc5QXFnLXRYZTYzLWgtd2hpUkxfQzVKTV9OQ3RjOHExWFBwZGVxYjc2QnRaLUdEVlQ3Z19HVWc1VXRnQU05Nlpsal8xU2puWks1clhqRWFqV0dyTncxdlJNNXkyeDRSdU5WRktVbGl3Zndpc9IB7AJBVV95cUxPcmlEdUZPbmdBbFhyOGtmbThBdm14N3V0UEozYkFTUUJUUjZuT3EzTE1vcUZ5Y19DOTJERWNmM3BZZmxQNkNzcmVnek9DWDB6SEtLaU9Xa0VvaGhkWWpzMGJxUjNpTGYzNDJMOHlKMnQxNW1Ic2J6R3hMb0RzYzk4OTVaWUxfUzF0N1pKbGFQV2tqWVNjTlBqUUpZdnE1cmZIN09zUFM2al9GeExTcjBCZkR6VlV0NE8zWnZUT0dwc3dYaUNfY25hZkhjMzZpNXJaZndfckJCamhwTHVoUkU0UWlGZHR4aDBNa0VnaVZfMkJ3cXZ0b1Y5Uy00b2RqMzZ1WkZhWUVuZ2VYTjRZZzRkdnZzcmFUU21tTkEtWUVQRXJSNG9LRE5SQTg5c2lhVXMzbTQzZm54LUJINlBXeHNrVGJkbndvSDE5MTNuSTZRenFQT1d1cnJLRW1PSEFpWlVxYXhtNmxvbnFNMGF3?oc=5",
+      "publishedAt": "2026-09-28T05:04:38+00:00",
+      "summary": "Banqup Group取得与阿联酋联邦税务局的Peppol Corner 5接入点合同，以支持财政部电子发票计划。",
+      "summaryZh": "Banqup Group取得与阿联酋联邦税务局的Peppol Corner 5接入点合同，以支持财政部电子发票计划。",
+      "originalSummary": "Banqup Group secures Peppol Corner 5 Access Point contract with the UAE Federal Tax Authority, supporting implementation under the UAE Ministry of Finance eInvoicing programme The Manila Times",
+      "impact": "该合同表明阿联酋正推进电子发票计划，企业需为电子开票和税务数字化做好准备。",
+      "impactZh": "该合同表明阿联酋正推进电子发票计划，企业需为电子开票和税务数字化做好准备。",
+      "score": 61
+    },
+    {
+      "title": "阿联酋公布跨国企业新税务规则",
+      "titleZh": "阿联酋公布跨国企业新税务规则",
+      "originalTitle": "UAE reveals new tax rules for multinationals",
+      "region": "阿联酋",
+      "topic": "税务与自由区",
+      "source": "Arabian Business",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPUGlkVURJaGtJWTNGX3p0SGJHRnBkN1lwdnVIV29Ud2ZsUTdOMDdNcVlXY1pCWk01MkRhWjlMOFh1dXdtaVhtQ09UVkV5YXpBSzlKeml6VnZoTVhmMGJwVWVEZ21nQ3pkbUFsVVZKMDQxeC13U0tQZkd2LWxwemt2RDc4eU83OVg3YzJxNVJR?oc=5",
+      "publishedAt": "2026-10-07T11:24:08+00:00",
+      "summary": "阿联酋发布面向跨国企业的新税务规则。",
+      "summaryZh": "阿联酋发布面向跨国企业的新税务规则。",
+      "originalSummary": "UAE reveals new tax rules for multinationals Arabian Business",
+      "impact": "企业需审查在阿联酋的税务申报、利润归属和合规安排，以适应新规则。",
+      "impactZh": "企业需审查在阿联酋的税务申报、利润归属和合规安排，以适应新规则。",
+      "score": 61
+    },
+    {
+      "title": "阿联酋增值税规则调整：企业可就六类员工费用抵扣税款",
+      "titleZh": "阿联酋增值税规则调整：企业可就六类员工费用抵扣税款",
+      "originalTitle": "UAE VAT rules change: Businesses can recover tax on 6 employee expenses",
+      "region": "阿联酋",
+      "topic": "税务与自由区",
+      "source": "Arabian Business",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQYVhnejM0VEVLWFl5WnRZcG5fOWVkUUphdENOcEx6TDYtRkxXQ3NSN2d1aW81dlZ1S3l1Z1E2WWxfSXlodUg5NGxKOWJaN0NiNDQwb0tMWXlxY29BOFlTMVlMMmNDR2RXSWVTM1QySW8yV3N6ZkhsMmdwQnhQRzlhNFVaVlh4YXRzZVluME5zWTFlNTFQeXZj?oc=5",
+      "publishedAt": "2026-10-07T01:45:43+00:00",
+      "summary": "阿联酋调整增值税规则，允许企业就六类员工相关费用进行税款抵扣。",
+      "summaryZh": "阿联酋调整增值税规则，允许企业就六类员工相关费用进行税款抵扣。",
+      "originalSummary": "UAE VAT rules change: Businesses can recover tax on 6 employee expenses Arabian Business",
+      "impact": "符合条件的企业可关注员工费用增值税抵扣，以优化税务成本，但需确认具体适用范围。",
+      "impactZh": "符合条件的企业可关注员工费用增值税抵扣，以优化税务成本，但需确认具体适用范围。",
+      "score": 61
+    }
+  ],
+  "regions": [
+    {
+      "region": "香港",
+      "count": 3,
+      "topics": [
+        "税务与自由区",
+        "金融监管",
+        "主权基金"
+      ],
+      "summary": "香港金管局发布税务宽减与激励计划信息；稳定币收益监管受比较；贝恩资本被指探索投资新世界。"
+    },
+    {
+      "region": "新加坡",
+      "count": 9,
+      "topics": [
+        "主权基金",
+        "税务与自由区",
+        "经济政策",
+        "贸易与物流"
+      ],
+      "summary": "新加坡密集调整家族办公室与税务规则，讨论数字代币免税、加入自由贸易伙伴关系，并应对特朗普关税。"
+    },
+    {
+      "region": "阿联酋",
+      "count": 6,
+      "topics": [
+        "经济政策",
+        "税务与自由区"
+      ],
+      "summary": "阿联酋推进跨国企业税务规则、增值税调整和电子发票计划，并举办Investopia Bridge 2026新经济对话。"
+    },
+    {
+      "region": "海湾国家",
+      "count": 6,
+      "topics": [
+        "经济政策",
+        "税务与自由区"
+      ],
+      "summary": "本批海湾国家相关报道均涉及阿联酋，重点关注跨国企业税务、增值税、电子发票与投资对话平台。"
+    }
+  ],
+  "analysis": [
+    {
+      "label": "家族办公室",
+      "title": "新加坡家族办公室规则进入密集调整期",
+      "body": "本批新闻显示，新加坡在家族办公室领域同时推进多项变化：金融管理局可能将保险保单和数字支付代币纳入单一家族办公室指定投资资产；税务激励方案调整，并要求加大本地招聘；数字代币寻求免税地位；保险业税务规则也在检讨。整体看，新加坡在继续吸引全球财富的同时，更强调本地就业和经济贡献。跨境家族办公室应关注资产范围、税务豁免条件和雇佣要求的变化。"
+    },
+    {
+      "label": "税务与合规",
+      "title": "阿联酋税制改革提速，跨国企业合规压力上升",
+      "body": "阿联酋在跨国公司税务规则、增值税抵扣、电子发票和税务居民迁移方面均有新动态。规则解释与截止期限临近，企业需要更新申报、利润归属、员工费用抵扣和电子开票流程。Banqup获得联邦税务局Peppol接入点合同，也显示电子发票计划正在推进。"
+    },
+    {
+      "label": "自由贸易",
+      "title": "自由贸易与关税应对成为跨境投资主线",
+      "body": "新加坡与13国启动伙伴关系，承诺促进自由贸易和投资流动；同时，特朗普关税促使新加坡成立工作组协助企业和工人。两则新闻反映，区域经济体一方面拓展自由贸易合作，另一方面也在为贸易保护主义冲击做准备。"
+    },
+    {
+      "label": "监管与市场",
+      "title": "香港与新加坡在稳定币收益和汇率政策上各有焦点",
+      "body": "Regulation Asia比较香港与新加坡对稳定币收益的监管路径；新加坡元兑美元呈区间交易，市场关注金管局政策。对跨境金融机构而言，数字资产收益产品的监管差异和新加坡元汇率走势是需要持续跟踪的变量。"
+    },
+    {
+      "label": "投资与资产",
+      "title": "香港资产与新加坡债券仍受关注",
+      "body": "贝恩资本被指探索投资香港新世界，显示私募资本对香港资产存在兴趣；Eastspring Investments则讨论坚持新加坡债券配置。香港金管局的税务宽减与激励计划信息，也为在港投资提供税务参考。"
+    },
+    {
+      "label": "区域平台",
+      "title": "阿布扎比继续搭建新经济对话平台",
+      "body": "Investopia Bridge 2026在阿布扎比启动新经济对话，显示阿联酋继续通过会议和投资平台吸引新经济领域关注。结合税务与电子发票改革，阿联酋正同步推进投资开放与税务合规。"
+    }
+  ],
+  "broadcastScript": {
+    "anchorName": "岚序",
+    "date": "2026-10-11",
+    "headline": "香港、新加坡与阿联酋：税务激励、家族办公室与自由贸易动态",
+    "intro": "各位观众大家好，欢迎收看岚序财经。今天是2026年10月11日。接下来为您播报今日亚洲与海湾地区财经要点。",
+    "segments": [
+      {
+        "title": "今日概览",
+        "text": "本批新闻聚焦香港、新加坡、阿联酋及海湾国家的税务激励、家族办公室规则、自由贸易合作、稳定币监管与市场资产配置。新加坡在家族办公室税务与投资资产范围上密集调整，阿联酋推进跨国企业税务、增值税和电子发票规则，香港则涉及税务宽减、稳定币收益监管及私募投资动态。"
+      },
+      {
+        "title": "香港金管局列示税务宽减与激励计划",
+        "text": "第1条，香港香港金管局列示税务宽减与激励计划。香港金融管理局网站列示税务宽减及激励计划，供企业及投资者参考。影响方面，香港税务宽减与激励计划信息是企业在港设立或扩展业务时评估税负与优惠的重要参考。"
+      },
+      {
+        "title": "新加坡金管局拟将保单与数字支付代币纳入单一家族办公室指定投资资产",
+        "text": "第2条，新加坡新加坡金管局拟将保单与数字支付代币纳入单一家族办公室指定投资资产。新加坡金管局考虑扩大单一家族办公室指定投资资产范围，保险保单和数字支付代币可能被纳入。影响方面，这可能拓宽新加坡单一家族办公室的可投资资产类别，但相关合规与税务认定仍需以金管局最终规则为准。"
+      },
+      {
+        "title": "新加坡调整家族办公室税务激励，并要求加大本地招聘",
+        "text": "第3条，新加坡新加坡调整家族办公室税务激励，并要求加大本地招聘。新加坡经济发展局信息显示，家族办公室税务激励方案调整，并须在促进本地就业方面承担更多责任。影响方面，跨境家族办公室需重新评估新加坡税务激励条件、雇佣承诺和合规成本。"
+      },
+      {
+        "title": "新加坡与13国共同启动伙伴关系，承诺促进自由贸易与投资流动",
+        "text": "第4条，新加坡新加坡与13国共同启动伙伴关系，承诺促进自由贸易与投资流动。新加坡参与13国伙伴关系，旨在推动自由贸易和增进投资流动。影响方面，对依赖自由贸易和跨境投资的企业而言，该伙伴关系释放出加强经济联结的信号，但具体规则和执行细节仍待观察。"
+      },
+      {
+        "title": "新加坡检讨家族办公室名单，数字代币有望获得免税地位",
+        "text": "第5条，新加坡新加坡检讨家族办公室名单，数字代币有望获得免税地位。随着新加坡检讨家族办公室相关名单，数字代币正寻求获得免税待遇。影响方面，若数字代币获得免税地位，可能影响新加坡家族办公室的资产配置和税务规划，但监管口径仍待明确。"
+      }
+    ],
+    "outro": "今日重点，香港、新加坡与阿联酋：税务激励、家族办公室与自由贸易动态。感谢收看岚序财经，我们明天见。"
+  }
+}
