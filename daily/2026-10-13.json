@@ -1,0 +1,418 @@
+{
+  "date": "2026-10-13",
+  "generatedAt": "2026-10-13T00:00:00+08:00",
+  "status": "published",
+  "headline": "香港、新加坡与阿联酋：家族办公室、稳定币监管与跨国税制成焦点",
+  "summary": "2026年10月13日新闻列表显示，新加坡在家族办公室资产范围、自由贸易伙伴关系、关税应对与保险税制审查方面动态较多；香港聚焦强积金税务认定、稳定币收益监管及私募投资；阿联酋则集中发布跨国企业税收规则并推进新经济对话。",
+  "metrics": {
+    "totalStories": 18,
+    "regions": {
+      "新加坡": 12,
+      "香港": 3,
+      "阿联酋": 3
+    },
+    "topics": {
+      "主权基金": 5,
+      "税务与自由区": 4,
+      "经济政策": 3,
+      "贸易与物流": 3,
+      "金融监管": 2,
+      "能源与产业投资": 1
+    },
+    "topScore": 71,
+    "averageScore": 62.5,
+    "highPriorityStories": 3,
+    "articles": 18,
+    "hotspots": 5
+  },
+  "topStories": [
+    {
+      "title": "新加坡金管局或将保险保单与数字支付代币纳入单一家族办公室指定投资资产",
+      "titleZh": "新加坡金管局或将保险保单与数字支付代币纳入单一家族办公室指定投资资产",
+      "originalTitle": "MAS may include insurance policies, digital payment tokens as Designated Investment assets for single family offices",
+      "region": "新加坡",
+      "topic": "主权基金",
+      "source": "Yahoo Finance Singapore",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQdHg5UzhDLUMwYW5tNG96V2pSZndiVTlPWXV6N3J4OEtkWG1mLUpNOVFGdzV0QVRPanNkRUZhaEZMcGNaRmw4djhNMVcwTzJTMW9ieWdfNC1ZVUFyRW9qSktQcUtiRzhOSnRZNW1uUk5VTUhSSFBUazg4LXd4YTBVZVYzQjBFUndJWUd3?oc=5",
+      "publishedAt": "2026-10-05T01:03:00+00:00",
+      "summary": "有报道称，新加坡金融管理局可能将保险保单和数字支付代币纳入单一家族办公室的指定投资资产范围。",
+      "summaryZh": "有报道称，新加坡金融管理局可能将保险保单和数字支付代币纳入单一家族办公室的指定投资资产范围。",
+      "originalSummary": "MAS may include insurance policies, digital payment tokens as Designated Investment assets for single family offices Yahoo Finance Singapore",
+      "impact": "若政策调整落地，将扩大家族办公室可配置资产类别，影响新加坡家办税务优惠安排、保险及数字资产相关服务需求，并提高合规要求。",
+      "impactZh": "若政策调整落地，将扩大家族办公室可配置资产类别，影响新加坡家办税务优惠安排、保险及数字资产相关服务需求，并提高合规要求。",
+      "score": 71
+    },
+    {
+      "title": "新加坡与13国共同启动自由贸易与投资流动伙伴关系",
+      "titleZh": "新加坡与13国共同启动自由贸易与投资流动伙伴关系",
+      "originalTitle": "Singapore joins 13 countries to launch partnership committed to free trade and enhancing investment flows",
+      "region": "新加坡",
+      "topic": "主权基金",
+      "source": "Singapore Economic Development Board (EDB)",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNUVIyOGtJN2pPd2hxNnNTenBzT3lZMlVmYXV1NUZfemZjbU5pc2lNRTE0NkNldGh6bDZLekVDakRHZnRsdC1Wa01VR3NHYnhpc0JyWVJ0NmhLUlRjczFkWGpLZ2tCMjhrVU96V2JlbzF6TVdzZ3VWVkY2RkRqUGpVdE8tb09wSDBYcldYTnRhRmRiM2NNS1YxN0drRHhqWndpUTZsRmk0UXE0emxnSm1OY2xDLW9OdDJfeEY4LVJESkpRMlk?oc=5",
+      "publishedAt": "2026-10-05T07:00:00+00:00",
+      "summary": "新加坡加入13个国家发起的伙伴关系，相关伙伴关系承诺促进自由贸易并增强投资流动。",
+      "summaryZh": "新加坡加入13个国家发起的伙伴关系，相关伙伴关系承诺促进自由贸易并增强投资流动。",
+      "originalSummary": "Singapore joins 13 countries to launch partnership committed to free trade and enhancing investment flows Singapore Economic Development Board (EDB)",
+      "impact": "该伙伴关系可能强化跨境贸易与投资合作，为区域供应链、投资便利化和多边经贸协作提供新平台。",
+      "impactZh": "该伙伴关系可能强化跨境贸易与投资合作，为区域供应链、投资便利化和多边经贸协作提供新平台。",
+      "score": 71
+    },
+    {
+      "title": "阿布扎比启动Investopia Bridge 2026，推动新经济对话",
+      "titleZh": "阿布扎比启动Investopia Bridge 2026，推动新经济对话",
+      "originalTitle": "Investopia Bridge 2026 launches new economy dialogues in Abu Dhabi",
+      "region": "阿联酋",
+      "topic": "经济政策",
+      "source": "www.wam.ae",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNLU5GSW9yUC1DaVpEc0ozYVJEOFNyQ0R3a3RZMGlMMnY1bGx2NTh3SG1NNkZOelhsQ0l2U1hpNk03a0NYN0VBM1c1VlF0VU1PcE9IM1l2a040TTlhclZRck1pUzFQVE9iU284dXF4aFJPdGVpS3VSSzc0cEpNOVRybzQ4ZVB2OXBL?oc=5",
+      "publishedAt": "2026-10-07T12:46:07+00:00",
+      "summary": "Investopia Bridge 2026在阿布扎比启动，围绕新经济议题展开对话。",
+      "summaryZh": "Investopia Bridge 2026在阿布扎比启动，围绕新经济议题展开对话。",
+      "originalSummary": "Investopia Bridge 2026 launches new economy dialogues in Abu Dhabi www.wam.ae",
+      "impact": "该活动有助于阿联酋汇聚新经济与投资议题讨论，提升阿布扎比作为区域经济对话和投资合作平台的角色。",
+      "impactZh": "该活动有助于阿联酋汇聚新经济与投资议题讨论，提升阿布扎比作为区域经济对话和投资合作平台的角色。",
+      "score": 68
+    },
+    {
+      "title": "香港强积金是否属于“离岸信托”？上海税务官员似持此看法",
+      "titleZh": "香港强积金是否属于“离岸信托”？上海税务官员似持此看法",
+      "originalTitle": "Is Hong Kong’s MPF an ‘offshore trust’? Shanghai tax officials seem to think so",
+      "region": "香港",
+      "topic": "税务与自由区",
+      "source": "South China Morning Post",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNOHBwbTR6RmdnbFhIc1FONVBhZ2kwd0tSTWllNk9VdVBDUXJTNnVkeC1RUlRRYVZIYXVRNTI3Ui1DREM0TXB6SzItckM0QjI2VEpaQTI0QnBKZ2FwTnVubDZqSUlLcEJFWHVlSE9ESDJWUTVaMFV4bG1sMWFra05BTzM1TGlKMzZWSFN6U3BiU01BN2RFQVBwWEp4WjNkclJCSW9acXVwazhKSmdQbkkxVk1jSEl1d3hqYzQwa1BrT2x1QVkwWGVCSWs0UWljZGZTNlHSAdIBQVVfeXFMTThwcG00ekZnZ2xYSHNRTjVQYWdpMHdLUk1pZTZPVXVQQ1FyUzZ1ZHgtUVJUUWFWSGF1UTUyN1ItQ0RDNE1weksyLXJDNEIyNlRKWkEyNEJwSmdhcE51bmw2aklJS3BCRVh1ZUhPREgyVlE1WjBVeGxtbDFha2tOQU8zNUxpSjM2VkhTelNwYlNNQTdkRUFQcFhKeFozZHJSQklvWnF1cGs4SkpnUG5JMVZNY0hJdXd4amM0MGtQa09sdUFZMFhlQklrNFFpY2RmUzZR?oc=5",
+      "publishedAt": "2026-10-11T09:00:11+00:00",
+      "summary": "有报道指出，上海税务官员似乎认为香港强积金属于“离岸信托”，引发对其税务认定的关注。",
+      "summaryZh": "有报道指出，上海税务官员似乎认为香港强积金属于“离岸信托”，引发对其税务认定的关注。",
+      "originalSummary": "Is Hong Kong’s MPF an ‘offshore trust’? Shanghai tax officials seem to think so South China Morning Post",
+      "impact": "若相关认定影响实际税务处理，可能涉及在沪港人、跨境企业及强积金供款的税务合规，凸显两地税收规则差异。",
+      "impactZh": "若相关认定影响实际税务处理，可能涉及在沪港人、跨境企业及强积金供款的税务合规，凸显两地税收规则差异。",
+      "score": 61
+    },
+    {
+      "title": "香港与新加坡的稳定币收益监管路径",
+      "titleZh": "香港与新加坡的稳定币收益监管路径",
+      "originalTitle": "Regulating Stablecoin Yields: Hong Kong and Singapore Approaches",
+      "region": "香港",
+      "topic": "金融监管",
+      "source": "Regulation Asia",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNUEcyclFTS3JiM3FqQUNSRURVdUdkX0hILS04VEZpdlZ1NGV2RXl2U2JJTkZQdF9wSGc2RHRvS0xxQVl6MFljLWhhMEFfTXdvYVRiQWFHQWlOMWRqcnRoNmd5cXdQTVpIV1VGNXFjQ1hEUzJxT1VXQWk4NzVBa09rSlExd1dTYkRpOEhyajJJRlVzZ2t4T3N1YWNoWWcyTkJUb1o1RWZ3?oc=5",
+      "publishedAt": "2026-10-08T04:29:29+00:00",
+      "summary": "报道比较香港和新加坡对稳定币收益的监管方式。",
+      "summaryZh": "报道比较香港和新加坡对稳定币收益的监管方式。",
+      "originalSummary": "Regulating Stablecoin Yields: Hong Kong and Singapore Approaches Regulation Asia",
+      "impact": "监管取向将影响稳定币产品设计、收益安排与交易平台合规，并关系香港和新加坡数字资产市场竞争格局。",
+      "impactZh": "监管取向将影响稳定币产品设计、收益安排与交易平台合规，并关系香港和新加坡数字资产市场竞争格局。",
+      "score": 61
+    },
+    {
+      "title": "贝恩资本据悉探讨投资香港新世界发展",
+      "titleZh": "贝恩资本据悉探讨投资香港新世界发展",
+      "originalTitle": "Bain exploring investment in Hong Kong’s New World: sources",
+      "region": "香港",
+      "topic": "主权基金",
+      "source": "The Business Times",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOVVlRUjNPaV9yREhxR2xzQjBybTJ0MjlGZmpVMDlSZmN4c2tGeEl6TFRObEgtbXFhSGs0bzNkSGJGM0ZwNUo4Q2o5SXoydWxqMHRHRkJ5MTk2ODJER2hpQ3ZoQzgzVnNjalFIMWxCT0xCUWhoaXZGM3dIUXZ5VjYwMGQ4Q0R1YXp6SWtXZUthdDF4Yk9OdkRQcjRyQ2NFVUUzdXU1WnB6TEQ?oc=5",
+      "publishedAt": "2026-10-02T07:00:00+00:00",
+      "summary": "消息人士称，贝恩资本正在探讨投资香港新世界发展。",
+      "summaryZh": "消息人士称，贝恩资本正在探讨投资香港新世界发展。",
+      "originalSummary": "Bain exploring investment in Hong Kong’s New World: sources The Business Times",
+      "impact": "若交易推进，可能影响香港房地产与企业重组相关投资情绪，并为私募资本参与香港大型企业资本运作提供观察窗口。",
+      "impactZh": "若交易推进，可能影响香港房地产与企业重组相关投资情绪，并为私募资本参与香港大型企业资本运作提供观察窗口。",
+      "score": 61
+    },
+    {
+      "title": "尼日利亚央行在新加坡交流期间深化与亚洲金融联系",
+      "titleZh": "尼日利亚央行在新加坡交流期间深化与亚洲金融联系",
+      "originalTitle": "ZAWYA: Central Bank of Nigeria deepens financial ties with Asia during Singapore engagements",
+      "region": "新加坡",
+      "topic": "金融监管",
+      "source": "TradingView",
+      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxONG9pYjlDVEp3cW5hVFpSSGRfcFlQdktBVU5tanlETXhqMEsxdjhpZURiaTgwWWtGd1BKZnFhWk84RDFwaTd2MHNudUpBZlRuVG41R1VSZGJXSVlXeUNLLXRIS0VDOG05aENtN1NvSlNwd1hhT0hKaGtJUnZCSmV1QWRqTVowblpFSGUzbS13YmJaY3d6VlpEVXJyUHE3SVBiUTJLc3Y1LUVMTlgyQnlrUDNwakpkOVpab0dBZUtMbk1SN0hUR1RWRkJKN2w2NkxlN3dvbWNMTXVlbEs3dTV4U3gwbmVMeVFzSzhPdUdsd0hoZlRjTkN6OWZTTQ?oc=5",
+      "publishedAt": "2026-10-12T11:32:58+00:00",
+      "summary": "报道称，尼日利亚央行在新加坡交流期间深化与亚洲的金融联系。",
+      "summaryZh": "报道称，尼日利亚央行在新加坡交流期间深化与亚洲的金融联系。",
+      "originalSummary": "ZAWYA: Central Bank of Nigeria deepens financial ties with Asia during Singapore engagements TradingView",
+      "impact": "此举可能促进非洲与亚洲之间的跨境金融合作，涉及支付、投资与监管交流等领域。",
+      "impactZh": "此举可能促进非洲与亚洲之间的跨境金融合作，涉及支付、投资与监管交流等领域。",
+      "score": 61
+    },
+    {
+      "title": "全球财富架构：新加坡家族办公室",
+      "titleZh": "全球财富架构：新加坡家族办公室",
+      "originalTitle": "Structuring Global Wealth – Family Offices in Singapore",
+      "region": "新加坡",
+      "topic": "经济政策",
+      "source": "RÖDL",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNQlVtSHBjX3QzWXVvOTRDZTUtTHMtVEV2cVZUSHFLMy1Md0hjZkk2WG5IVThyZVhKNmlEbXJmamtxbE5kTWhxXzgyRkhFeHlINEpTSXVNN3p0V1N4RTNta2dIZl9SS2dJMDlRQnNOMm1ZT0sxZ1MtcU9nR0lFVzA2UGhiQ2VmTVhqNVEtR2RR?oc=5",
+      "publishedAt": "2026-10-01T07:00:00+00:00",
+      "summary": "文章讨论在新加坡设立家族办公室与全球财富架构安排。",
+      "summaryZh": "文章讨论在新加坡设立家族办公室与全球财富架构安排。",
+      "originalSummary": "Structuring Global Wealth – Family Offices in Singapore RÖDL",
+      "impact": "新加坡家族办公室生态持续受到专业机构关注，可能推动财富管理、税务与合规服务需求。",
+      "impactZh": "新加坡家族办公室生态持续受到专业机构关注，可能推动财富管理、税务与合规服务需求。",
+      "score": 61
+    },
+    {
+      "title": "华侨银行：新加坡元兑美元呈区间交易，市场关注金管局",
+      "titleZh": "华侨银行：新加坡元兑美元呈区间交易，市场关注金管局",
+      "originalTitle": "Singapore Dollar: Range trade against US Dollar with MAS in focus – OCBC",
+      "region": "新加坡",
+      "topic": "贸易与物流",
+      "source": "www.tmgm.com",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPR3NGYjg4RS1EWEx5TEVkNEZUREhrQ3Q0STVWZWZyeW9LT3B1MVJWd2lPa2F4aTU3WlpzRzlGZlBmdjBrYTFVX3d4WFVDNlprTW5uMUs5bnZnTHhOU2xudmw3dF9ySmFpVFJYQ0ROMlVLUjZ3bTVIMThPeF9fQ21DMWxUb2xnM2otU3VwYVVYYWU0SWRScGMzenFRSms5dGJsUFhaVkVWMHhZNWFNMDFpQzNqdG5WNlp2SGpBWTZUN1RVSVZReUY0WkpxSXhlSVp3R2Z1cw?oc=5",
+      "publishedAt": "2026-10-06T22:42:08+00:00",
+      "summary": "华侨银行观点称，新加坡元兑美元处于区间交易，市场关注新加坡金融管理局。",
+      "summaryZh": "华侨银行观点称，新加坡元兑美元处于区间交易，市场关注新加坡金融管理局。",
+      "originalSummary": "Singapore Dollar: Range trade against US Dollar with MAS in focus – OCBC www.tmgm.com",
+      "impact": "汇率区间判断与金管局政策预期将影响新元走势、区域资本流动及企业外汇风险管理。",
+      "impactZh": "汇率区间判断与金管局政策预期将影响新元走势、区域资本流动及企业外汇风险管理。",
+      "score": 61
+    },
+    {
+      "title": "印度财长西塔拉曼结束访新，聚焦加强投资与金融合作",
+      "titleZh": "印度财长西塔拉曼结束访新，聚焦加强投资与金融合作",
+      "originalTitle": "Union Finance Minister Smt. Nirmala Sitharaman concludes successful visit to Singapore, focusing on strengthening investment and financial cooperation",
+      "region": "新加坡",
+      "topic": "主权基金",
+      "source": "www.pib.gov.in",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBXWE5SZTkwZkpidWU2SjBhb1laYVVMUjdFenozSldza0Z4bUV5QmFxN016Z0pacTc5dnZYdG4wQ2dFMW53T2thbkVfa2xxc2l0SkE4ckJaZFE4RWZXdGxveHVQS3dUdldE?oc=5",
+      "publishedAt": "2026-10-12T14:35:00+00:00",
+      "summary": "印度财政部长西塔拉曼结束对新加坡的访问，重点讨论加强投资与金融合作。",
+      "summaryZh": "印度财政部长西塔拉曼结束对新加坡的访问，重点讨论加强投资与金融合作。",
+      "originalSummary": "Union Finance Minister Smt. Nirmala Sitharaman concludes successful visit to Singapore, focusing on strengthening investment and financial cooperation www.pib.gov.in",
+      "impact": "访问有助于推动印度与新加坡双边投资和金融合作，可能带动跨境资本与金融服务往来。",
+      "impactZh": "访问有助于推动印度与新加坡双边投资和金融合作，可能带动跨境资本与金融服务往来。",
+      "score": 61
+    },
+    {
+      "title": "从约束到合作：新加坡与东南亚能源转型",
+      "titleZh": "从约束到合作：新加坡与东南亚能源转型",
+      "originalTitle": "From Constraints to Cooperation: Singapore and Southeast Asia’s Energy Transition",
+      "region": "新加坡",
+      "topic": "能源与产业投资",
+      "source": "Singapore Economic Development Board (EDB)",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPTHZCRHJmMWJ3aGF6anRHY3hnUDZWcFFJYVpjOG15T3dhZldRdXItU2tNWTluRXFiclJSdUNKMFY5aXdkYUtQQ1NObi1VeFpibGtQaEZCZm15QVYtR1VqMHdiU3RpTmFqVTBVX0FHcDA5NmJpdXd6Um1MUlJHdFhGN0IwSnpOVFlzTlQ2eE9xdUU1NUk4ZWdXbkl5U2w3a1RIMjF0dTlYRHhxNjBMUHEyUFAxZWFRM2dlNXRXVGRkOVY?oc=5",
+      "publishedAt": "2026-10-07T07:00:00+00:00",
+      "summary": "文章讨论新加坡与东南亚在能源转型中的约束与合作。",
+      "summaryZh": "文章讨论新加坡与东南亚在能源转型中的约束与合作。",
+      "originalSummary": "From Constraints to Cooperation: Singapore and Southeast Asia’s Energy Transition Singapore Economic Development Board (EDB)",
+      "impact": "能源转型合作可能影响区域绿色投资、产业政策与跨境能源项目布局。",
+      "impactZh": "能源转型合作可能影响区域绿色投资、产业政策与跨境能源项目布局。",
+      "score": 61
+    },
+    {
+      "title": "坚持新加坡债券配置",
+      "titleZh": "坚持新加坡债券配置",
+      "originalTitle": "Staying the course with Singapore bonds",
+      "region": "新加坡",
+      "topic": "主权基金",
+      "source": "Eastspring Investments",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPVndaS1JrLXJqbE1CTktGWXpua05SdEx1YWRNMHI5RlpuUWtVbzZPVjhreDJWMGhHVmNyOWNmNlR3R3UtZTFtT3pNQ2RFRDlDVDdVZ1ZKdEdiY0VIMXhiQlZtOVBpRWNRRENIaHdGMHdLODEzazJtNXhSLS1TSm1yNHlEUlB4WVhzdXpaWG03UQ?oc=5",
+      "publishedAt": "2026-10-08T01:55:24+00:00",
+      "summary": "瀚亚投资讨论继续配置新加坡债券的策略观点。",
+      "summaryZh": "瀚亚投资讨论继续配置新加坡债券的策略观点。",
+      "originalSummary": "Staying the course with Singapore bonds Eastspring Investments",
+      "impact": "机构对新加坡债券的配置观点可能影响债市资金流向与投资者风险偏好。",
+      "impactZh": "机构对新加坡债券的配置观点可能影响债市资金流向与投资者风险偏好。",
+      "score": 61
+    },
+    {
+      "title": "新加坡副总理颜金勇：贸易紧张下增长将放缓，但绿色与数字机遇将显现",
+      "titleZh": "新加坡副总理颜金勇：贸易紧张下增长将放缓，但绿色与数字机遇将显现",
+      "originalTitle": "Singapore growth to slow as trade tensions rise, but green, digital opportunities will emerge: DPM Gan",
+      "region": "新加坡",
+      "topic": "贸易与物流",
+      "source": "Singapore Economic Development Board (EDB)",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNd2pTWWxnZ3g5ZEZ5R1pLUVpFLTFfOWljUFEyZENNTmlyOUtBYTVCUk9TNlJOdkxVbVoyWkw1X1Zpa0RDSzNFQXRVR0ZzRERLTENtaktsQjZhcmc3aFVMRDJCU292WGtFcXJkNFhjd3ZaTEYzQnVKcDhFUElZSWYxNzJBRTBYT0lhNGN2RVpzMG5MdUZuTkh2c1ZEbVVEUUxnbGUtczE0bHBzNEFtQkk3QXQtRDlVSG1Vc1I5M0xiSl94cDhIdV9ZY1BkUTdQZmhEenhCeDM5MA?oc=5",
+      "publishedAt": "2026-10-07T07:00:00+00:00",
+      "summary": "新加坡副总理颜金勇表示，贸易紧张将令新加坡增长放缓，但绿色和数字领域机会将出现。",
+      "summaryZh": "新加坡副总理颜金勇表示，贸易紧张将令新加坡增长放缓，但绿色和数字领域机会将出现。",
+      "originalSummary": "Singapore growth to slow as trade tensions rise, but green, digital opportunities will emerge: DPM Gan Singapore Economic Development Board (EDB)",
+      "impact": "政策信号显示新加坡将平衡贸易风险与绿色、数字转型机遇，企业需调整供应链并关注新增长领域。",
+      "impactZh": "政策信号显示新加坡将平衡贸易风险与绿色、数字转型机遇，企业需调整供应链并关注新增长领域。",
+      "score": 61
+    },
+    {
+      "title": "普华永道新加坡设立贸易咨询中心，服务企业",
+      "titleZh": "普华永道新加坡设立贸易咨询中心，服务企业",
+      "originalTitle": "PwC Singapore opens Trade Advisory Hub for businesses",
+      "region": "新加坡",
+      "topic": "贸易与物流",
+      "source": "Singapore Economic Development Board (EDB)",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOR1pjQ2owbEs4UGc3a3dKTGRpSnpiMlVoUHhvTWViVVE4YTRTVlV6bjFqMTB4dEZPdzg0UEIzandrenZqYVA4dmhpcVZ1d3JzcGNzcE9QVFBOa1Y2anRqWTZfYTdqZ2N3dmVFenc4S1YxU3UzSk1VWmdzLUZEci1hNEs0OVVUMWRXMVhTRzNrN09VZ1d1R3RKdWNB?oc=5",
+      "publishedAt": "2026-10-07T07:00:00+00:00",
+      "summary": "普华永道新加坡开设贸易咨询中心，为企业提供相关服务。",
+      "summaryZh": "普华永道新加坡开设贸易咨询中心，为企业提供相关服务。",
+      "originalSummary": "PwC Singapore opens Trade Advisory Hub for businesses Singapore Economic Development Board (EDB)",
+      "impact": "该中心反映企业贸易合规与关税咨询需求上升，可能帮助企业管理跨境贸易风险。",
+      "impactZh": "该中心反映企业贸易合规与关税咨询需求上升，可能帮助企业管理跨境贸易风险。",
+      "score": 61
+    },
+    {
+      "title": "特朗普关税：新加坡总理黄循财称将成立工作组协助企业和工人",
+      "titleZh": "特朗普关税：新加坡总理黄循财称将成立工作组协助企业和工人",
+      "originalTitle": "Trump tariffs: Singapore to form task force to help businesses and workers, says PM Wong",
+      "region": "新加坡",
+      "topic": "经济政策",
+      "source": "Singapore Economic Development Board (EDB)",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPaDJSMm1nbXlDRldqOFVDMW5Qa18ybTJHXzVXQTFWSGpBS1RJcEo1NXg3Nzhtc1BWNGdUU2hzb0UyWHFLam9hcjVRdVBrbEZTRW5TdGxER0FiVWxSWHA5aXNfM0l4MmFxSlpGWHFtOUM1cmNJLTBORlMxLXVXRFBQeHRFNmJvcGJBVFNqejhpQ1AtWk9VOGx5OGlPSmRzaVBTbWM4MlZmVjBnWEc1RU9XWDk4ZElNa24wZDVBM0ctVlhQVC1UZ045Si1B?oc=5",
+      "publishedAt": "2026-10-07T07:00:00+00:00",
+      "summary": "新加坡总理黄循财表示，将成立工作组帮助企业和工人应对特朗普关税。",
+      "summaryZh": "新加坡总理黄循财表示，将成立工作组帮助企业和工人应对特朗普关税。",
+      "originalSummary": "Trump tariffs: Singapore to form task force to help businesses and workers, says PM Wong Singapore Economic Development Board (EDB)",
+      "impact": "工作组可能缓解关税对企业和就业的冲击，并体现新加坡对贸易保护主义风险的应对。",
+      "impactZh": "工作组可能缓解关税对企业和就业的冲击，并体现新加坡对贸易保护主义风险的应对。",
+      "score": 61
+    },
+    {
+      "title": "本周保险业动态：苏黎世完成Beazley交易、宏利32亿美元准备金再保险、新加坡审查税收规则",
+      "titleZh": "本周保险业动态：苏黎世完成Beazley交易、宏利32亿美元准备金再保险、新加坡审查税收规则",
+      "originalTitle": "This week in insurance: Zurich completes Beazley deal, Manulife reinsures $3.2b in reserves, Singapore reviews tax rules",
+      "region": "新加坡",
+      "topic": "税务与自由区",
+      "source": "Insurance Asia",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNZVBlYUFCdXFqYThweUJMLWdSM1ZrRGpsQzhfVzRQMXVsU1dxNTE4S1pROHlNMXpWaEhaN19TZENvN1JxMzhRaG9GRHFMZ1BDQ1hnM2lxdTZvSWR0YnBKV01tWjB3ZmRwajZOZzRLRDRObGkwM015TnRVNXJwZ3lIVzRYdkFKSmN2ci1SRHh5anlfTEJwM1lmenJHbWFDZDNvWHhPR1ZkcXo5c0FTdHlDWmd6X1NwTHp5WUEyVWVIVklwRGhJQUpnVXNzb1l1UmdBbXRZb1BnaUhmc01XVzgycDJudzlKUQ?oc=5",
+      "publishedAt": "2026-10-09T21:00:00+00:00",
+      "summary": "本周保险业新闻包括苏黎世完成Beazley交易、宏利对32亿美元准备金进行再保险，以及新加坡审查税收规则。",
+      "summaryZh": "本周保险业新闻包括苏黎世完成Beazley交易、宏利对32亿美元准备金进行再保险，以及新加坡审查税收规则。",
+      "originalSummary": "This week in insurance: Zurich completes Beazley deal, Manulife reinsures $3.2b in reserves, Singapore reviews tax rules Insurance Asia",
+      "impact": "保险业并购与再保险交易显示资本重组活跃，新加坡税收规则审查可能影响保险机构税务安排与区域合规。",
+      "impactZh": "保险业并购与再保险交易显示资本重组活跃，新加坡税收规则审查可能影响保险机构税务安排与区域合规。",
+      "score": 61
+    },
+    {
+      "title": "阿联酋在截止期限临近时解释跨国企业税收规则",
+      "titleZh": "阿联酋在截止期限临近时解释跨国企业税收规则",
+      "originalTitle": "UAE explains multinational tax rules as deadline looms",
+      "region": "阿联酋",
+      "topic": "税务与自由区",
+      "source": "Gulf Business",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPdVk1Nnl6OU5UQ0FLUEVPYlhtRnpDVkNpdmw0M1EwOWF6V0ZPTDRQYVRwalZmRjFhUEtIdnlTdWVoNXVTUDdIY0sycFByczZaNGJlUm52TzFwXzhtMU9KZmRoUTBDMV9jeVVtSk5Sc0JwbTlhX0o0Rmx4RnZaS1lFRzVMbnJyTHJ4WjhLb3B3VQ?oc=5",
+      "publishedAt": "2026-10-07T13:43:58+00:00",
+      "summary": "随着截止期限临近，阿联酋对跨国企业税收规则作出解释。",
+      "summaryZh": "随着截止期限临近，阿联酋对跨国企业税收规则作出解释。",
+      "originalSummary": "UAE explains multinational tax rules as deadline looms Gulf Business",
+      "impact": "跨国企业需关注阿联酋税制合规时间表，相关规则可能影响其区域投资架构和税务成本。",
+      "impactZh": "跨国企业需关注阿联酋税制合规时间表，相关规则可能影响其区域投资架构和税务成本。",
+      "score": 61
+    },
+    {
+      "title": "阿联酋公布跨国企业新税收规则",
+      "titleZh": "阿联酋公布跨国企业新税收规则",
+      "originalTitle": "UAE reveals new tax rules for multinationals",
+      "region": "阿联酋",
+      "topic": "税务与自由区",
+      "source": "Arabian Business",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPUGlkVURJaGtJWTNGX3p0SGJHRnBkN1lwdnVIV29Ud2ZsUTdOMDdNcVlXY1pCWk01MkRhWjlMOFh1dXdtaVhtQ09UVkV5YXpBSzlKeml6VnZoTVhmMGJwVWVEZ21nQ3pkbUFsVVZKMDQxeC13U0tQZkd2LWxwemt2RDc4eU83OVg3YzJxNVJR?oc=5",
+      "publishedAt": "2026-10-07T11:24:08+00:00",
+      "summary": "阿联酋公布针对跨国企业的新税收规则。",
+      "summaryZh": "阿联酋公布针对跨国企业的新税收规则。",
+      "originalSummary": "UAE reveals new tax rules for multinationals Arabian Business",
+      "impact": "新规将影响在阿联酋运营的跨国企业税务合规、控股架构与投资决策。",
+      "impactZh": "新规将影响在阿联酋运营的跨国企业税务合规、控股架构与投资决策。",
+      "score": 61
+    }
+  ],
+  "regions": [
+    {
+      "region": "香港",
+      "storyCount": 3,
+      "topTopics": [
+        "税务与自由区",
+        "金融监管",
+        "主权基金"
+      ],
+      "summary": "香港相关新闻聚焦强积金税务认定、稳定币收益监管以及贝恩资本可能投资新世界发展的消息。"
+    },
+    {
+      "region": "新加坡",
+      "storyCount": 12,
+      "topTopics": [
+        "主权基金",
+        "贸易与物流",
+        "经济政策",
+        "金融监管",
+        "税务与自由区",
+        "能源与产业投资"
+      ],
+      "summary": "新加坡相关新闻覆盖家族办公室资产范围、自由贸易伙伴关系、印新金融合作、能源转型、贸易咨询、关税应对及保险税制审查等。"
+    },
+    {
+      "region": "阿联酋",
+      "storyCount": 3,
+      "topTopics": [
+        "税务与自由区",
+        "经济政策"
+      ],
+      "summary": "阿联酋相关新闻聚焦跨国企业税收新规以及Investopia Bridge 2026新经济对话。"
+    },
+    {
+      "region": "海湾国家",
+      "storyCount": 0,
+      "topTopics": [],
+      "summary": "新闻列表中未出现除阿联酋以外的海湾国家单独条目；海湾国家相关信息主要体现在阿联酋税制与投资对话动态中。"
+    }
+  ],
+  "analysis": [
+    {
+      "label": "区域概览",
+      "title": "新加坡仍是政策与投资动态中心",
+      "body": "在18条新闻中，新加坡相关报道占12条，覆盖家族办公室、自由贸易伙伴关系、印新金融合作、能源转型、贸易咨询、关税应对与保险税制审查。政策与市场机构信息密集，显示新加坡在跨境财富管理、贸易与金融合作领域持续活跃。"
+    },
+    {
+      "label": "监管与税务",
+      "title": "香港与新加坡的税务和数字资产监管差异受关注",
+      "body": "香港方面出现强积金是否被上海税务官员视为“离岸信托”的讨论，以及香港与新加坡对稳定币收益的监管路径比较。新加坡则审查税收规则。相关动态可能影响跨境个人、家族办公室、数字资产平台和保险机构的合规安排。"
+    },
+    {
+      "label": "海湾与阿联酋",
+      "title": "阿联酋加快跨国税制落地与新经济对话",
+      "body": "阿联酋集中解释并公布跨国企业新税收规则，同时启动Investopia Bridge 2026新经济对话。对跨国企业而言，税制合规和投资架构调整将成为近期重点，阿布扎比也继续强化其投资与经济对话平台角色。"
+    },
+    {
+      "label": "投资与贸易",
+      "title": "贸易紧张与投资合作并行",
+      "body": "新加坡加入13国自由贸易与投资流动伙伴关系，同时成立工作组应对特朗普关税，并开设贸易咨询中心。印度财长访新聚焦投资金融合作。整体看，跨境贸易和投资合作仍在推进，但企业需应对关税、合规与供应链调整。"
+    },
+    {
+      "label": "风险提示",
+      "title": "关注政策落地与信息确认",
+      "body": "部分消息仍处于“可能”“据悉”“探讨”阶段，例如MAS资产范围调整、贝恩投资新世界、上海税务官员看法等。后续需以官方文件、监管公告和交易确认信息为准，避免将市场传闻视为既成事实。"
+    }
+  ],
+  "broadcastScript": {
+    "anchorName": "岚序",
+    "date": "2026-10-13",
+    "headline": "香港、新加坡与阿联酋：家族办公室、稳定币监管与跨国税制成焦点",
+    "intro": "各位观众大家好，欢迎收看岚序财经。今天是2026年10月13日。接下来为您播报今日亚洲与海湾地区财经要点。",
+    "segments": [
+      {
+        "title": "今日概览",
+        "text": "2026年10月13日新闻列表显示，新加坡在家族办公室资产范围、自由贸易伙伴关系、关税应对与保险税制审查方面动态较多；香港聚焦强积金税务认定、稳定币收益监管及私募投资；阿联酋则集中发布跨国企业税收规则并推进新经济对话。"
+      },
+      {
+        "title": "新加坡金管局或将保险保单与数字支付代币纳入单一家族办公室指定投资资产",
+        "text": "第1条，新加坡新加坡金管局或将保险保单与数字支付代币纳入单一家族办公室指定投资资产。有报道称，新加坡金融管理局可能将保险保单和数字支付代币纳入单一家族办公室的指定投资资产范围。影响方面，若政策调整落地，将扩大家族办公室可配置资产类别，影响新加坡家办税务优惠安排、保险及数字资产相关服务需求，并提高合规要求。"
+      },
+      {
+        "title": "新加坡与13国共同启动自由贸易与投资流动伙伴关系",
+        "text": "第2条，新加坡新加坡与13国共同启动自由贸易与投资流动伙伴关系。新加坡加入13个国家发起的伙伴关系，相关伙伴关系承诺促进自由贸易并增强投资流动。影响方面，该伙伴关系可能强化跨境贸易与投资合作，为区域供应链、投资便利化和多边经贸协作提供新平台。"
+      },
+      {
+        "title": "阿布扎比启动Investopia Bridge 2026，推动新经济对话",
+        "text": "第3条，阿联酋阿布扎比启动Investopia Bridge 2026，推动新经济对话。Investopia Bridge 2026在阿布扎比启动，围绕新经济议题展开对话。影响方面，该活动有助于阿联酋汇聚新经济与投资议题讨论，提升阿布扎比作为区域经济对话和投资合作平台的角色。"
+      },
+      {
+        "title": "香港强积金是否属于“离岸信托”？上海税务官员似持此看法",
+        "text": "第4条，香港香港强积金是否属于“离岸信托”？上海税务官员似持此看法。有报道指出，上海税务官员似乎认为香港强积金属于“离岸信托”，引发对其税务认定的关注。影响方面，若相关认定影响实际税务处理，可能涉及在沪港人、跨境企业及强积金供款的税务合规，凸显两地税收规则差异。"
+      },
+      {
+        "title": "香港与新加坡的稳定币收益监管路径",
+        "text": "第5条，香港香港与新加坡的稳定币收益监管路径。报道比较香港和新加坡对稳定币收益的监管方式。影响方面，监管取向将影响稳定币产品设计、收益安排与交易平台合规，并关系香港和新加坡数字资产市场竞争格局。"
+      }
+    ],
+    "outro": "今日重点，香港、新加坡与阿联酋：家族办公室、稳定币监管与跨国税制成焦点。感谢收看岚序财经，我们明天见。"
+  }
+}
