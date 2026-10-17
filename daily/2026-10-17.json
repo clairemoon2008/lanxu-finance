@@ -1,0 +1,404 @@
+{
+  "date": "2026-10-17",
+  "generatedAt": "2026-10-17T00:00:00Z",
+  "status": "published",
+  "headline": "新加坡维持货币政策，AI增长与家办税优调整受关注",
+  "summary": "本期情报汇总香港、新加坡、阿联酋及海湾区域动态：新加坡金管局维持货币政策，人工智能相关增长与2027年动能趋缓信号并存；家族办公室税收激励调整并强化本地招聘要求；香港与新加坡稳定币收益监管路径受到比较；阿联酋税务与投资对话活跃。",
+  "metrics": {
+    "totalStories": 18,
+    "regionCounts": {
+      "香港": 1,
+      "新加坡": 14,
+      "阿联酋": 3,
+      "海湾国家": 0
+    },
+    "topicCounts": {
+      "金融监管": 5,
+      "税务与自由区": 3,
+      "主权基金": 2,
+      "经济政策": 3,
+      "贸易与物流": 3,
+      "能源与产业投资": 2
+    },
+    "sourceCount": 11,
+    "averageScore": 65.1,
+    "highestScore": 78,
+    "lowestScore": 61,
+    "earliestPublishedAt": "2026-10-04T07:00:00+00:00",
+    "latestPublishedAt": "2026-10-14T09:31:26+00:00",
+    "articles": 18,
+    "regions": 4,
+    "hotspots": 4
+  },
+  "topStories": [
+    {
+      "title": "新加坡维持货币政策，人工智能推动经济扩张5.4%",
+      "titleZh": "新加坡维持货币政策，人工智能推动经济扩张5.4%",
+      "originalTitle": "Singapore Holds Monetary Policy as Economy Expands 5.4% on AI",
+      "region": "新加坡",
+      "topic": "金融监管",
+      "source": "Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQS1lhSHN3c3NCZ0htanVDMUVZRFNnckkwYVV6VVU1ZFpqN1Bmak9HcHRIV0p5bWM1Y3BKLWgwTk96X25WTExxWm1yS08wdWFYamVvdE1TZUUxQ1NhMjBQb05DMldSd045aWFLa3hGTUZBc09LWTZZVUFQY0N3YlhHZXozczRkdVNiMGxMLUhYN3lMZTRRUFJ2akVZOV9mRGNPWS11OW1NdXZOUUhxUmVRNQ?oc=5",
+      "publishedAt": "2026-10-14T09:31:26+00:00",
+      "summary": "彭博社报道，新加坡在人工智能相关经济动能推动下实现5.4%的经济扩张，同时维持现行货币政策不变。",
+      "summaryZh": "彭博社报道，新加坡在人工智能相关经济动能推动下实现5.4%的经济扩张，同时维持现行货币政策不变。",
+      "originalSummary": "Singapore Holds Monetary Policy as Economy Expands 5.4% on AI Bloomberg.com",
+      "impact": "政策维持不变有利于稳定市场对新加坡利率和汇率环境的预期；人工智能相关产业对增长和跨境投资布局的支撑值得持续关注。",
+      "impactZh": "政策维持不变有利于稳定市场对新加坡利率和汇率环境的预期；人工智能相关产业对增长和跨境投资布局的支撑值得持续关注。",
+      "score": 78
+    },
+    {
+      "title": "新加坡调整家族办公室税收激励，并要求增加本地招聘",
+      "titleZh": "新加坡调整家族办公室税收激励，并要求增加本地招聘",
+      "originalTitle": "Singapore adjusts tax incentives for family offices, which must also do more to boost local hires",
+      "region": "新加坡",
+      "topic": "税务与自由区",
+      "source": "Singapore Economic Development Board (EDB)",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQQ043MDN6SVdzWk1sRGRTMV92RG1GelBqUS0xcXMzQ2RhV0hTNlNZblpBTHRKQjFKWHVxRk1aMWR0NE9YWElRNUFlVnJxdmdEaTg5NnB0cUNkUDNfZUpzRWtvempKWlp3alU5R2xtU0dTV2dKNzhhekUtV2thUmxHRDU2aXZqSHRWSG9sZWNCTUVEOFZSdkVRZEdqMkFzRW00ME1XTnFFVGpKTkpsVXZfMXNNNmV0REticGIwVzJ6MkxjWjJUdUQyMXJ5QnZfalpiMmVZUnBnZw?oc=5",
+      "publishedAt": "2026-10-07T07:00:00+00:00",
+      "summary": "新加坡经济发展局相关消息显示，新加坡调整家族办公室税收激励安排，同时要求家族办公室在促进本地招聘方面承担更多责任。",
+      "summaryZh": "新加坡经济发展局相关消息显示，新加坡调整家族办公室税收激励安排，同时要求家族办公室在促进本地招聘方面承担更多责任。",
+      "originalSummary": "Singapore adjusts tax incentives for family offices, which must also do more to boost local hires Singapore Economic Development Board (EDB)",
+      "impact": "对拟在新加坡设立或扩展家族办公室的跨境财富管理机构而言，税务优惠条件与本地用工要求需同步纳入架构和合规评估。",
+      "impactZh": "对拟在新加坡设立或扩展家族办公室的跨境财富管理机构而言，税务优惠条件与本地用工要求需同步纳入架构和合规评估。",
+      "score": 71
+    },
+    {
+      "title": "新加坡金管局发布2026年10月货币政策声明",
+      "titleZh": "新加坡金管局发布2026年10月货币政策声明",
+      "originalTitle": "Monetary Authority Of Singapore Monetary Policy Statement - October 2026",
+      "region": "新加坡",
+      "topic": "金融监管",
+      "source": "Mondo Visione",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPTnB6eGlnbm5uWjRnRXJiX1pweDNhS0toRndLbm9NUzdKNHN3TFk2dDV2RlJnV1dpZEVlZ3ZSTzVtVmFjYjN1WlFmUDRUMXFtUmp4NmpaUF9CcmQ3OUN2dGFsa2pwbkNhQ1BoYkZFUzBqaW1ndUpaV2doNlIxR1R5Xzg1X1FPWGVoRFpFS1VhbmpjeGgya291Qjg2d0poWEFPM0J3a2FBaV9ZY2pteTNBbS04d0VVSHk3TTRNenA5N3lCWU1FQ3lLWl93?oc=5",
+      "publishedAt": "2026-10-14T05:55:01+00:00",
+      "summary": "新加坡金管局发布2026年10月货币政策声明。新闻摘要未提供声明具体内容，需以官方声明原文为准。",
+      "summaryZh": "新加坡金管局发布2026年10月货币政策声明。新闻摘要未提供声明具体内容，需以官方声明原文为准。",
+      "originalSummary": "Monetary Authority Of Singapore Monetary Policy Statement",
+      "impact": "该声明是观察新加坡汇率政策区间和金融条件的重要官方窗口，对跨境资金配置和新加坡元相关敞口具有参考意义。",
+      "impactZh": "该声明是观察新加坡汇率政策区间和金融条件的重要官方窗口，对跨境资金配置和新加坡元相关敞口具有参考意义。",
+      "score": 71
+    },
+    {
+      "title": "新加坡与13国共同启动自由贸易与投资流动伙伴关系",
+      "titleZh": "新加坡与13国共同启动自由贸易与投资流动伙伴关系",
+      "originalTitle": "Singapore joins 13 countries to launch partnership committed to free trade and enhancing investment flows",
+      "region": "新加坡",
+      "topic": "主权基金",
+      "source": "Singapore Economic Development Board (EDB)",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNUVIyOGtJN2pPd2hxNnNTenBzT3lZMlVmYXV1NUZfemZjbU5pc2lNRTE0NkNldGh6bDZLekVDakRHZnRsdC1Wa01VR3NHYnhpc0JyWVJ0NmhLUlRjczFkWGpLZ2tCMjhrVU96V2JlbzF6TVdzZ3VWVkY2RkRqUGpVdE8tb09wSDBYcldYTnRhRmRiM2NNS1YxN0drRHhqWndpUTZsRmk0UXE0emxnSm1OY2xDLW9OdDJfeEY4LVJESkpRMlk?oc=5",
+      "publishedAt": "2026-10-05T07:00:00+00:00",
+      "summary": "新加坡与另外13个国家共同启动一项伙伴关系，承诺促进自由贸易并增强投资流动。",
+      "summaryZh": "新加坡与另外13个国家共同启动一项伙伴关系，承诺促进自由贸易并增强投资流动。",
+      "originalSummary": "Singapore joins 13 countries to launch partnership committed to free trade and enhancing investment flows Singapore Economic Development Board (EDB)",
+      "impact": "若后续机制落地，可能为跨境贸易和投资提供更多制度性便利，但具体覆盖范围和实施安排仍待观察。",
+      "impactZh": "若后续机制落地，可能为跨境贸易和投资提供更多制度性便利，但具体覆盖范围和实施安排仍待观察。",
+      "score": 71
+    },
+    {
+      "title": "阿联酋印度裔居民关注印度投资税负下降空间",
+      "titleZh": "阿联酋印度裔居民关注印度投资税负下降空间",
+      "originalTitle": "UAE NRIs hope for lower taxes on India investments: What you could save",
+      "region": "阿联酋",
+      "topic": "税务与自由区",
+      "source": "Gulf News",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQZTlrWmRNX3Q0djYtZjdsT1U3REUyZDZJRzlkQ2FHQWF1cURwT2tWa1dlNXRHUVd3ZmNncUZZY0J4d3NwZnpjVG9wNGdvNnNIQkxXbndnaEdYMzdQbnVtNV85c2hidnZkeTNGRTYzenRYeU4xQXhqd1ZNRkNfaXUyTHRCMDZFek1jWVBJYlVqUWx2dklFUGpjRkIwdVJmS1FJOGJYU3BDcGdhVmV4Mk5zQmswLVVWbGZNNXhzWFB5YTBnMWQ4Q050bGRtUlhZeFVtbTFr0gHTAUFVX3lxTFBlOWtaZE1fdDR2Ni1mN2xPVTdERTJkNklHOWRDYUdBYXVxRHBPa1ZrV2U1dEdRV3dmY2dxRlljQnh3c3BmemNUb3A0Z282c0hCTFdud2doR1gzN1BudW01XzlzaGJ2dmR5M0ZFNjN6dFh5TjFBeGp3Vk1GQ19pdTJMdEIwNkV6TWNZUEliVWpRbHZ2SUVQamNGQjB1UmZLUUk4YlhTcENwZ2FWZXgyTnNCazAtVVZsZk01eHNYUHlhMGcxZDhDTnRsZG1SWFl4VW1tMWs?oc=5",
+      "publishedAt": "2026-10-14T01:05:00+00:00",
+      "summary": "海湾新闻报道，阿联酋的印度裔居民关注对印度投资能否获得更低税负，并测算潜在节省空间。",
+      "summaryZh": "海湾新闻报道，阿联酋的印度裔居民关注对印度投资能否获得更低税负，并测算潜在节省空间。",
+      "originalSummary": "UAE NRIs hope for lower taxes on India investments: What you could save Gulf News",
+      "impact": "对通过阿联酋配置印度资产的个人和家庭而言，跨境税务安排和实际节省幅度仍需结合具体投资结构评估。",
+      "impactZh": "对通过阿联酋配置印度资产的个人和家庭而言，跨境税务安排和实际节省幅度仍需结合具体投资结构评估。",
+      "score": 71
+    },
+    {
+      "title": "迪拜创业者的关键不只是营业执照：高税负国家创始人的真实需求",
+      "titleZh": "迪拜创业者的关键不只是营业执照：高税负国家创始人的真实需求",
+      "originalTitle": "The trade license is the easy part: What founders leaving high-tax countries really need in Dubai",
+      "region": "阿联酋",
+      "topic": "税务与自由区",
+      "source": "Gulf News",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPOVJNbVQ5YVFJT0JMMDZQcG4xWUcyNzJWdDZTSy01azB1ckh3NjNEdUdkUnV6cVo2VmNyUEJkSU9CMHZiVFVHZ2t5b0FTSVQ3VE9KVzB0aEdoMDZWSUpScnpZV2w3T0RQTE5sOTc4UkRfTy1VOEp5QzZHTmJTMDREa200aUExdC1jbi1NcVdqWEZVRHFZMnhVZ1dpaUszY0pRNlJvaE1oNFU4RGdjYnhoMTF5QWJNdWdYQV9lVE5SY2tObUktMUQyVk5tUjJmdHU2VS1ubS1SU3NwMWJUSDBqaEhBOVViZw?oc=5",
+      "publishedAt": "2026-10-13T09:11:19+00:00",
+      "summary": "海湾新闻讨论从高税负国家迁往迪拜的创始人真正需要什么，并指出取得贸易执照只是较容易的一步。",
+      "summaryZh": "海湾新闻讨论从高税负国家迁往迪拜的创始人真正需要什么，并指出取得贸易执照只是较容易的一步。",
+      "originalSummary": "The trade license is the easy part: What founders leaving high-tax countries really need in Dubai Gulf News",
+      "impact": "对考虑迁址迪拜的创始人而言，除执照外的配套安排可能更影响落地效果；但原文摘要未展开具体细节，需查原文核实。",
+      "impactZh": "对考虑迁址迪拜的创始人而言，除执照外的配套安排可能更影响落地效果；但原文摘要未展开具体细节，需查原文核实。",
+      "score": 71
+    },
+    {
+      "title": "Investopia Bridge 2026在阿布扎比启动新经济对话",
+      "titleZh": "Investopia Bridge 2026在阿布扎比启动新经济对话",
+      "originalTitle": "Investopia Bridge 2026 launches new economy dialogues in Abu Dhabi",
+      "region": "阿联酋",
+      "topic": "经济政策",
+      "source": "www.wam.ae",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNLU5GSW9yUC1DaVpEc0ozYVJEOFNyQ0R3a3RZMGlMMnY1bGx2NTh3SG1NNkZOelhsQ0l2U1hpNk03a0NYN0VBM1c1VlF0VU1PcE9IM1l2a040TTlhclZRck1pUzFQVE9iU284dXF4aFJPdGVpS3VSSzc0cEpNOVRybzQ4ZVB2OXBL?oc=5",
+      "publishedAt": "2026-10-07T12:46:07+00:00",
+      "summary": "阿通社报道，Investopia Bridge 2026在阿布扎比启动新经济对话。",
+      "summaryZh": "阿通社报道，Investopia Bridge 2026在阿布扎比启动新经济对话。",
+      "originalSummary": "Investopia Bridge 2026 launches new economy dialogues in Abu Dhabi www.wam.ae",
+      "impact": "该活动为阿布扎比新经济议题和投资对话提供平台，对关注海湾投资机会的机构具有信息观察价值。",
+      "impactZh": "该活动为阿布扎比新经济议题和投资对话提供平台，对关注海湾投资机会的机构具有信息观察价值。",
+      "score": 68
+    },
+    {
+      "title": "香港与新加坡对稳定币收益的监管路径比较",
+      "titleZh": "香港与新加坡对稳定币收益的监管路径比较",
+      "originalTitle": "Regulating Stablecoin Yields: Hong Kong and Singapore Approaches",
+      "region": "香港",
+      "topic": "金融监管",
+      "source": "Regulation Asia",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNUEcyclFTS3JiM3FqQUNSRURVdUdkX0hILS04VEZpdlZ1NGV2RXl2U2JJTkZQdF9wSGc2RHRvS0xxQVl6MFljLWhhMEFfTXdvYVRiQWFHQWlOMWRqcnRoNmd5cXdQTVpIV1VGNXFjQ1hEUzJxT1VXQWk4NzVBa09rSlExd1dTYkRpOEhyajJJRlVzZ2t4T3N1YWNoWWcyTkJUb1o1RWZ3?oc=5",
+      "publishedAt": "2026-10-08T04:29:29+00:00",
+      "summary": "Regulation Asia刊文比较香港和新加坡在稳定币收益监管方面的做法。",
+      "summaryZh": "Regulation Asia刊文比较香港和新加坡在稳定币收益监管方面的做法。",
+      "originalSummary": "Regulating Stablecoin Yields: Hong Kong and Singapore Approaches Regulation Asia",
+      "impact": "对稳定币发行、交易和收益类产品设计而言，两地监管差异可能影响产品结构、营销边界和跨境合规安排，具体规则需查原文。",
+      "impactZh": "对稳定币发行、交易和收益类产品设计而言，两地监管差异可能影响产品结构、营销边界和跨境合规安排，具体规则需查原文。",
+      "score": 61
+    },
+    {
+      "title": "新加坡意外维持货币政策不变，分析师感到意外",
+      "titleZh": "新加坡意外维持货币政策不变，分析师感到意外",
+      "originalTitle": "Singapore keeps monetary policy unchanged, surprising analysts",
+      "region": "新加坡",
+      "topic": "金融监管",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQTkZsNjgxcWtmVi11UjBKNWxKVG5VQnk5WWpyakxHdnFWVFRsMldXNFgtV1FRRExUWlBvTmRiTTBhRS1CNDE0MWlpUjR4bk9iUHJqcl9qUTViVHB3by1LM1Q1MDR0VjVMWU9qYzRfSEFsRnkzZktPdGhPbTNGdFYyY3BVcmVVem1oT25OdUF0c2dLTllmT3hhTDNfN2VVa0l2Q1U4cl9hSEswdmNVWkg5bFlQQ2pGaWs?oc=5",
+      "publishedAt": "2026-10-14T01:17:20+00:00",
+      "summary": "路透社报道，新加坡维持货币政策不变，这一决定令分析师感到意外。",
+      "summaryZh": "路透社报道，新加坡维持货币政策不变，这一决定令分析师感到意外。",
+      "originalSummary": "Singapore keeps monetary policy unchanged, surprising analysts Reuters",
+      "impact": "政策意外维持可能影响市场对新加坡元汇率路径的预期，跨境投资者需关注后续官方表态与经济数据。",
+      "impactZh": "政策意外维持可能影响市场对新加坡元汇率路径的预期，跨境投资者需关注后续官方表态与经济数据。",
+      "score": 61
+    },
+    {
+      "title": "新加坡独特货币政策机制如何运作",
+      "titleZh": "新加坡独特货币政策机制如何运作",
+      "originalTitle": "How Singapore's unique monetary policy works",
+      "region": "新加坡",
+      "topic": "金融监管",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQMXlkbmdYNHEza3pCNzNneGdHUXRDZU85SDVPMl9YRGxMVHhobFRHLXRWWXp2M2JaYUFmOTBkbWJ0NjJVYjZVNEJGYWpUanRDVklneTdCRExkRHFfajlkTC1OeVRxZXBieExxQ2stXzVsRkl5alVQVUNLSEFkazBIcWVmVjdETzE0ZllWN29jNWxTUEVKT3JxeG5nTXprVWs?oc=5",
+      "publishedAt": "2026-10-13T07:00:00+00:00",
+      "summary": "路透社解释新加坡独特货币政策机制的运作方式。",
+      "summaryZh": "路透社解释新加坡独特货币政策机制的运作方式。",
+      "originalSummary": "How Singapore's unique monetary policy works Reuters",
+      "impact": "对不熟悉新加坡汇率区间政策框架的跨境投资者而言，理解该机制有助于评估新加坡元敞口和政策信号。",
+      "impactZh": "对不熟悉新加坡汇率区间政策框架的跨境投资者而言，理解该机制有助于评估新加坡元敞口和政策信号。",
+      "score": 61
+    },
+    {
+      "title": "新加坡元兑美元或区间交易，市场关注金管局",
+      "titleZh": "新加坡元兑美元或区间交易，市场关注金管局",
+      "originalTitle": "Singapore Dollar: Range trade against US Dollar with MAS in focus – OCBC",
+      "region": "新加坡",
+      "topic": "贸易与物流",
+      "source": "www.tmgm.com",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPR3NGYjg4RS1EWEx5TEVkNEZUREhrQ3Q0STVWZWZyeW9LT3B1MVJWd2lPa2F4aTU3WlpzRzlGZlBmdjBrYTFVX3d4WFVDNlprTW5uMUs5bnZnTHhOU2xudmw3dF9ySmFpVFJYQ0ROMlVLUjZ3bTVIMThPeF9fQ21DMWxUb2xnM2otU3VwYVVYYWU0SWRScGMzenFRSms5dGJsUFhaVkVWMHhZNWFNMDFpQzNqdG5WNlp2SGpBWTZUN1RVSVZReUY0WkpxSXhlSVp3R2Z1cw?oc=5",
+      "publishedAt": "2026-10-06T07:00:00+00:00",
+      "summary": "OCBC相关观点认为，在新加坡金管局受关注之际，新加坡元兑美元可能呈现区间交易。",
+      "summaryZh": "OCBC相关观点认为，在新加坡金管局受关注之际，新加坡元兑美元可能呈现区间交易。",
+      "originalSummary": "Singapore Dollar: Range trade against US Dollar with MAS in focus – OCBC www.tmgm.com",
+      "impact": "对持有新加坡元或美元敞口的机构而言，区间交易判断可作为汇率风险管理参考，但并非确定性预测。",
+      "impactZh": "对持有新加坡元或美元敞口的机构而言，区间交易判断可作为汇率风险管理参考，但并非确定性预测。",
+      "score": 61
+    },
+    {
+      "title": "印度财政部长结束新加坡访问，聚焦投资与金融合作",
+      "titleZh": "印度财政部长结束新加坡访问，聚焦投资与金融合作",
+      "originalTitle": "Union Finance Minister Smt. Nirmala Sitharaman concludes successful visit to Singapore, focusing on strengthening investment and financial cooperation",
+      "region": "新加坡",
+      "topic": "主权基金",
+      "source": "www.pib.gov.in",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBXWE5SZTkwZkpidWU2SjBhb1laYVVMUjdFenozSldza0Z4bUV5QmFxN016Z0pacTc5dnZYdG4wQ2dFMW53T2thbkVfa2xxc2l0SkE4ckJaZFE4RWZXdGxveHVQS3dUdldE?oc=5",
+      "publishedAt": "2026-10-12T14:35:00+00:00",
+      "summary": "印度新闻信息局消息称，印度财政部长尼尔玛拉·西塔拉曼结束对新加坡的访问，此行聚焦加强投资与金融合作。",
+      "summaryZh": "印度新闻信息局消息称，印度财政部长尼尔玛拉·西塔拉曼结束对新加坡的访问，此行聚焦加强投资与金融合作。",
+      "originalSummary": "Union Finance Minister Smt. Nirmala Sitharaman concludes successful visit to Singapore, focusing on strengthening investment and financial cooperation www.pib.gov.in",
+      "impact": "印新金融与投资合作若推进，可能为跨境资本流动和双边项目融资带来新机会，具体成果仍待后续披露。",
+      "impactZh": "印新金融与投资合作若推进，可能为跨境资本流动和双边项目融资带来新机会，具体成果仍待后续披露。",
+      "score": 61
+    },
+    {
+      "title": "从约束到合作：新加坡与东南亚能源转型",
+      "titleZh": "从约束到合作：新加坡与东南亚能源转型",
+      "originalTitle": "From Constraints to Cooperation: Singapore and Southeast Asia’s Energy Transition",
+      "region": "新加坡",
+      "topic": "能源与产业投资",
+      "source": "Singapore Economic Development Board (EDB)",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPTHZCRHJmMWJ3aGF6anRHY3hnUDZWcFFJYVpjOG15T3dhZldRdXItU2tNWTluRXFiclJSdUNKMFY5aXdkYUtQQ1NObi1VeFpibGtQaEZCZm15QVYtR1VqMHdiU3RpTmFqVTBVX0FHcDA5NmJpdXd6Um1MUlJHdFhGN0IwSnpOVFlzTlQ2eE9xdUU1NUk4ZWdXbkl5U2w3a1RIMjF0dTlYRHhxNjBMUHEyUFAxZWFRM2dlNXRXVGRkOVY?oc=5",
+      "publishedAt": "2026-10-13T07:00:00+00:00",
+      "summary": "新加坡经济发展局刊文讨论新加坡与东南亚能源转型从约束走向合作。",
+      "summaryZh": "新加坡经济发展局刊文讨论新加坡与东南亚能源转型从约束走向合作。",
+      "originalSummary": "From Constraints to Cooperation: Singapore and Southeast Asia’s Energy Transition Singapore Economic Development Board (EDB)",
+      "impact": "能源转型合作可能影响区域绿色投资、产业布局和跨境项目机会，但文章摘要未给出具体项目或时间表。",
+      "impactZh": "能源转型合作可能影响区域绿色投资、产业布局和跨境项目机会，但文章摘要未给出具体项目或时间表。",
+      "score": 61
+    },
+    {
+      "title": "新加坡第三季度GDP增长放缓，金管局在通胀风险下维持政策",
+      "titleZh": "新加坡第三季度GDP增长放缓，金管局在通胀风险下维持政策",
+      "originalTitle": "Singapore's GDP Growth Slows in Q3 as MAS Holds Policy Amid Inflation Risks",
+      "region": "新加坡",
+      "topic": "经济政策",
+      "source": "Yahoo Finance Singapore",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPNjNwX2tpNkpEQ0tYWi1IUEZHd1J5UkRxaHIxbkpQTEoyUFBXdE5nWFFTeE91X1Bzc2FPdFNTVXVZY0tDNW9BelpTU0pTUEZxcXczNXVXQ2hZVVFGY1dFTEpiNVFYWmJWRDVQQmF5SEJDTGJhbG1tdUhZT05sOXVyXzlyRHZfVW8?oc=5",
+      "publishedAt": "2026-10-14T03:18:00+00:00",
+      "summary": "雅虎财经新加坡报道，新加坡第三季度GDP增长放缓，金管局在通胀风险背景下维持政策不变。",
+      "summaryZh": "雅虎财经新加坡报道，新加坡第三季度GDP增长放缓，金管局在通胀风险背景下维持政策不变。",
+      "originalSummary": "Singapore's GDP Growth Slows in Q3 as MAS Holds Policy Amid Inflation Risks Yahoo Finance Singapore",
+      "impact": "增长放缓与通胀风险并存，意味着政策需在稳增长和控通胀间权衡；对跨境投资而言需关注增长敏感行业与成本压力。",
+      "impactZh": "增长放缓与通胀风险并存，意味着政策需在稳增长和控通胀间权衡；对跨境投资而言需关注增长敏感行业与成本压力。",
+      "score": 61
+    },
+    {
+      "title": "新加坡GDP超预期仍维持政策，金管局提示2027年AI动能或趋缓",
+      "titleZh": "新加坡GDP超预期仍维持政策，金管局提示2027年AI动能或趋缓",
+      "originalTitle": "Singapore Holds Policy as GDP Beats Forecasts; MAS Flags AI Moderation in 2027",
+      "region": "新加坡",
+      "topic": "经济政策",
+      "source": "BigGo Finance",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1WcWE3ejZnZnlVS2h5VEJtTjlGNEhuM0x5VWRsNE5lSy13SUg4Nzh3WjMzaXZVVEdIY18wSnRhSnhldWJmQWd0dmw2X0xTc3dPR3ZjMEZudmpYRnA1bTBvMkVONEFKZGpUUVNFZUFaTUVfbS13TFE?oc=5",
+      "publishedAt": "2026-10-14T07:25:00+00:00",
+      "summary": "BigGo Finance报道，新加坡GDP表现超出预期，金管局维持政策不变，并提示2027年人工智能相关动能可能趋缓。",
+      "summaryZh": "BigGo Finance报道，新加坡GDP表现超出预期，金管局维持政策不变，并提示2027年人工智能相关动能可能趋缓。",
+      "originalSummary": "Singapore Holds Policy as GDP Beats Forecasts; MAS Flags AI Moderation in 2027 BigGo Finance",
+      "impact": "若AI相关动能后续放缓，可能影响新加坡增长结构和相关投资节奏；政策维持则为短期金融条件提供一定稳定性。",
+      "impactZh": "若AI相关动能后续放缓，可能影响新加坡增长结构和相关投资节奏；政策维持则为短期金融条件提供一定稳定性。",
+      "score": 61
+    },
+    {
+      "title": "新加坡副总理颜金勇：贸易紧张或令增长放缓，绿色与数字机遇将显现",
+      "titleZh": "新加坡副总理颜金勇：贸易紧张或令增长放缓，绿色与数字机遇将显现",
+      "originalTitle": "Singapore growth to slow as trade tensions rise, but green, digital opportunities will emerge: DPM Gan",
+      "region": "新加坡",
+      "topic": "贸易与物流",
+      "source": "Singapore Economic Development Board (EDB)",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNd2pTWWxnZ3g5ZEZ5R1pLUVpFLTFfOWljUFEyZENNTmlyOUtBYTVCUk9TNlJOdkxVbVoyWkw1X1Zpa0RDSzNFQXRVR0ZzRERLTENtaktsQjZhcmc3aFVMRDJCU292WGtFcXJkNFhjd3ZaTEYzQnVKcDhFUElZSWYxNzJBRTBYT0lhNGN2RVpzMG5MdUZuTkh2c1ZEbVVEUUxnbGUtczE0bHBzNEFtQkk3QXQtRDlVSG1Vc1I5M0xiSl94cDhIdV9ZY1BkUTdQZmhEenhCeDM5MA?oc=5",
+      "publishedAt": "2026-10-07T07:00:00+00:00",
+      "summary": "新加坡经济发展局消息称，副总理颜金勇表示贸易紧张可能使新加坡增长放缓，但绿色和数字领域将出现机遇。",
+      "summaryZh": "新加坡经济发展局消息称，副总理颜金勇表示贸易紧张可能使新加坡增长放缓，但绿色和数字领域将出现机遇。",
+      "originalSummary": "Singapore growth to slow as trade tensions rise, but green, digital opportunities will emerge: DPM Gan Singapore Economic Development Board (EDB)",
+      "impact": "对跨境贸易和产业投资者而言，需同时评估贸易摩擦对短期增长的拖累，以及绿色和数字经济领域的结构性机会。",
+      "impactZh": "对跨境贸易和产业投资者而言，需同时评估贸易摩擦对短期增长的拖累，以及绿色和数字经济领域的结构性机会。",
+      "score": 61
+    },
+    {
+      "title": "WTO报告：AI或推动全球贸易增长40%，新加坡被视为监管模式",
+      "titleZh": "WTO报告：AI或推动全球贸易增长40%，新加坡被视为监管模式",
+      "originalTitle": "AI to boost global trade by 40 per cent; Singapore cited as regulatory model: WTO report",
+      "region": "新加坡",
+      "topic": "贸易与物流",
+      "source": "Singapore Economic Development Board (EDB)",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPTjM1eWVQX0Q4TnZaZzY2ekV5TnRublB5LVI2YW5FVTZVYTVMSTRQeDVNYUZmbWM3NmdCdWZ0TC1xTndsNUdEcWZwMk5VVG1YRmM0V0pBaldKaWxkOTN0dmdCWUpSUThsbGFBV0xoZzAtY2k3YndhWXVXcUpnNlItaXZqb1dCWkxLaXNwWnF1cmd3VkZoMkVpVjlqUXNxTXVHbUZ0OUlaZ0NzXzNNbzkwRVpGVFNfVC1rX2JWanlGcjlSNVJZTHhsWEFR?oc=5",
+      "publishedAt": "2026-10-12T07:00:00+00:00",
+      "summary": "新加坡经济发展局引述WTO报告称，人工智能可能推动全球贸易增长40%，新加坡被列为监管模式。",
+      "summaryZh": "新加坡经济发展局引述WTO报告称，人工智能可能推动全球贸易增长40%，新加坡被列为监管模式。",
+      "originalSummary": "AI to boost global trade by 40 per cent; Singapore cited as regulatory model: WTO report Singapore Economic Development Board (EDB)",
+      "impact": "若AI对贸易的促进作用兑现，可能利好数字贸易、跨境服务和相关基础设施投资；新加坡监管实践或成为区域参考。",
+      "impactZh": "若AI对贸易的促进作用兑现，可能利好数字贸易、跨境服务和相关基础设施投资；新加坡监管实践或成为区域参考。",
+      "score": 61
+    },
+    {
+      "title": "新加坡与英国签署绿色经济框架，加强能源与气候合作",
+      "titleZh": "新加坡与英国签署绿色经济框架，加强能源与气候合作",
+      "originalTitle": "Singapore, UK ink green economy framework to bolster energy, climate collaboration",
+      "region": "新加坡",
+      "topic": "能源与产业投资",
+      "source": "Singapore Economic Development Board (EDB)",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQWGttSExzZThkWENrS0hSUkJPYnZySzd3VXVJMjM4QzlVLWMxbW5DNnZLRE5uVHJvU1ZWTXYxS195NTVDSHNmU001MXByYnhTSzdJY0ZUNHpaOTJJSWstbDV6REtmNnp6cnFKZnVoanFJbGt3Nm5wNUhQclB0dG1wSXVEa2NuR3VCY1c2b1lhTWFKU2FEWTZpN1RrRi1tTHhGWHY2MUpaQl9XRzRieUFadFJtLVpyS0NKWFJVNWhn?oc=5",
+      "publishedAt": "2026-10-04T07:00:00+00:00",
+      "summary": "新加坡经济发展局消息称，新加坡与英国签署绿色经济框架，以加强能源和气候合作。",
+      "summaryZh": "新加坡经济发展局消息称，新加坡与英国签署绿色经济框架，以加强能源和气候合作。",
+      "originalSummary": "Singapore, UK ink green economy framework to bolster energy, climate collaboration Singapore Economic Development Board (EDB)",
+      "impact": "该框架可能为绿色金融、能源项目和低碳技术合作提供制度接口，具体合作清单和落地节奏尚待观察。",
+      "impactZh": "该框架可能为绿色金融、能源项目和低碳技术合作提供制度接口，具体合作清单和落地节奏尚待观察。",
+      "score": 61
+    }
+  ],
+  "regions": [
+    {
+      "region": "香港",
+      "storyCount": 1,
+      "focus": "稳定币收益监管比较",
+      "note": "本期香港相关新闻主要集中于香港与新加坡稳定币收益监管路径比较。"
+    },
+    {
+      "region": "新加坡",
+      "storyCount": 14,
+      "focus": "货币政策、家族办公室税优、贸易投资与能源转型",
+      "note": "新加坡是本期新闻最集中区域，涵盖金管局政策、GDP与AI动能、家办税优、自由贸易伙伴关系及绿色经济合作。"
+    },
+    {
+      "region": "阿联酋",
+      "storyCount": 3,
+      "focus": "税务安排、迪拜创业落地与投资对话",
+      "note": "阿联酋相关新闻关注印度投资税负、迪拜创始人落地需求以及Investopia Bridge新经济对话。"
+    },
+    {
+      "region": "海湾国家",
+      "storyCount": 0,
+      "focus": "本期无直接标注",
+      "note": "新闻列表中没有直接标注为海湾国家的条目；阿联酋相关3条新闻可作为海湾区域动态参考。"
+    }
+  ],
+  "analysis": [
+    {
+      "label": "货币政策",
+      "title": "新加坡金管局维持政策，增长与通胀信号交织",
+      "body": "本期多条新闻显示，新加坡金管局在2026年10月维持货币政策不变；有报道指出GDP表现超预期，也有报道提及第三季度增长放缓和通胀风险。政策维持有助于稳定短期预期，但AI动能、贸易紧张和通胀路径仍是后续观察重点。"
+    },
+    {
+      "label": "家族办公室与税收",
+      "title": "家办税收激励调整，本地招聘要求同步提高",
+      "body": "新加坡调整家族办公室税收激励，并要求其加大本地招聘。对跨境财富管理而言，税务优惠不再是单一考量，本地用工要求将影响家办架构与选址决策。"
+    },
+    {
+      "label": "数字资产监管",
+      "title": "香港与新加坡稳定币收益监管差异值得关注",
+      "body": "Regulation Asia比较香港和新加坡对稳定币收益的监管路径。对稳定币收益产品设计者而言，两地规则差异可能影响产品可售性、披露和跨境合规安排；具体监管口径需以原文和官方规则为准。"
+    },
+    {
+      "label": "海湾与贸易",
+      "title": "阿联酋税务与投资对话升温，自由贸易合作受关注",
+      "body": "阿联酋相关新闻聚焦印度投资税负、迪拜创始人落地需求以及Investopia Bridge新经济对话；同时新加坡与13国启动自由贸易与投资流动伙伴关系。海湾与亚洲之间的跨境税务、投资和贸易制度安排值得持续跟踪。"
+    }
+  ],
+  "broadcastScript": {
+    "anchorName": "岚序",
+    "date": "2026-10-17",
+    "headline": "新加坡维持货币政策，AI增长与家办税优调整受关注",
+    "intro": "各位观众大家好，欢迎收看岚序财经。今天是2026年10月17日。接下来为您播报今日亚洲与海湾地区财经要点。",
+    "segments": [
+      {
+        "title": "今日概览",
+        "text": "本期情报汇总香港、新加坡、阿联酋及海湾区域动态：新加坡金管局维持货币政策，人工智能相关增长与2027年动能趋缓信号并存；家族办公室税收激励调整并强化本地招聘要求；香港与新加坡稳定币收益监管路径受到比较；阿联酋税务与投资对话活跃。"
+      },
+      {
+        "title": "新加坡维持货币政策，人工智能推动经济扩张5.4%",
+        "text": "第1条，新加坡新加坡维持货币政策，人工智能推动经济扩张5.4%。彭博社报道，新加坡在人工智能相关经济动能推动下实现5.4%的经济扩张，同时维持现行货币政策不变。影响方面，政策维持不变有利于稳定市场对新加坡利率和汇率环境的预期；人工智能相关产业对增长和跨境投资布局的支撑值得持续关注。"
+      },
+      {
+        "title": "新加坡调整家族办公室税收激励，并要求增加本地招聘",
+        "text": "第2条，新加坡新加坡调整家族办公室税收激励，并要求增加本地招聘。新加坡经济发展局相关消息显示，新加坡调整家族办公室税收激励安排，同时要求家族办公室在促进本地招聘方面承担更多责任。影响方面，对拟在新加坡设立或扩展家族办公室的跨境财富管理机构而言，税务优惠条件与本地用工要求需同步纳入架构和合规评估。"
+      },
+      {
+        "title": "新加坡金管局发布2026年10月货币政策声明",
+        "text": "第3条，新加坡新加坡金管局发布2026年10月货币政策声明。新加坡金管局发布2026年10月货币政策声明。新闻摘要未提供声明具体内容，需以官方声明原文为准。影响方面，该声明是观察新加坡汇率政策区间和金融条件的重要官方窗口，对跨境资金配置和新加坡元相关敞口具有参考意义。"
+      },
+      {
+        "title": "新加坡与13国共同启动自由贸易与投资流动伙伴关系",
+        "text": "第4条，新加坡新加坡与13国共同启动自由贸易与投资流动伙伴关系。新加坡与另外13个国家共同启动一项伙伴关系，承诺促进自由贸易并增强投资流动。影响方面，若后续机制落地，可能为跨境贸易和投资提供更多制度性便利，但具体覆盖范围和实施安排仍待观察。"
+      },
+      {
+        "title": "阿联酋印度裔居民关注印度投资税负下降空间",
+        "text": "第5条，阿联酋阿联酋印度裔居民关注印度投资税负下降空间。海湾新闻报道，阿联酋的印度裔居民关注对印度投资能否获得更低税负，并测算潜在节省空间。影响方面，对通过阿联酋配置印度资产的个人和家庭而言，跨境税务安排和实际节省幅度仍需结合具体投资结构评估。"
+      }
+    ],
+    "outro": "今日重点，新加坡维持货币政策，AI增长与家办税优调整受关注。感谢收看岚序财经，我们明天见。"
+  }
+}
