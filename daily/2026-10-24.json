@@ -1,0 +1,402 @@
+{
+  "date": "2026-10-24",
+  "generatedAt": "2026-10-24T00:00:00+00:00",
+  "status": "published",
+  "headline": "新加坡维持货币政策，阿联酋与新加坡拓展投资合作",
+  "summary": "10月24日情报：新加坡在人工智能推动经济增长5.4%的背景下维持货币政策不变，市场同时关注能源与人工智能带来的再收紧预期；阿联酋与新加坡探索贸易投资新空间，基金迁址、税务规则与电子发票调整成为跨境投资焦点。",
+  "metrics": {
+    "totalStories": 18,
+    "singaporeStories": 12,
+    "uaeStories": 6,
+    "uniqueSources": 12,
+    "averageScore": 64.2,
+    "score70Plus": 5,
+    "earliestPublishedAt": "2026-10-10T07:00:00+00:00",
+    "latestPublishedAt": "2026-10-22T07:00:00+00:00",
+    "articles": 18,
+    "regions": 4,
+    "hotspots": 4
+  },
+  "topStories": [
+    {
+      "title": "新加坡按兵不动：人工智能推动经济扩张5.4%",
+      "titleZh": "新加坡按兵不动：人工智能推动经济扩张5.4%",
+      "originalTitle": "Singapore Holds Monetary Policy as Economy Expands 5.4% on AI",
+      "region": "新加坡",
+      "topic": "金融监管",
+      "source": "Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQS1lhSHN3c3NCZ0htanVDMUVZRFNnckkwYVV6VVU1ZFpqN1Bmak9HcHRIV0p5bWM1Y3BKLWgwTk96X25WTExxWm1yS08wdWFYamVvdE1TZUUxQ1NhMjBQb05DMldSd045aWFLa3hGTUZBc09LWTZZVUFQY0N3YlhHZXozczRkdVNiMGxMLUhYN3lMZTRRUFJ2akVZOV9mRGNPWS11OW1NdXZOUUhxUmVRNQ?oc=5",
+      "publishedAt": "2026-10-14T07:00:00+00:00",
+      "summary": "新加坡在人工智能带动经济扩张5.4%之际选择维持货币政策，显示增长与价格压力之间的政策权衡。",
+      "summaryZh": "新加坡在人工智能带动经济扩张5.4%之际选择维持货币政策，显示增长与价格压力之间的政策权衡。",
+      "originalSummary": "Singapore Holds Monetary Policy as Economy Expands 5.4% on AI Bloomberg.com",
+      "impact": "对新加坡资产、汇率和区域科技投资情绪构成支撑；政策未收紧可能缓解融资成本压力，但需关注人工智能周期波动。",
+      "impactZh": "对新加坡资产、汇率和区域科技投资情绪构成支撑；政策未收紧可能缓解融资成本压力，但需关注人工智能周期波动。",
+      "score": 78
+    },
+    {
+      "title": "新加坡联合13国推出自由贸易与投资流动伙伴关系",
+      "titleZh": "新加坡联合13国推出自由贸易与投资流动伙伴关系",
+      "originalTitle": "Singapore joins 13 countries to launch partnership committed to free trade and enhancing investment flows",
+      "region": "新加坡",
+      "topic": "主权基金",
+      "source": "Singapore Economic Development Board (EDB)",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNV1pCcFBFdzBHdDZ6S0ZEX0t3elZDZXdJdlFDcXVSRlAxb3REOTJkMi1xYkNFMmc5WmUwOExBMURIRzNOZEJoeWZhZTM5cDl1aURfam5XMW5NQVN1eFY1eEJDcFNNSmdHbzZ3RDgxUGktMGZxRW1VcmNtZGxzNjgyTzNLZTgxQVpmTC1xQmhoTHpOR2VfWFJRTGNXWUpvUHBZa3g4ZE9LNFFGZlAxNVpFemN1bm9TQ09pRHk1cHhTUQ?oc=5",
+      "publishedAt": "2026-10-22T07:00:00+00:00",
+      "summary": "新加坡与13国共同启动伙伴关系，重点在于自由贸易与跨境投资流动的制度协作。",
+      "summaryZh": "新加坡与13国共同启动伙伴关系，重点在于自由贸易与跨境投资流动的制度协作。",
+      "originalSummary": "Singapore joins 13 countries to launch partnership committed to free trade and enhancing investment flows Singapore Economic Development Board (EDB)",
+      "impact": "对跨境投资、贸易便利化和区域规则协调构成正面信号，但实际效果取决于伙伴国后续落实。",
+      "impactZh": "对跨境投资、贸易便利化和区域规则协调构成正面信号，但实际效果取决于伙伴国后续落实。",
+      "score": 71
+    },
+    {
+      "title": "税务不确定性下，Artha Bharat拟把两只基金迁往阿布扎比",
+      "titleZh": "税务不确定性下，Artha Bharat拟把两只基金迁往阿布扎比",
+      "originalTitle": "Artha Bharat to Move Two Investment Funds From GIFT City to Abu Dhabi Amid Tax Uncertainty",
+      "region": "阿联酋",
+      "topic": "税务与自由区",
+      "source": "www.nationpathindia.com",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQMnFpSjRGSnJ3SWZYUHU3cXY3NWozYUpraml4RXdCYXIxbGd4aHo4dVpCQnV6MmVMQi1ZZm5EUGtEYUppaTlGQS1taWFRTVZfelN5V2pXcDRPV1lqeVZfT1FrVGs2bkxMVkZmVnc4c09JaEFKc2pleTEtdml3NjJVd05IX3FCZmhRd0RHdzNGUXVpZGtwUVItSnhR?oc=5",
+      "publishedAt": "2026-10-20T23:03:43+00:00",
+      "summary": "税务环境变化促使Artha Bharat调整基金注册地，阿布扎比成为承接印度离岸基金业务的候选地。",
+      "summaryZh": "税务环境变化促使Artha Bharat调整基金注册地，阿布扎比成为承接印度离岸基金业务的候选地。",
+      "originalSummary": "Artha Bharat to Move Two Investment Funds From GIFT City to Abu Dhabi Amid Tax Uncertainty www.nationpathindia.com",
+      "impact": "对基金注册地选择、自由区竞争力和跨境税务筹划具有指示意义，也可能影响印度GIFT城的基金集聚效应。",
+      "impactZh": "对基金注册地选择、自由区竞争力和跨境税务筹划具有指示意义，也可能影响印度GIFT城的基金集聚效应。",
+      "score": 71
+    },
+    {
+      "title": "阿联酋与新加坡探索贸易与投资伙伴关系新空间",
+      "titleZh": "阿联酋与新加坡探索贸易与投资伙伴关系新空间",
+      "originalTitle": "UAE, Singapore explore new horizons to strengthen trade, investment partnership",
+      "region": "新加坡",
+      "topic": "主权基金",
+      "source": "وزارة الخارجية الإماراتية",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQWDBqc2dkRnpHV0ZhcnV0eThiMWVxYmJXSFFQMllVLXhzaDl0Sk5mbWk0VngtSnhNQXk1X2dvMHhIWFdPS19TVHNKVmI4U0NRWXc1dGxVYzhfY01rcHNlMkEzTlBmaE90Qmd0UDhsRjh4RjA5Q3ZxVDI1OV9BdHQ2N2pqYUhLekhiV0Q0?oc=5",
+      "publishedAt": "2026-10-14T05:24:25+00:00",
+      "summary": "阿联酋与新加坡寻求在贸易、投资及主权基金合作方面拓展新的合作空间。",
+      "summaryZh": "阿联酋与新加坡寻求在贸易、投资及主权基金合作方面拓展新的合作空间。",
+      "originalSummary": "UAE, Singapore explore new horizons to strengthen trade, investment partnership وزارة الخارجية الإماراتية",
+      "impact": "对海湾与东南亚之间的资本流动和贸易连接构成积极信号，但合作深度取决于后续协议与项目落地。",
+      "impactZh": "对海湾与东南亚之间的资本流动和贸易连接构成积极信号，但合作深度取决于后续协议与项目落地。",
+      "score": 71
+    },
+    {
+      "title": "离开高税负国家赴迪拜创业，牌照之外更关键的是什么",
+      "titleZh": "离开高税负国家赴迪拜创业，牌照之外更关键的是什么",
+      "originalTitle": "The trade license is the easy part: What founders leaving high-tax countries really need in Dubai",
+      "region": "阿联酋",
+      "topic": "税务与自由区",
+      "source": "Gulf News",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPOVJNbVQ5YVFJT0JMMDZQcG4xWUcyNzJWdDZTSy01azB1ckh3NjNEdUdkUnV6cVo2VmNyUEJkSU9CMHZiVFVHZ2t5b0FTSVQ3VE9KVzB0aEdoMDZWSUpScnpZV2w3T0RQTE5sOTc4UkRfTy1VOEp5QzZHTmJTMDREa200aUExdC1jbi1NcVdqWEZVRHFZMnhVZ1dpaUszY0pRNlJvaE1oNFU4RGdjYnhoMTF5QWJNdWdYQV9lVE5SY2tObUktMUQyVk5tUjJmdHU2VS1ubS1SU3NwMWJUSDBqaEhBOVViZw?oc=5",
+      "publishedAt": "2026-10-13T09:11:19+00:00",
+      "summary": "迪拜创业门槛并非只在牌照，创始人还需应对税务、合规和实际运营等更深层问题。",
+      "summaryZh": "迪拜创业门槛并非只在牌照，创始人还需应对税务、合规和实际运营等更深层问题。",
+      "originalSummary": "The trade license is the easy part: What founders leaving high-tax countries really need in Dubai Gulf News",
+      "impact": "提示跨境创业者不要低估落地后的合规成本，也为税务、法律和企业服务提供商带来需求。",
+      "impactZh": "提示跨境创业者不要低估落地后的合规成本，也为税务、法律和企业服务提供商带来需求。",
+      "score": 71
+    },
+    {
+      "title": "新加坡设工作组应对特朗普关税冲击",
+      "titleZh": "新加坡设工作组应对特朗普关税冲击",
+      "originalTitle": "Trump tariffs: Singapore to form task force to help businesses and workers, says PM Wong",
+      "region": "新加坡",
+      "topic": "经济政策",
+      "source": "Singapore Economic Development Board (EDB)",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOMDlPNVpMTWRZS28tZkVNdEU1VGRQMUZFTHd1dHJqb1FNNDhDT0ZGQ0lvcFlPRkd2QXpEVjc0cGdxTjBKaHJDU09uZEhwNTltd3EtUlIyVUlubi1nZi05ZURreXkzVWJWTGJGSEhhZkdwWmdubTRwQWJWUzZ2YnlCTFZGZmtwanV0UmFObG12LTZteDBHWm9icXdibEVGZHVERFRrYkt3YmxKTl83amdPSVBUZEpjRjNXdE1ZU0xudURnYjJaREE?oc=5",
+      "publishedAt": "2026-10-22T07:00:00+00:00",
+      "summary": "面对特朗普关税，新加坡计划通过专门工作组为企业与劳动者提供支持。",
+      "summaryZh": "面对特朗普关税，新加坡计划通过专门工作组为企业与劳动者提供支持。",
+      "originalSummary": "Trump tariffs: Singapore to form task force to help businesses and workers, says PM Wong Singapore Economic Development Board (EDB)",
+      "impact": "对受关税影响的企业和工人构成政策缓冲信号，也表明新加坡正把外部贸易风险纳入国内经济管理。",
+      "impactZh": "对受关税影响的企业和工人构成政策缓冲信号，也表明新加坡正把外部贸易风险纳入国内经济管理。",
+      "score": 61
+    },
+    {
+      "title": "阿联酋推出游客增值税退税重大升级",
+      "titleZh": "阿联酋推出游客增值税退税重大升级",
+      "originalTitle": "UAE announces major tax refund upgrade: Tourist VAT rules explained",
+      "region": "阿联酋",
+      "topic": "税务与自由区",
+      "source": "Arabian Business",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOOV9mdmlpRVVsSTdjRnA2bV9OSGUtNGlvNmgzTWVjSGJiZFkyYmpBQ1h1UE4zY2VGN3FFQ1M3N09ZQm4zc1lTNl8ybDNKTll4c1FweWZlNFBLMFI3aFRfSzAtaHJzVmxSajI4amM1OFBMRUlnWnBfbWZ2a0s1azBieWtybl9VRmVrRmd0VVI4T0tzNWZZbWdCNE5NR3BxZVR0TW1EZ3VCTlBHZw?oc=5",
+      "publishedAt": "2026-10-20T19:51:49+00:00",
+      "summary": "阿联酋更新游客增值税退税安排，涉及退税流程与规则说明。",
+      "summaryZh": "阿联酋更新游客增值税退税安排，涉及退税流程与规则说明。",
+      "originalSummary": "UAE announces major tax refund upgrade: Tourist VAT rules explained Arabian Business",
+      "impact": "退税便利化有助于增强阿联酋旅游消费竞争力，但企业需跟进规则变化并更新合规流程。",
+      "impactZh": "退税便利化有助于增强阿联酋旅游消费竞争力，但企业需跟进规则变化并更新合规流程。",
+      "score": 61
+    },
+    {
+      "title": "澳大利亚与阿联酋贸易协定下，迪拜或迎来澳企新机遇",
+      "titleZh": "澳大利亚与阿联酋贸易协定下，迪拜或迎来澳企新机遇",
+      "originalTitle": "Australia–UAE Trade Deal: Why Dubai Could Be the Next Big Opportunity for Australian Businesses",
+      "region": "阿联酋",
+      "topic": "贸易与物流",
+      "source": "Vocal",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQYVRNbkZPX0ZkcUVrMWs1SW1LSGNvdGpFakJYOFNBLUlYLWpiWmtYY3FPajc5S2ZmOEEta1N4SWVJYURDUG1lRHJmaVR1MFJXblNZdXBJTDlORVMxcGlTVDRud2NQRDluLWZuVlhkTVJmVW9PRi1wb2Z4ckR0RkxHMy04aEZqaVRjX0dRYmlxY3dRbFJVWTZrOGpKaTNSR3V6LXJVaGxMMDJGYXp4S0ZKb3RmQ0xXSVk?oc=5",
+      "publishedAt": "2026-10-20T08:13:45+00:00",
+      "summary": "澳阿贸易协定可能为澳大利亚企业进入迪拜及更广泛海湾市场提供新通道。",
+      "summaryZh": "澳阿贸易协定可能为澳大利亚企业进入迪拜及更广泛海湾市场提供新通道。",
+      "originalSummary": "Australia–UAE Trade Deal: Why Dubai Could Be the Next Big Opportunity for Australian Businesses Vocal",
+      "impact": "对澳大利亚出口商和投资者构成市场多元化信号，迪拜作为海湾门户的角色可能进一步强化。",
+      "impactZh": "对澳大利亚出口商和投资者构成市场多元化信号，迪拜作为海湾门户的角色可能进一步强化。",
+      "score": 61
+    },
+    {
+      "title": "阿联酋对埃及十年投资正成为霍尔木兹风险对冲",
+      "titleZh": "阿联酋对埃及十年投资正成为霍尔木兹风险对冲",
+      "originalTitle": "The UAE’s decade of investment in Egypt is turning into a Hormuz hedge as the war shrinks Dubai’s economy",
+      "region": "阿联酋",
+      "topic": "主权基金",
+      "source": "EnterpriseAM",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOdUFWSnJHYUN0TWJ5LVBJcllrN09ZaHkxZ1A3TDBWN00tOTkwd1BnLUgzSHZZV1dlcTVzenJRSFpyeFNod25XbnZhNXM5TW9pZ0NZMlh2LURWeTFCd2dmNzFfSTdBZFBwcVhDLWFqSmdfMGpzbHhEUWhfY2hpNzBaMHY2UkRETTB0WVlva3BGbXBneW5fc3pqaUVtN1hEc3hHSDNDSlhfOGZZNENFV2p4SnczVjRLTkZPb3Q3LWRoRExweTlWTlVNRElhMHBUN2pnUEhnb2Zadw?oc=5",
+      "publishedAt": "2026-10-19T03:06:54+00:00",
+      "summary": "区域冲突与航运风险上升之际，阿联酋对埃及的长期投资被赋予地缘对冲含义。",
+      "summaryZh": "区域冲突与航运风险上升之际，阿联酋对埃及的长期投资被赋予地缘对冲含义。",
+      "originalSummary": "The UAE’s decade of investment in Egypt is turning into a Hormuz hedge as the war shrinks Dubai’s economy EnterpriseAM",
+      "impact": "对海湾主权基金和区域投资者而言，地缘风险正成为资产配置的重要变量，埃及可能承担更多战略缓冲角色。",
+      "impactZh": "对海湾主权基金和区域投资者而言，地缘风险正成为资产配置的重要变量，埃及可能承担更多战略缓冲角色。",
+      "score": 61
+    },
+    {
+      "title": "阿联酋财政部对电子发票规则作出关键调整",
+      "titleZh": "阿联酋财政部对电子发票规则作出关键调整",
+      "originalTitle": "UAE tax: Ministry of Finance makes key changes to e-invoicing rules",
+      "region": "阿联酋",
+      "topic": "税务与自由区",
+      "source": "Arabian Business",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNVjJDeVJOdG8xYng3MDdzNHN6aHd3a2NIT3ZGZUhIUGdGSEVUSm5rR3E3VkR4NGRteWRZb01TRGlBNjVjcFN4YnNRdzNON3l2Y2gxcWJaTFlBRWJMeXNIVG9QMGxOblpfYnAwNzVqZTg0UXNBMW10NHc2amw1YlRNNXA5dXRUMEZtbXlTR2Iyd3I2RC1GRDVIV3JvM3hTVzgyVDNTSVRnMWZSbGs?oc=5",
+      "publishedAt": "2026-10-19T08:44:18+00:00",
+      "summary": "阿联酋电子发票制度出现重要规则变化，企业需关注合规与系统更新。",
+      "summaryZh": "阿联酋电子发票制度出现重要规则变化，企业需关注合规与系统更新。",
+      "originalSummary": "UAE tax: Ministry of Finance makes key changes to e-invoicing rules Arabian Business",
+      "impact": "对跨境企业的税务合规、财务系统和发票管理提出更新要求，也可能带来企业服务市场机会。",
+      "impactZh": "对跨境企业的税务合规、财务系统和发票管理提出更新要求，也可能带来企业服务市场机会。",
+      "score": 61
+    },
+    {
+      "title": "新加坡维持货币政策不变，令分析师意外",
+      "titleZh": "新加坡维持货币政策不变，令分析师意外",
+      "originalTitle": "Singapore keeps monetary policy unchanged, surprising analysts",
+      "region": "新加坡",
+      "topic": "金融监管",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQTkZsNjgxcWtmVi11UjBKNWxKVG5VQnk5WWpyakxHdnFWVFRsMldXNFgtV1FRRExUWlBvTmRiTTBhRS1CNDE0MWlpUjR4bk9iUHJqcl9qUTViVHB3by1LM1Q1MDR0VjVMWU9qYzRfSEFsRnkzZktPdGhPbTNGdFYyY3BVcmVVem1oT25OdUF0c2dLTllmT3hhTDNfN2VVa0l2Q1U4cl9hSEswdmNVWkg5bFlQQ2pGaWs?oc=5",
+      "publishedAt": "2026-10-14T07:00:00+00:00",
+      "summary": "新加坡选择按兵不动，与市场部分分析师的预期相反。",
+      "summaryZh": "新加坡选择按兵不动，与市场部分分析师的预期相反。",
+      "originalSummary": "Singapore keeps monetary policy unchanged, surprising analysts Reuters",
+      "impact": "对新加坡汇率敏感型资产和区域资金流具有短期影响，市场将重新评估后续政策路径。",
+      "impactZh": "对新加坡汇率敏感型资产和区域资金流具有短期影响，市场将重新评估后续政策路径。",
+      "score": 61
+    },
+    {
+      "title": "新加坡货币政策为何独特：机制解析",
+      "titleZh": "新加坡货币政策为何独特：机制解析",
+      "originalTitle": "How Singapore's unique monetary policy works",
+      "region": "新加坡",
+      "topic": "金融监管",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQMXlkbmdYNHEza3pCNzNneGdHUXRDZU85SDVPMl9YRGxMVHhobFRHLXRWWXp2M2JaYUFmOTBkbWJ0NjJVYjZVNEJGYWpUanRDVklneTdCRExkRHFfajlkTC1OeVRxZXBieExxQ2stXzVsRkl5alVQVUNLSEFkazBIcWVmVjdETzE0ZllWN29jNWxTUEVKT3JxeG5nTXprVWs?oc=5",
+      "publishedAt": "2026-10-13T07:00:00+00:00",
+      "summary": "报道解释新加坡货币政策框架的特殊设计与运行逻辑。",
+      "summaryZh": "报道解释新加坡货币政策框架的特殊设计与运行逻辑。",
+      "originalSummary": "How Singapore's unique monetary policy works Reuters",
+      "impact": "为投资者解读新加坡汇率与利率信号提供背景，有助于判断政策变化对资产价格和资金流的影响。",
+      "impactZh": "为投资者解读新加坡汇率与利率信号提供背景，有助于判断政策变化对资产价格和资金流的影响。",
+      "score": 61
+    },
+    {
+      "title": "新加坡副总理：贸易紧张或令增长放缓，但绿色与数字机遇将现",
+      "titleZh": "新加坡副总理：贸易紧张或令增长放缓，但绿色与数字机遇将现",
+      "originalTitle": "Singapore growth to slow as trade tensions rise, but green, digital opportunities will emerge: DPM Gan",
+      "region": "新加坡",
+      "topic": "贸易与物流",
+      "source": "Singapore Economic Development Board (EDB)",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNd2pTWWxnZ3g5ZEZ5R1pLUVpFLTFfOWljUFEyZENNTmlyOUtBYTVCUk9TNlJOdkxVbVoyWkw1X1Zpa0RDSzNFQXRVR0ZzRERLTENtaktsQjZhcmc3aFVMRDJCU292WGtFcXJkNFhjd3ZaTEYzQnVKcDhFUElZSWYxNzJBRTBYT0lhNGN2RVpzMG5MdUZuTkh2c1ZEbVVEUUxnbGUtczE0bHBzNEFtQkk3QXQtRDlVSG1Vc1I5M0xiSl94cDhIdV9ZY1BkUTdQZmhEenhCeDM5MA?oc=5",
+      "publishedAt": "2026-10-13T07:00:00+00:00",
+      "summary": "新加坡方面认为贸易摩擦带来增长下行压力，同时绿色与数字经济仍提供结构性机遇。",
+      "summaryZh": "新加坡方面认为贸易摩擦带来增长下行压力，同时绿色与数字经济仍提供结构性机遇。",
+      "originalSummary": "Singapore growth to slow as trade tensions rise, but green, digital opportunities will emerge: DPM Gan Singapore Economic Development Board (EDB)",
+      "impact": "对关注新加坡市场的投资者而言，需同时评估贸易下行风险与绿色、数字转型带来的结构性机会。",
+      "impactZh": "对关注新加坡市场的投资者而言，需同时评估贸易下行风险与绿色、数字转型带来的结构性机会。",
+      "score": 61
+    },
+    {
+      "title": "能源与人工智能令价格高企，新加坡金管局再收紧预期升温",
+      "titleZh": "能源与人工智能令价格高企，新加坡金管局再收紧预期升温",
+      "originalTitle": "Singapore's MAS tipped to tighten again as energy and AI keep prices hot",
+      "region": "新加坡",
+      "topic": "能源与产业投资",
+      "source": "Briefs Finance",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPcFV5d1gzZEN6V2VZUlBSRVgzUHJqS2xKaGQ0dENUNmtjM1RBSEJvNUVHUDVBci1UdkhlQUdFLUhubUswRlNaRF85TjljSHR4d1FBd2ZyNEtaOGJsUEpYYW52NTFsNk1NQ1k4VHNiRTNfUkR5M1RfN3NJUWRqWXc0TE9kR1ZEWnRTV2wwV1l3a0pNQQ?oc=5",
+      "publishedAt": "2026-10-12T07:00:00+00:00",
+      "summary": "能源和人工智能相关价格压力被视为新加坡可能再度收紧货币政策的理由。",
+      "summaryZh": "能源和人工智能相关价格压力被视为新加坡可能再度收紧货币政策的理由。",
+      "originalSummary": "Singapore's MAS tipped to tighten again as energy and AI keep prices hot Briefs Finance",
+      "impact": "对新加坡利率、汇率和科技投资估值可能产生压力，市场需关注能源价格与人工智能需求对通胀的传导。",
+      "impactZh": "对新加坡利率、汇率和科技投资估值可能产生压力，市场需关注能源价格与人工智能需求对通胀的传导。",
+      "score": 61
+    },
+    {
+      "title": "尼日利亚央行在新加坡接触中深化亚洲金融关系",
+      "titleZh": "尼日利亚央行在新加坡接触中深化亚洲金融关系",
+      "originalTitle": "ZAWYA: Central Bank of Nigeria deepens financial ties with Asia during Singapore engagements",
+      "region": "新加坡",
+      "topic": "金融监管",
+      "source": "TradingView",
+      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxONG9pYjlDVEp3cW5hVFpSSGRfcFlQdktBVU5tanlETXhqMEsxdjhpZURiaTgwWWtGd1BKZnFhWk84RDFwaTd2MHNudUpBZlRuVG41R1VSZGJXSVlXeUNLLXRIS0VDOG05aENtN1NvSlNwd1hhT0hKaGtJUnZCSmV1QWRqTVowblpFSGUzbS13YmJaY3d6VlpEVXJyUHE3SVBiUTJLc3Y1LUVMTlgyQnlrUDNwakpkOVpab0dBZUtMbk1SN0hUR1RWRkJKN2w2NkxlN3dvbWNMTXVlbEs3dTV4U3gwbmVMeVFzSzhPdUdsd0hoZlRjTkN6OWZTTQ?oc=5",
+      "publishedAt": "2026-10-12T11:32:58+00:00",
+      "summary": "尼日利亚央行通过新加坡行程加强与亚洲金融市场的联系。",
+      "summaryZh": "尼日利亚央行通过新加坡行程加强与亚洲金融市场的联系。",
+      "originalSummary": "ZAWYA: Central Bank of Nigeria deepens financial ties with Asia during Singapore engagements TradingView",
+      "impact": "对关注非洲与亚洲资本流动的机构具有信号意义，新加坡的中介与枢纽功能可能进一步扩展。",
+      "impactZh": "对关注非洲与亚洲资本流动的机构具有信号意义，新加坡的中介与枢纽功能可能进一步扩展。",
+      "score": 61
+    },
+    {
+      "title": "新加坡与英国签署绿色经济框架，加强能源与气候合作",
+      "titleZh": "新加坡与英国签署绿色经济框架，加强能源与气候合作",
+      "originalTitle": "Singapore, UK ink green economy framework to bolster energy, climate collaboration",
+      "region": "新加坡",
+      "topic": "能源与产业投资",
+      "source": "Singapore Economic Development Board (EDB)",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQWGttSExzZThkWENrS0hSUkJPYnZySzd3VXVJMjM4QzlVLWMxbW5DNnZLRE5uVHJvU1ZWTXYxS195NTVDSHNmU001MXByYnhTSzdJY0ZUNHpaOTJJSWstbDV6REtmNnp6cnFKZnVoanFJbGt3Nm5wNUhQclB0dG1wSXVEa2NuR3VCY1c2b1lhTWFKU2FEWTZpN1RrRi1tTHhGWHY2MUpaQl9XRzRieUFadFJtLVpyS0NKWFJVNWhn?oc=5",
+      "publishedAt": "2026-10-12T07:00:00+00:00",
+      "summary": "新加坡与英国通过绿色经济框架推动能源与气候领域协作。",
+      "summaryZh": "新加坡与英国通过绿色经济框架推动能源与气候领域协作。",
+      "originalSummary": "Singapore, UK ink green economy framework to bolster energy, climate collaboration Singapore Economic Development Board (EDB)",
+      "impact": "对绿色金融、清洁能源和跨境气候合作构成制度支持，企业可关注后续项目与资金安排。",
+      "impactZh": "对绿色金融、清洁能源和跨境气候合作构成制度支持，企业可关注后续项目与资金安排。",
+      "score": 61
+    },
+    {
+      "title": "半导体中心投资与产业合作助力制造业转型",
+      "titleZh": "半导体中心投资与产业合作助力制造业转型",
+      "originalTitle": "Investments into semiconductor centre, industry tie-ups to power manufacturing transformation",
+      "region": "新加坡",
+      "topic": "主权基金",
+      "source": "Singapore Economic Development Board (EDB)",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNNlhmdk5yZ1JMbmJsSU51QlU4b3EyLXNJcGF1UVFBS0ZGa01haHFOWktXMHVqTWFmZzhVSGREZ2xNRko3dkg2aVNlSUQ3NWI4MFpwYmtoLUcxV2dEYkVPZXBURWdUQ3RsQmNNYWU3RW5lMnUyR3pxY2QxeEg1dDFTZlNWS18zdFJoVy12Q3hwenhNekVaS1dsUEVtYV9oSGVzOGo3YmNIeF9vTEU5YnlHeXZfU1lFN3hhQWd3U3R4cnlLc21FWkNpbFZQbFp4d0xONlE?oc=5",
+      "publishedAt": "2026-10-11T07:00:00+00:00",
+      "summary": "半导体领域投资与产业协作被视为制造业升级的重要动力。",
+      "summaryZh": "半导体领域投资与产业协作被视为制造业升级的重要动力。",
+      "originalSummary": "Investments into semiconductor centre, industry tie-ups to power manufacturing transformation Singapore Economic Development Board (EDB)",
+      "impact": "对半导体产业链投资者具有吸引力，但项目落地进度和全球周期仍是关键变量。",
+      "impactZh": "对半导体产业链投资者具有吸引力，但项目落地进度和全球周期仍是关键变量。",
+      "score": 61
+    },
+    {
+      "title": "保险周报：苏黎世完成Beazley交易，宏利再保32亿美元储备",
+      "titleZh": "保险周报：苏黎世完成Beazley交易，宏利再保32亿美元储备",
+      "originalTitle": "This week in insurance: Zurich completes Beazley deal, Manulife reinsures $3.2b in reserves, Singapore reviews tax rules",
+      "region": "新加坡",
+      "topic": "税务与自由区",
+      "source": "Insurance Asia",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNZVBlYUFCdXFqYThweUJMLWdSM1ZrRGpsQzhfVzRQMXVsU1dxNTE4S1pROHlNMXpWaEhaN19TZENvN1JxMzhRaG9GRHFMZ1BDQ1hnM2lxdTZvSWR0YnBKV01tWjB3ZmRwajZOZzRLRDRObGkwM015TnRVNXJwZ3lIVzRYdkFKSmN2ci1SRHh5anlfTEJwM1lmenJHbWFDZDNvWHhPR1ZkcXo5c0FTdHlDWmd6X1NwTHp5WUEyVWVIVklwRGhJQUpnVXNzb1l1UmdBbXRZb1BnaUhmc01XVzgycDJudzlKUQ?oc=5",
+      "publishedAt": "2026-10-10T07:00:00+00:00",
+      "summary": "本周保险动态包括苏黎世完成Beazley交易、宏利再保32亿美元储备，以及新加坡税务规则审视。",
+      "summaryZh": "本周保险动态包括苏黎世完成Beazley交易、宏利再保32亿美元储备，以及新加坡税务规则审视。",
+      "originalSummary": "This week in insurance: Zurich completes Beazley deal, Manulife reinsures $3.2b in reserves, Singapore reviews tax rules Insurance Asia",
+      "impact": "对保险机构而言，交易整合与税务审视值得关注；再保险安排也反映资产负债表管理需求。",
+      "impactZh": "对保险机构而言，交易整合与税务审视值得关注；再保险安排也反映资产负债表管理需求。",
+      "score": 61
+    }
+  ],
+  "regions": [
+    {
+      "region": "新加坡",
+      "storyCount": 12,
+      "topics": [
+        "金融监管",
+        "主权基金",
+        "贸易与物流",
+        "能源与产业投资",
+        "经济政策",
+        "税务与自由区"
+      ],
+      "note": "报道集中于货币政策、贸易投资协定、制造业与绿色经济。"
+    },
+    {
+      "region": "阿联酋",
+      "storyCount": 6,
+      "topics": [
+        "税务与自由区",
+        "主权基金",
+        "贸易与物流"
+      ],
+      "note": "报道聚焦税务规则、基金迁址、迪拜创业与澳阿贸易。"
+    },
+    {
+      "region": "香港",
+      "storyCount": 0,
+      "topics": [],
+      "note": "新闻列表中未见直接相关报道。"
+    },
+    {
+      "region": "海湾国家",
+      "storyCount": 0,
+      "topics": [],
+      "note": "新闻列表未单列海湾国家综合报道，相关内容主要体现在阿联酋条目。"
+    }
+  ],
+  "analysis": [
+    {
+      "label": "货币政策",
+      "title": "新加坡按兵不动与再收紧预期的拉扯",
+      "body": "新闻列表同时出现新加坡维持货币政策不变、令分析师意外，以及能源与人工智能推高价格后金管局可能再度收紧的判断。两条线索显示，市场对新加坡政策路径的分歧集中在外部价格压力与增长韧性之间。对跨境投资者而言，短期应关注新元汇率、融资成本与科技投资估值对政策预期变化的敏感度。"
+    },
+    {
+      "label": "贸易与投资",
+      "title": "双边与多边协定网络继续扩容",
+      "body": "阿联酋与新加坡探索贸易投资合作、新加坡加入13国自由贸易与投资流动伙伴关系、新加坡与英国签署绿色经济框架，以及澳阿贸易协定下迪拜机遇，均指向区域间制度性连接在加强。新加坡与阿联酋分别扮演东南亚和海湾的枢纽角色，相关协定可能降低跨境协作成本，但实际效果取决于后续细则与项目落地。"
+    },
+    {
+      "label": "税务与自由区",
+      "title": "基金选址与合规成本成为跨境投资关键变量",
+      "body": "Artha Bharat因税务不确定性拟将两只基金从印度GIFT城迁至阿布扎比，迪拜创业者面临牌照之外的合规与运营要求，阿联酋又调整游客增值税退税和电子发票规则，新加坡也在审视保险税务规则。列表显示，税务规则变化正在影响基金注册地、创业者落地和旅游消费，企业需把税务合规视为投资决策的前置条件。"
+    },
+    {
+      "label": "地缘与风险",
+      "title": "霍尔木兹风险与关税压力进入区域叙事",
+      "body": "阿联酋对埃及十年投资被描述为霍尔木兹风险对冲，同时新加坡因特朗普关税成立工作组帮扶企业与工人。新闻列表把关税压力与区域安全风险并置，提示跨境投资者需同时评估贸易政策变化、航运通道风险与海湾资本配置调整，不宜仅以增长数据判断区域前景。"
+    }
+  ],
+  "broadcastScript": {
+    "anchorName": "岚序",
+    "date": "2026-10-24",
+    "headline": "新加坡维持货币政策，阿联酋与新加坡拓展投资合作",
+    "intro": "各位观众大家好，欢迎收看岚序财经。今天是2026年10月24日。接下来为您播报今日亚洲与海湾地区财经要点。",
+    "segments": [
+      {
+        "title": "今日概览",
+        "text": "10月24日情报：新加坡在人工智能推动经济增长5.4%的背景下维持货币政策不变，市场同时关注能源与人工智能带来的再收紧预期；阿联酋与新加坡探索贸易投资新空间，基金迁址、税务规则与电子发票调整成为跨境投资焦点。"
+      },
+      {
+        "title": "新加坡按兵不动：人工智能推动经济扩张5.4%",
+        "text": "第1条，新加坡新加坡按兵不动：人工智能推动经济扩张5.4%。新加坡在人工智能带动经济扩张5.4%之际选择维持货币政策，显示增长与价格压力之间的政策权衡。影响方面，对新加坡资产、汇率和区域科技投资情绪构成支撑；政策未收紧可能缓解融资成本压力，但需关注人工智能周期波动。"
+      },
+      {
+        "title": "新加坡联合13国推出自由贸易与投资流动伙伴关系",
+        "text": "第2条，新加坡新加坡联合13国推出自由贸易与投资流动伙伴关系。新加坡与13国共同启动伙伴关系，重点在于自由贸易与跨境投资流动的制度协作。影响方面，对跨境投资、贸易便利化和区域规则协调构成正面信号，但实际效果取决于伙伴国后续落实。"
+      },
+      {
+        "title": "税务不确定性下，Artha Bharat拟把两只基金迁往阿布扎比",
+        "text": "第3条，阿联酋税务不确定性下，Artha Bharat拟把两只基金迁往阿布扎比。税务环境变化促使Artha Bharat调整基金注册地，阿布扎比成为承接印度离岸基金业务的候选地。影响方面，对基金注册地选择、自由区竞争力和跨境税务筹划具有指示意义，也可能影响印度GIFT城的基金集聚效应。"
+      },
+      {
+        "title": "阿联酋与新加坡探索贸易与投资伙伴关系新空间",
+        "text": "第4条，新加坡阿联酋与新加坡探索贸易与投资伙伴关系新空间。阿联酋与新加坡寻求在贸易、投资及主权基金合作方面拓展新的合作空间。影响方面，对海湾与东南亚之间的资本流动和贸易连接构成积极信号，但合作深度取决于后续协议与项目落地。"
+      },
+      {
+        "title": "离开高税负国家赴迪拜创业，牌照之外更关键的是什么",
+        "text": "第5条，阿联酋离开高税负国家赴迪拜创业，牌照之外更关键的是什么。迪拜创业门槛并非只在牌照，创始人还需应对税务、合规和实际运营等更深层问题。影响方面，提示跨境创业者不要低估落地后的合规成本，也为税务、法律和企业服务提供商带来需求。"
+      }
+    ],
+    "outro": "今日重点，新加坡维持货币政策，阿联酋与新加坡拓展投资合作。感谢收看岚序财经，我们明天见。"
+  }
+}
