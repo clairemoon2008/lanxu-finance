@@ -1,0 +1,324 @@
+{
+  "date": "2026-10-26",
+  "generatedAt": "2026-10-26T00:00:00+00:00",
+  "status": "published",
+  "headline": "新加坡维持货币政策，AI支撑增长；海湾资本与贸易布局加速",
+  "summary": "2026年10月26日情报：新加坡金管局维持货币政策，AI带动经济扩张5.4%；区域贸易合作与海湾基金迁址、主权投资动向值得关注。新闻列表未见香港条目。",
+  "metrics": {
+    "totalStories": 18,
+    "selectedTopStories": 12,
+    "regionsCovered": 4,
+    "regionCounts": {
+      "香港": 0,
+      "新加坡": 13,
+      "阿联酋": 4,
+      "海湾国家": 1
+    },
+    "topicCounts": {
+      "金融监管": 6,
+      "主权基金": 3,
+      "贸易与物流": 2,
+      "税务与自由区": 1,
+      "能源与产业投资": 3,
+      "经济政策": 3
+    },
+    "averageScore": 66.1,
+    "highestScore": 78,
+    "uniqueSources": 12,
+    "articles": 12,
+    "regions": 4,
+    "hotspots": 5
+  },
+  "topStories": [
+    {
+      "title": "新加坡金管局按兵不动：AI拉动经济扩张5.4%",
+      "titleZh": "新加坡金管局按兵不动：AI拉动经济扩张5.4%",
+      "originalTitle": "Singapore Holds Monetary Policy as Economy Expands 5.4% on AI",
+      "region": "新加坡",
+      "topic": "金融监管",
+      "source": "Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQS1lhSHN3c3NCZ0htanVDMUVZRFNnckkwYVV6VVU1ZFpqN1Bmak9HcHRIV0p5bWM1Y3BKLWgwTk96X25WTExxWm1yS08wdWFYamVvdE1TZUUxQ1NhMjBQb05DMldSd045aWFLa3hGTUZBc09LWTZZVUFQY0N3YlhHZXozczRkdVNiMGxMLUhYN3lMZTRRUFJ2akVZOV9mRGNPWS11OW1NdXZOUUhxUmVRNQ?oc=5",
+      "publishedAt": "2026-10-14T07:00:00+00:00",
+      "summary": "新加坡经济在AI需求支撑下扩张5.4%，金管局选择维持货币政策，显示其在增长与通胀之间保持平衡。",
+      "summaryZh": "新加坡经济在AI需求支撑下扩张5.4%，金管局选择维持货币政策，显示其在增长与通胀之间保持平衡。",
+      "originalSummary": "Singapore Holds Monetary Policy as Economy Expands 5.4% on AI Bloomberg.com",
+      "impact": "对跨境投资者而言，关注AI产业链景气、通胀走势及金管局后续声明，比单次政策决定更具指示意义。",
+      "impactZh": "对跨境投资者而言，关注AI产业链景气、通胀走势及金管局后续声明，比单次政策决定更具指示意义。",
+      "score": 78
+    },
+    {
+      "title": "新加坡央行意外按兵不动，市场关注政策暂停信号",
+      "titleZh": "新加坡央行意外按兵不动，市场关注政策暂停信号",
+      "originalTitle": "Singapore Central Bank Surprises With Policy Pause",
+      "region": "新加坡",
+      "topic": "金融监管",
+      "source": "WSJ",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQX0JYRWx2ZUpOM2U4QUg0VVFOTEtYNVJORzZkLWRHUF9VQ0dDUEVfcjRYN1N5U3ZIRS13UmdkckRqQmFpb0NoLWRvdjJGV0haU1UyZ0syWFhkRGd1RDFoSEl5VjJGT2llSEZCNVhDd2syR0hsVjl5c0swQzdUUG1fZTNIQkZzdHhIY2xSVkpRRWFCQl9oYzlLNDlEc29mZ2plOXQ5S29DOFVLSGFN?oc=5",
+      "publishedAt": "2026-10-14T07:00:00+00:00",
+      "summary": "WSJ称新加坡金管局意外暂停政策调整，市场将重新评估其汇率与利率政策路径。",
+      "summaryZh": "WSJ称新加坡金管局意外暂停政策调整，市场将重新评估其汇率与利率政策路径。",
+      "originalSummary": "Singapore Central Bank Surprises With Policy Pause WSJ",
+      "impact": "跨境资金应关注新元汇率区间与区域利率联动，防范预期重定价风险。",
+      "impactZh": "跨境资金应关注新元汇率区间与区域利率联动，防范预期重定价风险。",
+      "score": 71
+    },
+    {
+      "title": "新加坡金管局2026年10月货币政策声明发布",
+      "titleZh": "新加坡金管局2026年10月货币政策声明发布",
+      "originalTitle": "Monetary Authority Of Singapore Monetary Policy Statement - October 2026",
+      "region": "新加坡",
+      "topic": "金融监管",
+      "source": "Mondo Visione",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPTnB6eGlnbm5uWjRnRXJiX1pweDNhS0toRndLbm9NUzdKNHN3TFk2dDV2RlJnV1dpZEVlZ3ZSTzVtVmFjYjN1WlFmUDRUMXFtUmp4NmpaUF9CcmQ3OUN2dGFsa2pwbkNhQ1BoYkZFUzBqaW1ndUpaV2doNlIxR1R5Xzg1X1FPWGVoRFpFS1VhbmpjeGgya291Qjg2d0poWEFPM0J3a2FBaV9ZY2pteTNBbS04d0VVSHk3TTRNenA5N3lCWU1FQ3lLWl93?oc=5",
+      "publishedAt": "2026-10-14T05:55:01+00:00",
+      "summary": "该声明是观察新加坡货币政策立场、汇率政策框架与通胀评估的官方文件。",
+      "summaryZh": "该声明是观察新加坡货币政策立场、汇率政策框架与通胀评估的官方文件。",
+      "originalSummary": "Monetary Authority Of Singapore Monetary Policy Statement",
+      "impact": "建议结合声明措辞与后续数据，评估新元汇率和融资成本变化。",
+      "impactZh": "建议结合声明措辞与后续数据，评估新元汇率和融资成本变化。",
+      "score": 71
+    },
+    {
+      "title": "新加坡加入13国伙伴关系，承诺促进自由贸易与投资流动",
+      "titleZh": "新加坡加入13国伙伴关系，承诺促进自由贸易与投资流动",
+      "originalTitle": "Singapore joins 13 countries to launch partnership committed to free trade and enhancing investment flows",
+      "region": "新加坡",
+      "topic": "主权基金",
+      "source": "Singapore Economic Development Board (EDB)",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNV1pCcFBFdzBHdDZ6S0ZEX0t3elZDZXdJdlFDcXVSRlAxb3REOTJkMi1xYkNFMmc5WmUwOExBMURIRzNOZEJoeWZhZTM5cDl1aURfam5XMW5NQVN1eFY1eEJDcFNNSmdHbzZ3RDgxUGktMGZxRW1VcmNtZGxzNjgyTzNLZTgxQVpmTC1xQmhoTHpOR2VfWFJRTGNXWUpvUHBZa3g4ZE9LNFFGZlAxNVpFemN1bm9TQ09pRHk1cHhTUQ?oc=5",
+      "publishedAt": "2026-10-22T07:00:00+00:00",
+      "summary": "该伙伴关系聚焦自由贸易与投资便利化，可能影响区域供应链和跨境资本配置。",
+      "summaryZh": "该伙伴关系聚焦自由贸易与投资便利化，可能影响区域供应链和跨境资本配置。",
+      "originalSummary": "Singapore joins 13 countries to launch partnership committed to free trade and enhancing investment flows Singapore Economic Development Board (EDB)",
+      "impact": "企业可关注原产地规则、投资准入和争端解决机制等后续安排。",
+      "impactZh": "企业可关注原产地规则、投资准入和争端解决机制等后续安排。",
+      "score": 71
+    },
+    {
+      "title": "RCEP正式生效：92%成员间贸易商品关税被削减",
+      "titleZh": "RCEP正式生效：92%成员间贸易商品关税被削减",
+      "originalTitle": "World's largest free trade agreement RCEP kicks in, cutting tariffs for 92% of goods traded among parties",
+      "region": "新加坡",
+      "topic": "贸易与物流",
+      "source": "Singapore Economic Development Board (EDB)",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQVFRubVBkLW1RVFVWOXc2U01jRkZIZFROQllqXzhlRjVjSmtPbFpyQjZZeHpJcHNHZ1dITnM3ZGlrell2V2Z5UlhZNUlEUEFMWlZhWXY4ZHgyU2p6Y1RkNm1OaHJNLXh2WklFYW1TZE9sR0c5WTNhQzJReFFoelRGQlM1bUhEdTZOaHlUcEdPMVdaU0F4bDZtMi1IYm40d0lFVlFPM3YtWVRYQ29wUGJ5RFZMRmYzYWhYcEY3RWtGU1hMLWtYcVFRMl8yZlZod2lKeWJZbGRxZkFxYlVUVnBQNw?oc=5",
+      "publishedAt": "2026-10-13T07:00:00+00:00",
+      "summary": "RCEP关税削减覆盖成员间绝大多数贸易商品，对区域贸易与供应链布局具有直接影响。",
+      "summaryZh": "RCEP关税削减覆盖成员间绝大多数贸易商品，对区域贸易与供应链布局具有直接影响。",
+      "originalSummary": "World's largest free trade agreement RCEP kicks in, cutting tariffs for 92% of goods traded among parties Singapore Economic Development Board (EDB)",
+      "impact": "跨境企业应评估原产地规则、关税清单和供应链重构机会。",
+      "impactZh": "跨境企业应评估原产地规则、关税清单和供应链重构机会。",
+      "score": 71
+    },
+    {
+      "title": "税务不确定性推动Artha Bharat将基金迁址阿布扎比",
+      "titleZh": "税务不确定性推动Artha Bharat将基金迁址阿布扎比",
+      "originalTitle": "Artha Bharat to Move Two Investment Funds From GIFT City to Abu Dhabi Amid Tax Uncertainty",
+      "region": "阿联酋",
+      "topic": "税务与自由区",
+      "source": "www.nationpathindia.com",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQMnFpSjRGSnJ3SWZYUHU3cXY3NWozYUpraml4RXdCYXIxbGd4aHo4dVpCQnV6MmVMQi1ZZm5EUGtEYUppaTlGQS1taWFRTVZfelN5V2pXcDRPV1lqeVZfT1FrVGs2bkxMVkZmVnc4c09JaEFKc2pleTEtdml3NjJVd05IX3FCZmhRd0RHdzNGUXVpZGtwUVItSnhR?oc=5",
+      "publishedAt": "2026-10-20T23:03:43+00:00",
+      "summary": "基金迁址反映税务与自由区政策对资产管理选址的影响，阿布扎比成为承接方。",
+      "summaryZh": "基金迁址反映税务与自由区政策对资产管理选址的影响，阿布扎比成为承接方。",
+      "originalSummary": "Artha Bharat to Move Two Investment Funds From GIFT City to Abu Dhabi Amid Tax Uncertainty www.nationpathindia.com",
+      "impact": "关注阿联酋自由区税制、基金注册要求及印度GIFT City后续政策变化。",
+      "impactZh": "关注阿联酋自由区税制、基金注册要求及印度GIFT City后续政策变化。",
+      "score": 71
+    },
+    {
+      "title": "阿联酋对加拿大700亿美元投资承诺面临推进考验",
+      "titleZh": "阿联酋对加拿大700亿美元投资承诺面临推进考验",
+      "originalTitle": "How Mark Carney Can Rescue the UAE’s $70 Billion Investment Commitment into Canada – Resource Works",
+      "region": "阿联酋",
+      "topic": "能源与产业投资",
+      "source": "EnergyNow",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNSWltYzRxV1MtUkc4R1FlZjI2S2U0MzdLekVaV2s4aUNvdWV5QzVnVlljMXd2djd5S2w0NzVIRUtrbjlITXZMak9EOXFDVjFsWmlXckV6TmVXd0M5bU1YTWtmQmFmeXpUR3p6a0ExcUNmbE1HNExRYXUyTnRUZjZTdzhYaFE2SWNrcjM3VHpyQ1pHR1BrZnBGaTRRT1ZRSVhFVFhYZndHRGFOMThtdVkzSVFkdGVOM0xGMWxXNmZtYWFlYkU?oc=5",
+      "publishedAt": "2026-10-25T16:29:15+00:00",
+      "summary": "文章聚焦阿联酋对加拿大大型投资承诺的落实问题，以及政策协调对投资推进的影响。",
+      "summaryZh": "文章聚焦阿联酋对加拿大大型投资承诺的落实问题，以及政策协调对投资推进的影响。",
+      "originalSummary": "How Mark Carney Can Rescue the UAE’s $70 Billion Investment Commitment into Canada – Resource Works EnergyNow",
+      "impact": "需关注加拿大投资审查、能源项目政策及双方后续官方确认。",
+      "impactZh": "需关注加拿大投资审查、能源项目政策及双方后续官方确认。",
+      "score": 71
+    },
+    {
+      "title": "阿布扎比新基金酝酿人事：Fortress资深人士或出任负责人",
+      "titleZh": "阿布扎比新基金酝酿人事：Fortress资深人士或出任负责人",
+      "originalTitle": "Abu Dhabi Considers Picking Fortress Veteran to Lead New Fund",
+      "region": "阿联酋",
+      "topic": "主权基金",
+      "source": "Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxONDFycnQ4eU5odnE0SWpPMjQzRHNtdGJaak9ZOVdOR2NJY2FiUVZycE92c1ZfdC02V3dTYWFEangwcHNvSGc2YnNMQ283MkxoY2RFOGhveGVQYy1FQVVpRGpEQVJkVUJCNy1EZ3FJcFd2OFR6cTBhREluenNQTnp5RGM0M0xTSEJmY0RRMm5xa2xOSnU5NkJ1WWZhV1hIbkRRZ1NOajJlb2hYSzB5V29lMkFBQllsdUc2VXJXM3YydEVvZXM?oc=5",
+      "publishedAt": "2026-10-15T07:00:00+00:00",
+      "summary": "新基金领导层人选若确定，可能影响阿布扎比主权基金的投资策略与外部合作。",
+      "summaryZh": "新基金领导层人选若确定，可能影响阿布扎比主权基金的投资策略与外部合作。",
+      "originalSummary": "Abu Dhabi Considers Picking Fortress Veteran to Lead New Fund Bloomberg.com",
+      "impact": "外部管理人可关注新基金策略、授权范围及与阿布扎比资本的共同投资机会。",
+      "impactZh": "外部管理人可关注新基金策略、授权范围及与阿布扎比资本的共同投资机会。",
+      "score": 68
+    },
+    {
+      "title": "沙特经济转型雄心面临也门战争掣肘",
+      "titleZh": "沙特经济转型雄心面临也门战争掣肘",
+      "originalTitle": "MBS’s Economic Ambitions for Saudi Arabia Collide With Yemen War",
+      "region": "海湾国家",
+      "topic": "经济政策",
+      "source": "Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNMVM3ZWJuRldpYVRqS3pFeWkwSENjOWtUdklKSDVWLThtZFh6UHhaOWZweVJMNWkxVVZoV3ZvS1liNkpqSmI1RG1heENpNE12UzVtSk14djU3RUNuTTQwUTJVRGYwcGV2cEFHQnM3TS05SjR4Y0I0VDljSkNTY2pFNFA5NFk4eDFtbW9JNzMzZDdySTZfZWwxcmxNOEx2MXRYRms3dWwwa3BGMjZMM2Rad3BmdlVhZlFuOWxCVmJYZFdRaFlqNzZB?oc=5",
+      "publishedAt": "2026-10-12T07:00:00+00:00",
+      "summary": "文章聚焦地缘冲突对沙特经济转型和投资环境的潜在影响。",
+      "summaryZh": "文章聚焦地缘冲突对沙特经济转型和投资环境的潜在影响。",
+      "originalSummary": "MBS’s Economic Ambitions for Saudi Arabia Collide With Yemen War Bloomberg.com",
+      "impact": "投资者需将安全风险、财政支出与项目执行进度纳入海湾资产定价。",
+      "impactZh": "投资者需将安全风险、财政支出与项目执行进度纳入海湾资产定价。",
+      "score": 68
+    },
+    {
+      "title": "新加坡金管局维持政策不变，分析师预期落空",
+      "titleZh": "新加坡金管局维持政策不变，分析师预期落空",
+      "originalTitle": "Singapore keeps monetary policy unchanged, surprising analysts",
+      "region": "新加坡",
+      "topic": "金融监管",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQTkZsNjgxcWtmVi11UjBKNWxKVG5VQnk5WWpyakxHdnFWVFRsMldXNFgtV1FRRExUWlBvTmRiTTBhRS1CNDE0MWlpUjR4bk9iUHJqcl9qUTViVHB3by1LM1Q1MDR0VjVMWU9qYzRfSEFsRnkzZktPdGhPbTNGdFYyY3BVcmVVem1oT25OdUF0c2dLTllmT3hhTDNfN2VVa0l2Q1U4cl9hSEswdmNVWkg5bFlQQ2pGaWs?oc=5",
+      "publishedAt": "2026-10-14T07:00:00+00:00",
+      "summary": "新加坡金管局未调整政策，市场将重新评估其应对通胀与增长风险的政策路径。",
+      "summaryZh": "新加坡金管局未调整政策，市场将重新评估其应对通胀与增长风险的政策路径。",
+      "originalSummary": "Singapore keeps monetary policy unchanged, surprising analysts Reuters",
+      "impact": "关注金管局后续声明与通胀数据，以判断政策正常化节奏。",
+      "impactZh": "关注金管局后续声明与通胀数据，以判断政策正常化节奏。",
+      "score": 61
+    },
+    {
+      "title": "新加坡副总理称贸易紧张带来增长压力，但绿色与数字领域蕴含机遇",
+      "titleZh": "新加坡副总理称贸易紧张带来增长压力，但绿色与数字领域蕴含机遇",
+      "originalTitle": "Singapore growth to slow as trade tensions rise, but green, digital opportunities will emerge: DPM Gan",
+      "region": "新加坡",
+      "topic": "贸易与物流",
+      "source": "Singapore Economic Development Board (EDB)",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNd2pTWWxnZ3g5ZEZ5R1pLUVpFLTFfOWljUFEyZENNTmlyOUtBYTVCUk9TNlJOdkxVbVoyWkw1X1Zpa0RDSzNFQXRVR0ZzRERLTENtaktsQjZhcmc3aFVMRDJCU292WGtFcXJkNFhjd3ZaTEYzQnVKcDhFUElZSWYxNzJBRTBYT0lhNGN2RVpzMG5MdUZuTkh2c1ZEbVVEUUxnbGUtczE0bHBzNEFtQkk3QXQtRDlVSG1Vc1I5M0xiSl94cDhIdV9ZY1BkUTdQZmhEenhCeDM5MA?oc=5",
+      "publishedAt": "2026-10-22T07:00:00+00:00",
+      "summary": "新加坡在贸易紧张背景下预计增长放缓，同时将绿色与数字转型视为新机遇。",
+      "summaryZh": "新加坡在贸易紧张背景下预计增长放缓，同时将绿色与数字转型视为新机遇。",
+      "originalSummary": "Singapore growth to slow as trade tensions rise, but green, digital opportunities will emerge: DPM Gan Singapore Economic Development Board (EDB)",
+      "impact": "企业可关注绿色金融、碳服务、数字贸易与相关激励政策。",
+      "impactZh": "企业可关注绿色金融、碳服务、数字贸易与相关激励政策。",
+      "score": 61
+    },
+    {
+      "title": "战争压缩迪拜经济，阿联酋对埃及投资转向霍尔木兹风险对冲",
+      "titleZh": "战争压缩迪拜经济，阿联酋对埃及投资转向霍尔木兹风险对冲",
+      "originalTitle": "The UAE’s decade of investment in Egypt is turning into a Hormuz hedge as the war shrinks Dubai’s economy",
+      "region": "阿联酋",
+      "topic": "主权基金",
+      "source": "EnterpriseAM",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOdUFWSnJHYUN0TWJ5LVBJcllrN09ZaHkxZ1A3TDBWN00tOTkwd1BnLUgzSHZZV1dlcTVzenJRSFpyeFNod25XbnZhNXM5TW9pZ0NZMlh2LURWeTFCd2dmNzFfSTdBZFBwcVhDLWFqSmdfMGpzbHhEUWhfY2hpNzBaMHY2UkRETTB0WVlva3BGbXBneW5fc3pqaUVtN1hEc3hHSDNDSlhfOGZZNENFV2p4SnczVjRLTkZPb3Q3LWRoRExweTlWTlVNRElhMHBUN2pnUEhnb2Zadw?oc=5",
+      "publishedAt": "2026-10-19T03:06:54+00:00",
+      "summary": "区域冲突与航运风险上升之际，阿联酋在埃及的长期投资被视为一种地缘经济对冲。",
+      "summaryZh": "区域冲突与航运风险上升之际，阿联酋在埃及的长期投资被视为一种地缘经济对冲。",
+      "originalSummary": "The UAE’s decade of investment in Egypt is turning into a Hormuz hedge as the war shrinks Dubai’s economy EnterpriseAM",
+      "impact": "需跟踪霍尔木兹海峡风险、迪拜经济数据及阿联酋对埃及投资项目的执行情况。",
+      "impactZh": "需跟踪霍尔木兹海峡风险、迪拜经济数据及阿联酋对埃及投资项目的执行情况。",
+      "score": 61
+    }
+  ],
+  "regions": [
+    {
+      "region": "香港",
+      "storyCount": 0,
+      "keyThemes": [
+        "本次新闻列表未包含香港相关条目"
+      ],
+      "topStory": null
+    },
+    {
+      "region": "新加坡",
+      "storyCount": 13,
+      "keyThemes": [
+        "货币政策按兵不动",
+        "AI与经济增长",
+        "贸易协定与绿色合作"
+      ],
+      "topStory": "新加坡维持货币政策，AI推动经济扩张5.4%"
+    },
+    {
+      "region": "阿联酋",
+      "storyCount": 4,
+      "keyThemes": [
+        "基金迁址与税务不确定性",
+        "主权基金人事",
+        "对加拿大与埃及投资"
+      ],
+      "topStory": "Artha Bharat因税务不确定性将两只基金从GIFT City迁至阿布扎比"
+    },
+    {
+      "region": "海湾国家",
+      "storyCount": 1,
+      "keyThemes": [
+        "沙特经济转型与也门冲突风险"
+      ],
+      "topStory": "MBS的沙特经济雄心与也门战争相撞"
+    }
+  ],
+  "analysis": [
+    {
+      "label": "新加坡货币政策",
+      "title": "按兵不动成为主线，AI与通胀决定后续空间",
+      "body": "本次新加坡相关报道集中指向金管局维持货币政策：Bloomberg称AI推动经济扩张5.4%，WSJ与Reuters均提到政策暂停令市场意外，MAS声明提供官方基准。后续观察重点是AI需求持续性、能源价格与2027年AI放缓信号对通胀和汇率政策的影响。"
+    },
+    {
+      "label": "海湾资本流向",
+      "title": "税务不确定性与地缘风险重塑基金与投资选址",
+      "body": "Artha Bharat因税务不确定性将两只基金从GIFT City迁至阿布扎比，阿布扎比还在考虑任命Fortress资深人士领导新基金；同时阿联酋对加拿大700亿美元投资承诺和对埃及十年投资成为观察点。基金迁址、主权基金人事与大型跨境投资共同显示海湾资本配置正在调整，但落地仍取决于税务、监管与地缘风险。"
+    },
+    {
+      "label": "贸易与供应链",
+      "title": "RCEP与伙伴关系推进，但贸易紧张压制增长预期",
+      "body": "RCEP生效削减成员间92%商品关税，新加坡加入13国自由贸易与投资伙伴关系；与此同时，新加坡副总理表示贸易紧张可能令增长放缓。贸易便利化与保护主义压力并存，企业需同时评估关税红利和供应链摩擦。"
+    },
+    {
+      "label": "香港观察",
+      "title": "本次新闻列表未见香港条目",
+      "body": "在给定的香港、新加坡、阿联酋、海湾国家新闻列表中，没有香港相关报道。因此本期无法基于列表评估香港政策、市场或资本流动变化，建议后续补充香港来源后再形成判断。"
+    },
+    {
+      "label": "风险提示",
+      "title": "政策意外、税务变化与地缘冲突是三大变量",
+      "body": "新加坡政策暂停与市场预期存在偏差，可能带来汇率与利率重定价；GIFT City至阿布扎比的基金迁址显示税务不确定性会影响选址；也门战争、霍尔木兹风险及迪拜经济收缩则提示海湾地缘风险仍高。上述因素应纳入跨境投资与贸易决策。"
+    }
+  ],
+  "broadcastScript": {
+    "anchorName": "岚序",
+    "date": "2026-10-26",
+    "headline": "新加坡维持货币政策，AI支撑增长；海湾资本与贸易布局加速",
+    "intro": "各位观众大家好，欢迎收看岚序财经。今天是2026年10月26日。接下来为您播报今日亚洲与海湾地区财经要点。",
+    "segments": [
+      {
+        "title": "今日概览",
+        "text": "2026年10月26日情报：新加坡金管局维持货币政策，AI带动经济扩张5.4%；区域贸易合作与海湾基金迁址、主权投资动向值得关注。新闻列表未见香港条目。"
+      },
+      {
+        "title": "新加坡金管局按兵不动：AI拉动经济扩张5.4%",
+        "text": "第1条，新加坡新加坡金管局按兵不动：AI拉动经济扩张5.4%。新加坡经济在AI需求支撑下扩张5.4%，金管局选择维持货币政策，显示其在增长与通胀之间保持平衡。影响方面，对跨境投资者而言，关注AI产业链景气、通胀走势及金管局后续声明，比单次政策决定更具指示意义。"
+      },
+      {
+        "title": "新加坡央行意外按兵不动，市场关注政策暂停信号",
+        "text": "第2条，新加坡新加坡央行意外按兵不动，市场关注政策暂停信号。WSJ称新加坡金管局意外暂停政策调整，市场将重新评估其汇率与利率政策路径。影响方面，跨境资金应关注新元汇率区间与区域利率联动，防范预期重定价风险。"
+      },
+      {
+        "title": "新加坡金管局2026年10月货币政策声明发布",
+        "text": "第3条，新加坡新加坡金管局2026年10月货币政策声明发布。该声明是观察新加坡货币政策立场、汇率政策框架与通胀评估的官方文件。影响方面，建议结合声明措辞与后续数据，评估新元汇率和融资成本变化。"
+      },
+      {
+        "title": "新加坡加入13国伙伴关系，承诺促进自由贸易与投资流动",
+        "text": "第4条，新加坡新加坡加入13国伙伴关系，承诺促进自由贸易与投资流动。该伙伴关系聚焦自由贸易与投资便利化，可能影响区域供应链和跨境资本配置。影响方面，企业可关注原产地规则、投资准入和争端解决机制等后续安排。"
+      },
+      {
+        "title": "RCEP正式生效：92%成员间贸易商品关税被削减",
+        "text": "第5条，新加坡RCEP正式生效：92%成员间贸易商品关税被削减。RCEP关税削减覆盖成员间绝大多数贸易商品，对区域贸易与供应链布局具有直接影响。影响方面，跨境企业应评估原产地规则、关税清单和供应链重构机会。"
+      }
+    ],
+    "outro": "今日重点，新加坡维持货币政策，AI支撑增长；海湾资本与贸易布局加速。感谢收看岚序财经，我们明天见。"
+  }
+}
