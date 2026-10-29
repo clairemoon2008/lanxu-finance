@@ -1,0 +1,401 @@
+{
+  "date": "2026-10-29",
+  "generatedAt": "2026-10-29T00:00:00Z",
+  "status": "published",
+  "headline": "香港维持高利率，新加坡与海湾经济体推进贸易、投资与监管议程",
+  "summary": "2026年10月29日情报覆盖香港、新加坡、阿联酋及海湾国家。香港维持基准利率4.25%并关注套息压力；新加坡联合13国发起自由贸易与投资伙伴关系，同时推进支付治理、能源转型与绿色声明规则；阿联酋与印尼、加拿大等地深化贸易投资联系，主权基金继续活跃于跨境资产配置。",
+  "metrics": {
+    "totalStories": 18,
+    "highImpactStories": 3,
+    "averageScore": 62.67,
+    "regionBreakdown": {
+      "香港": 2,
+      "新加坡": 7,
+      "阿联酋": 8,
+      "海湾国家": 1
+    },
+    "topicBreakdown": {
+      "主权基金": 6,
+      "贸易与物流": 4,
+      "金融监管": 3,
+      "能源与产业投资": 2,
+      "经济政策": 1,
+      "税务与自由区": 2
+    },
+    "articles": 18,
+    "regions": 4,
+    "hotspots": 5
+  },
+  "topStories": [
+    {
+      "title": "新加坡携手13国启动伙伴关系，承诺促进自由贸易与投资流动",
+      "titleZh": "新加坡携手13国启动伙伴关系，承诺促进自由贸易与投资流动",
+      "originalTitle": "Singapore joins 13 countries to launch partnership committed to free trade and enhancing investment flows",
+      "region": "新加坡",
+      "topic": "主权基金",
+      "source": "Singapore Economic Development Board (EDB)",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNV1pCcFBFdzBHdDZ6S0ZEX0t3elZDZXdJdlFDcXVSRlAxb3REOTJkMi1xYkNFMmc5WmUwOExBMURIRzNOZEJoeWZhZTM5cDl1aURfam5XMW5NQVN1eFY1eEJDcFNNSmdHbzZ3RDgxUGktMGZxRW1VcmNtZGxzNjgyTzNLZTgxQVpmTC1xQmhoTHpOR2VfWFJRTGNXWUpvUHBZa3g4ZE9LNFFGZlAxNVpFemN1bm9TQ09pRHk1cHhTUQ?oc=5",
+      "publishedAt": "2026-10-25T07:00:00+00:00",
+      "summary": "新加坡与另外13个国家共同启动一项伙伴关系，承诺维护自由贸易并促进投资流动；具体成员与机制细节仍待观察。",
+      "summaryZh": "新加坡与另外13个国家共同启动一项伙伴关系，承诺维护自由贸易并促进投资流动；具体成员与机制细节仍待观察。",
+      "originalSummary": "Singapore joins 13 countries to launch partnership committed to free trade and enhancing investment flows Singapore Economic Development Board (EDB)",
+      "impact": "若机制落地，可能强化新加坡作为区域贸易与投资枢纽的角色，并为跨境资本流动提供更多制度性便利。",
+      "impactZh": "若机制落地，可能强化新加坡作为区域贸易与投资枢纽的角色，并为跨境资本流动提供更多制度性便利。",
+      "score": 71
+    },
+    {
+      "title": "印度尼西亚和阿联酋加强经济纽带，扩大贸易与投资机会",
+      "titleZh": "印度尼西亚和阿联酋加强经济纽带，扩大贸易与投资机会",
+      "originalTitle": "Indonesia, UAE forge stronger economic ties with growing trade and investment opportunities",
+      "region": "阿联酋",
+      "topic": "主权基金",
+      "source": "Gulf News",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNYjZ5TGNxUmdPYWVnak5wOUowRlpsd0pOa1E3SldtZDZsQ0d1RXRDWFp2azVOdVdtbnBBWmhQal95RlpDdDR4ZDkzazU3VEJacmhGX3lZUEVHYkNkV0cxbEk3cHpzSTZhS3JQWVZ1a3dvLXpvLUhTVXZpZVNDMkt2a3d2UzVjMzBNclRHUEFNMWNsYVRBNFBnM0tzMEZCbnZxenZLZWdkUlZzblZRdVNiRTRHdHZqQjlhTXhYekp6eEQtM0FmSHJsTnNVZXN3Y0R1SVhfNWZ5MmNvOF9G0gHcAUFVX3lxTE1iNnlMY3FSZ09hZWdqTnA5SjBGWmx3Sk5rUTdKV21kNmxDR3VFdENYWnZrNU51V21ucEFaaFBqX3lGWkN0NHhkOTNrNTdUQlpyaEZfeVlQRUdiQ2RXRzFsSTdwenNJNmFLclBZVnVrd28tem8tSFNVdmllU0MyS3Zrd3ZTNWMzME1yVEdQQU0xY2xhVEE0UGczS3MwRkJudnF6dktlZ2RSVnNuVlF1U2JFNEd0dmpCOWFNeFh6Snp4RC0zQWZIcmxOc1Vlc3djRHVJWF81ZnkyY284X0Y?oc=5",
+      "publishedAt": "2026-10-28T07:20:51+00:00",
+      "summary": "印度尼西亚与阿联酋正加强经济联系，双方贸易和投资机会持续增加，报道聚焦双边经济合作。",
+      "summaryZh": "印度尼西亚与阿联酋正加强经济联系，双方贸易和投资机会持续增加，报道聚焦双边经济合作。",
+      "originalSummary": "Indonesia, UAE forge stronger economic ties with growing trade and investment opportunities Gulf News",
+      "impact": "双边关系升温可能带动海湾资本对东南亚基础设施与产业投资，并为阿联酋企业进入印尼市场提供通道。",
+      "impactZh": "双边关系升温可能带动海湾资本对东南亚基础设施与产业投资，并为阿联酋企业进入印尼市场提供通道。",
+      "score": 71
+    },
+    {
+      "title": "沙特海事与物流大会强调海事整合及贸易投资机遇",
+      "titleZh": "沙特海事与物流大会强调海事整合及贸易投资机遇",
+      "originalTitle": "Saudi Maritime & Logistics Congress Highlights Maritime Sector Integration and Opportunities for Trade and Investment Growth in the Kingdom",
+      "region": "海湾国家",
+      "topic": "主权基金",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQOG5qQ2ZOZmlSd09JNTlMQ3hFblRhckN1UEtaaWJsOGpGUHV6RW1YdmJoazhUVkttS2x4V1htQnFxaWFKNWkybGtRdmp1cVBxWXZ1RXEyQ3RwbGJrMk1XbThGVHUyc2tCRUdTenh2NHpHRksxUHM4Wmttay0tdldZQjY1M1ZJdEsyZ0lNdnd2eDdxNGQxdjZWa0hROVF0ZHZHSUJCQTl5aFFOZV92bVE?oc=5",
+      "publishedAt": "2026-10-22T14:52:00+00:00",
+      "summary": "沙特海事与物流大会强调海事领域整合，以及在沙特贸易和投资增长中的机会。",
+      "summaryZh": "沙特海事与物流大会强调海事领域整合，以及在沙特贸易和投资增长中的机会。",
+      "originalSummary": "Saudi Maritime & Logistics Congress Highlights Maritime Sector Integration and Opportunities for Trade and Investment Growth in the Kingdom Yahoo Finance",
+      "impact": "海事物流整合有望提升沙特港口与航运效率，支持非油贸易和外资进入。",
+      "impactZh": "海事物流整合有望提升沙特港口与航运效率，支持非油贸易和外资进入。",
+      "score": 71
+    },
+    {
+      "title": "美联储按兵不动，香港基准利率保持4.25%",
+      "titleZh": "美联储按兵不动，香港基准利率保持4.25%",
+      "originalTitle": "Hong Kong Holds Base Rate at 4.25% as Fed Stands Pat, HKMA Flags Carry-Trade Pressure on Currency",
+      "region": "香港",
+      "topic": "贸易与物流",
+      "source": "BigGo Finance",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBRaTZ0LUlraEVJdWJMVlZHano2Z2pUcGVQWXBDT3JrbGlMdmdZRnFfLUgyTklqQm9tei1WRE9LbkFOcUFQQ1VrMTRLN1ZkWFc5M2VnaVk5NEdUUGt4Vi0yZms4bEl6UU9OTnpMU1gwdndEaDVCZHc?oc=5",
+      "publishedAt": "2026-10-29T03:35:00+00:00",
+      "summary": "在美联储按兵不动后，香港维持基准利率4.25%；香港金管局提到套息交易对货币构成压力。",
+      "summaryZh": "在美联储按兵不动后，香港维持基准利率4.25%；香港金管局提到套息交易对货币构成压力。",
+      "originalSummary": "Hong Kong Holds Base Rate at 4.25% as Fed Stands Pat, HKMA Flags Carry-Trade Pressure on Currency BigGo Finance",
+      "impact": "高利率延续会抬高融资成本，套息压力可能增加港元波动，并对跨境投资和资产估值形成约束。",
+      "impactZh": "高利率延续会抬高融资成本，套息压力可能增加港元波动，并对跨境投资和资产估值形成约束。",
+      "score": 61
+    },
+    {
+      "title": "项目负责人在香港会议讨论监管与资本流动",
+      "titleZh": "项目负责人在香港会议讨论监管与资本流动",
+      "originalTitle": "Programme Leaders Discuss Regulation and Capital Flows at Globevisa Conference in Hong Kong",
+      "region": "香港",
+      "topic": "金融监管",
+      "source": "IMI Daily",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNTUtveHZ6THNEeThYRFNjLUZLSzIxWmVFeUk5UTJISVF4bkRwc3Y4OGcyTVptSVJuOEJNVmpXVG85R2pJQXRTeU9pZ3NmU2Y1dmM1Tm5BMXJUS2VLX09ZVUl6S3lXOUxza1FmaDZnejd3TGQ4amNzUE85OGt5SHVMU0g4ZzcwUC1HeEVIUzZyazdPRnBBRGl2cTFwUW05V1VGSW5WWXRLMWZ5Nm9XeWM5eVFqd0xRczFKcFVqUVhMLTItcHIxV3dKMG5ZclNMcjFw?oc=5",
+      "publishedAt": "2026-10-27T03:13:30+00:00",
+      "summary": "在香港举行的一场投资移民会议上，项目负责人围绕监管和资本流动展开讨论。",
+      "summaryZh": "在香港举行的一场投资移民会议上，项目负责人围绕监管和资本流动展开讨论。",
+      "originalSummary": "Programme Leaders Discuss Regulation and Capital Flows at Globevisa Conference in Hong Kong IMI Daily",
+      "impact": "投资移民与跨境资本流动的监管协调受关注，可能影响高净值人群配置和项目合规要求。",
+      "impactZh": "投资移民与跨境资本流动的监管协调受关注，可能影响高净值人群配置和项目合规要求。",
+      "score": 61
+    },
+    {
+      "title": "BLOOM项目迎来马来西亚和泰国央行参与，新加坡金管局未指定代币",
+      "titleZh": "BLOOM项目迎来马来西亚和泰国央行参与，新加坡金管局未指定代币",
+      "originalTitle": "Singapore’s BLOOM Adds Malaysian and Thai Central Banks, but MAS Names No Token",
+      "region": "新加坡",
+      "topic": "金融监管",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPWkhXY190MlNrMEh0Y0haRklZdWhtR3BQRVpBODVtQ0pYZ2lieVREeG1WbnZQWGxuQmJDVkE4bjRnMy1ZamdiWk5CSTNPUXkwOXJfN1hCT0J2S2NieGdqLW1ZZ2xjMDRyT1RLYnJaUVd1clMwV1RvMmxZcnRXUjBKd1hlSHVzV3hvVlhaa05yNnpfekNadDVDdHNDNVVGM204eFE?oc=5",
+      "publishedAt": "2026-10-24T03:35:00+00:00",
+      "summary": "新加坡BLOOM项目新增马来西亚和泰国央行参与，但新加坡金融管理局未指定任何代币。",
+      "summaryZh": "新加坡BLOOM项目新增马来西亚和泰国央行参与，但新加坡金融管理局未指定任何代币。",
+      "originalSummary": "Singapore’s BLOOM Adds Malaysian and Thai Central Banks, but MAS Names No Token Yahoo Finance",
+      "impact": "多边央行合作推进跨境支付试验，但未指定代币显示仍处探索阶段，短期对支付基础设施影响有限。",
+      "impactZh": "多边央行合作推进跨境支付试验，但未指定代币显示仍处探索阶段，短期对支付基础设施影响有限。",
+      "score": 61
+    },
+    {
+      "title": "新加坡支付网络组建关键领导团队",
+      "titleZh": "新加坡支付网络组建关键领导团队",
+      "originalTitle": "Singapore Payments Network Appoints Key Leadership Team to Govern Singapore’s National Payment Schemes and Drive Payments Innovation",
+      "region": "新加坡",
+      "topic": "金融监管",
+      "source": "Monetary Authority of Singapore",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQdnZJVHIzaXI4eWFXSUVGa1N3aEpsS3RxbHZQQWhGTDR6OTBNRnhJOGxpR1B2X3FqTmZxLXVfU0pwM19PZ0hTU3p6dkhXTzFVUUNnMVp4cDZfTzFTYkhyb0lSOWx4VFBYWTZyYXRjSUhydDRkcHJ4VmVxb1ltY1lLQ3NVbHZoQXUxNUVFZkpvQ0xIcU45ems0a1RPdTJhMjBGNHlUX2x3?oc=5",
+      "publishedAt": "2026-10-28T06:14:50+00:00",
+      "summary": "新加坡支付网络任命关键领导团队，负责治理新加坡国家支付计划并推动支付创新。",
+      "summaryZh": "新加坡支付网络任命关键领导团队，负责治理新加坡国家支付计划并推动支付创新。",
+      "originalSummary": "Singapore Payments Network Appoints Key Leadership Team to Govern Singapore’s National Payment Schemes and Drive Payments Innovation Monetary Authority of Singapore",
+      "impact": "治理架构明确有助于支付系统稳定与创新平衡，并影响区域支付互联和金融科技合作。",
+      "impactZh": "治理架构明确有助于支付系统稳定与创新平衡，并影响区域支付互联和金融科技合作。",
+      "score": 61
+    },
+    {
+      "title": "新加坡与东南亚探索能源转型合作路径",
+      "titleZh": "新加坡与东南亚探索能源转型合作路径",
+      "originalTitle": "From Constraints to Cooperation: Singapore and Southeast Asia’s Energy Transition",
+      "region": "新加坡",
+      "topic": "能源与产业投资",
+      "source": "Singapore Economic Development Board (EDB)",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPTHZCRHJmMWJ3aGF6anRHY3hnUDZWcFFJYVpjOG15T3dhZldRdXItU2tNWTluRXFiclJSdUNKMFY5aXdkYUtQQ1NObi1VeFpibGtQaEZCZm15QVYtR1VqMHdiU3RpTmFqVTBVX0FHcDA5NmJpdXd6Um1MUlJHdFhGN0IwSnpOVFlzTlQ2eE9xdUU1NUk4ZWdXbkl5U2w3a1RIMjF0dTlYRHhxNjBMUHEyUFAxZWFRM2dlNXRXVGRkOVY?oc=5",
+      "publishedAt": "2026-10-27T07:00:00+00:00",
+      "summary": "文章讨论新加坡与东南亚能源转型，从制约因素转向合作路径。",
+      "summaryZh": "文章讨论新加坡与东南亚能源转型，从制约因素转向合作路径。",
+      "originalSummary": "From Constraints to Cooperation: Singapore and Southeast Asia’s Energy Transition Singapore Economic Development Board (EDB)",
+      "impact": "能源转型合作可能带来绿色投资和跨境电力贸易机会，但受政策协调与基础设施制约。",
+      "impactZh": "能源转型合作可能带来绿色投资和跨境电力贸易机会，但受政策协调与基础设施制约。",
+      "score": 61
+    },
+    {
+      "title": "新加坡收紧清洁能源声明规则，防范漂绿",
+      "titleZh": "新加坡收紧清洁能源声明规则，防范漂绿",
+      "originalTitle": "Singapore Revises Clean Energy Claims Rules to Address Greenwashing Risks",
+      "region": "新加坡",
+      "topic": "能源与产业投资",
+      "source": "ESG Today",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxONWZMd05sd1hiWEw5c3FKOW9QdEljMUlDNWNNX0RtS0tOdklZVC1hNmVwNmphaThpTzRmSktJT3I4eVpGeXhRbDhUcWQtRE5kNWU3clJqc3ZVbjBjMnFyS1MzVjFoa2VZZ0Z3NXRVZ2QzUHhVdjhwX0RsMUxIaE55NVFpY2ZaZElEbXZ0S056VUJXbk1KcFVnQmdfai1jbVVS?oc=5",
+      "publishedAt": "2026-10-27T16:33:22+00:00",
+      "summary": "新加坡修订清洁能源声明规则，以应对漂绿风险。",
+      "summaryZh": "新加坡修订清洁能源声明规则，以应对漂绿风险。",
+      "originalSummary": "Singapore Revises Clean Energy Claims Rules to Address Greenwashing Risks ESG Today",
+      "impact": "更严格披露规则将提高绿色金融与能源项目合规成本，但有助于提升市场信任和资本配置质量。",
+      "impactZh": "更严格披露规则将提高绿色金融与能源项目合规成本，但有助于提升市场信任和资本配置质量。",
+      "score": 61
+    },
+    {
+      "title": "新加坡增长料因贸易紧张放缓，绿色与数字领域仍有新机",
+      "titleZh": "新加坡增长料因贸易紧张放缓，绿色与数字领域仍有新机",
+      "originalTitle": "Singapore growth to slow as trade tensions rise, but green, digital opportunities will emerge: DPM Gan",
+      "region": "新加坡",
+      "topic": "贸易与物流",
+      "source": "Singapore Economic Development Board (EDB)",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNd2pTWWxnZ3g5ZEZ5R1pLUVpFLTFfOWljUFEyZENNTmlyOUtBYTVCUk9TNlJOdkxVbVoyWkw1X1Zpa0RDSzNFQXRVR0ZzRERLTENtaktsQjZhcmc3aFVMRDJCU292WGtFcXJkNFhjd3ZaTEYzQnVKcDhFUElZSWYxNzJBRTBYT0lhNGN2RVpzMG5MdUZuTkh2c1ZEbVVEUUxnbGUtczE0bHBzNEFtQkk3QXQtRDlVSG1Vc1I5M0xiSl94cDhIdV9ZY1BkUTdQZmhEenhCeDM5MA?oc=5",
+      "publishedAt": "2026-10-25T07:00:00+00:00",
+      "summary": "新加坡副总理颜金勇表示，贸易紧张局势将导致新加坡经济增长放缓，但绿色和数字领域将出现新机遇。",
+      "summaryZh": "新加坡副总理颜金勇表示，贸易紧张局势将导致新加坡经济增长放缓，但绿色和数字领域将出现新机遇。",
+      "originalSummary": "Singapore growth to slow as trade tensions rise, but green, digital opportunities will emerge: DPM Gan Singapore Economic Development Board (EDB)",
+      "impact": "增长放缓与结构性机遇并存，投资者需关注绿色科技、数字服务以及贸易依赖型行业的风险分化。",
+      "impactZh": "增长放缓与结构性机遇并存，投资者需关注绿色科技、数字服务以及贸易依赖型行业的风险分化。",
+      "score": 61
+    },
+    {
+      "title": "新加坡将设工作组应对特朗普关税冲击",
+      "titleZh": "新加坡将设工作组应对特朗普关税冲击",
+      "originalTitle": "Trump tariffs: Singapore to form task force to help businesses and workers, says PM Wong",
+      "region": "新加坡",
+      "topic": "经济政策",
+      "source": "Singapore Economic Development Board (EDB)",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOMDlPNVpMTWRZS28tZkVNdEU1VGRQMUZFTHd1dHJqb1FNNDhDT0ZGQ0lvcFlPRkd2QXpEVjc0cGdxTjBKaHJDU09uZEhwNTltd3EtUlIyVUlubi1nZi05ZURreXkzVWJWTGJGSEhhZkdwWmdubTRwQWJWUzZ2YnlCTFZGZmtwanV0UmFObG12LTZteDBHWm9icXdibEVGZHVERFRrYkt3YmxKTl83amdPSVBUZEpjRjNXdE1ZU0xudURnYjJaREE?oc=5",
+      "publishedAt": "2026-10-22T07:00:00+00:00",
+      "summary": "针对特朗普关税，新加坡总理黄循财表示将成立工作组，帮助企业和工人应对影响。",
+      "summaryZh": "针对特朗普关税，新加坡总理黄循财表示将成立工作组，帮助企业和工人应对影响。",
+      "originalSummary": "Trump tariffs: Singapore to form task force to help businesses and workers, says PM Wong Singapore Economic Development Board (EDB)",
+      "impact": "政策应对有助于缓冲关税冲击，但新加坡作为开放经济体仍易受全球贸易摩擦和供应链重组影响。",
+      "impactZh": "政策应对有助于缓冲关税冲击，但新加坡作为开放经济体仍易受全球贸易摩擦和供应链重组影响。",
+      "score": 61
+    },
+    {
+      "title": "阿联酋升级游客增值税退税安排",
+      "titleZh": "阿联酋升级游客增值税退税安排",
+      "originalTitle": "UAE announces major tax refund upgrade: Tourist VAT rules explained",
+      "region": "阿联酋",
+      "topic": "税务与自由区",
+      "source": "Arabian Business",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOOV9mdmlpRVVsSTdjRnA2bV9OSGUtNGlvNmgzTWVjSGJiZFkyYmpBQ1h1UE4zY2VGN3FFQ1M3N09ZQm4zc1lTNl8ybDNKTll4c1FweWZlNFBLMFI3aFRfSzAtaHJzVmxSajI4amM1OFBMRUlnWnBfbWZ2a0s1azBieWtybl9VRmVrRmd0VVI4T0tzNWZZbWdCNE5NR3BxZVR0TW1EZ3VCTlBHZw?oc=5",
+      "publishedAt": "2026-10-20T19:51:49+00:00",
+      "summary": "阿联酋宣布重大退税升级，并解释游客增值税规则。",
+      "summaryZh": "阿联酋宣布重大退税升级，并解释游客增值税规则。",
+      "originalSummary": "UAE announces major tax refund upgrade: Tourist VAT rules explained Arabian Business",
+      "impact": "退税便利化可能促进旅游消费和零售业，增强阿联酋作为区域消费与中转枢纽的吸引力。",
+      "impactZh": "退税便利化可能促进旅游消费和零售业，增强阿联酋作为区域消费与中转枢纽的吸引力。",
+      "score": 61
+    },
+    {
+      "title": "阿联酋加码埃及投资以对冲霍尔木兹风险",
+      "titleZh": "阿联酋加码埃及投资以对冲霍尔木兹风险",
+      "originalTitle": "The UAE’s decade of investment in Egypt is turning into a Hormuz hedge as the war shrinks Dubai’s economy",
+      "region": "阿联酋",
+      "topic": "主权基金",
+      "source": "EnterpriseAM",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOdUFWSnJHYUN0TWJ5LVBJcllrN09ZaHkxZ1A3TDBWN00tOTkwd1BnLUgzSHZZV1dlcTVzenJRSFpyeFNod25XbnZhNXM5TW9pZ0NZMlh2LURWeTFCd2dmNzFfSTdBZFBwcVhDLWFqSmdfMGpzbHhEUWhfY2hpNzBaMHY2UkRETTB0WVlva3BGbXBneW5fc3pqaUVtN1hEc3hHSDNDSlhfOGZZNENFV2p4SnczVjRLTkZPb3Q3LWRoRExweTlWTlVNRElhMHBUN2pnUEhnb2Zadw?oc=5",
+      "publishedAt": "2026-10-19T03:06:54+00:00",
+      "summary": "报道指出，阿联酋对埃及长达十年的投资正转化为霍尔木兹风险对冲，而战争使迪拜经济收缩。",
+      "summaryZh": "报道指出，阿联酋对埃及长达十年的投资正转化为霍尔木兹风险对冲，而战争使迪拜经济收缩。",
+      "originalSummary": "The UAE’s decade of investment in Egypt is turning into a Hormuz hedge as the war shrinks Dubai’s economy EnterpriseAM",
+      "impact": "区域冲突改变海湾资本配置逻辑，埃及等替代市场可能获得更多投资，但迪拜经济承压。",
+      "impactZh": "区域冲突改变海湾资本配置逻辑，埃及等替代市场可能获得更多投资，但迪拜经济承压。",
+      "score": 61
+    },
+    {
+      "title": "阿联酋财政部更新电子发票规定",
+      "titleZh": "阿联酋财政部更新电子发票规定",
+      "originalTitle": "UAE tax: Ministry of Finance makes key changes to e-invoicing rules",
+      "region": "阿联酋",
+      "topic": "税务与自由区",
+      "source": "Arabian Business",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNVjJDeVJOdG8xYng3MDdzNHN6aHd3a2NIT3ZGZUhIUGdGSEVUSm5rR3E3VkR4NGRteWRZb01TRGlBNjVjcFN4YnNRdzNON3l2Y2gxcWJaTFlBRWJMeXNIVG9QMGxOblpfYnAwNzVqZTg0UXNBMW10NHc2amw1YlRNNXA5dXRUMEZtbXlTR2Iyd3I2RC1GRDVIV3JvM3hTVzgyVDNTSVRnMWZSbGs?oc=5",
+      "publishedAt": "2026-10-19T07:00:00+00:00",
+      "summary": "阿联酋财政部对电子发票规则作出关键调整。",
+      "summaryZh": "阿联酋财政部对电子发票规则作出关键调整。",
+      "originalSummary": "UAE tax: Ministry of Finance makes key changes to e-invoicing rules Arabian Business",
+      "impact": "电子发票规则变化将影响企业税务合规和数字化系统，跨境企业需更新开票流程。",
+      "impactZh": "电子发票规则变化将影响企业税务合规和数字化系统，跨境企业需更新开票流程。",
+      "score": 61
+    },
+    {
+      "title": "澳阿贸易协定或为澳大利亚企业打开迪拜机遇",
+      "titleZh": "澳阿贸易协定或为澳大利亚企业打开迪拜机遇",
+      "originalTitle": "Australia–UAE Trade Deal: Why Dubai Could Be the Next Big Opportunity for Australian Businesses",
+      "region": "阿联酋",
+      "topic": "贸易与物流",
+      "source": "Vocal",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQYVRNbkZPX0ZkcUVrMWs1SW1LSGNvdGpFakJYOFNBLUlYLWpiWmtYY3FPajc5S2ZmOEEta1N4SWVJYURDUG1lRHJmaVR1MFJXblNZdXBJTDlORVMxcGlTVDRud2NQRDluLWZuVlhkTVJmVW9PRi1wb2Z4ckR0RkxHMy04aEZqaVRjX0dRYmlxY3dRbFJVWTZrOGpKaTNSR3V6LXJVaGxMMDJGYXp4S0ZKb3RmQ0xXSVk?oc=5",
+      "publishedAt": "2026-10-20T08:13:45+00:00",
+      "summary": "报道分析澳大利亚与阿联酋贸易协定，认为迪拜可能成为澳大利亚企业的下一个重大机会。",
+      "summaryZh": "报道分析澳大利亚与阿联酋贸易协定，认为迪拜可能成为澳大利亚企业的下一个重大机会。",
+      "originalSummary": "Australia–UAE Trade Deal: Why Dubai Could Be the Next Big Opportunity for Australian Businesses Vocal",
+      "impact": "贸易协定可能降低澳企进入海湾市场的壁垒，并强化迪拜作为澳企区域跳板的角色。",
+      "impactZh": "贸易协定可能降低澳企进入海湾市场的壁垒，并强化迪拜作为澳企区域跳板的角色。",
+      "score": 61
+    },
+    {
+      "title": "阿布扎比主权基金与EQT合作推进上市公司私有化",
+      "titleZh": "阿布扎比主权基金与EQT合作推进上市公司私有化",
+      "originalTitle": "Abu Dhabi’s sovereign fund is helping take another listed company private, alongside EQT",
+      "region": "阿联酋",
+      "topic": "主权基金",
+      "source": "EnterpriseAM",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNMEtPR1VkMEZDVV8tbEhsNm03cEZvTVJXWUVuTEl5aEpDNTRQMm5vSUtpZFhEaERXdnZjdDBMR0pYME9GdzBKaXpySG9KZGxreGZYTnBKOFVRMWE5SXhmNFFfV2tuTDRYR1dQaEhxOGczeFN0Q2xpTDg4eDNPbjFYOGt2MXE3ZC1TWjBxQ1g4NnVncGNFRlkxMDhoZzdhM2lKX3R3X3l6WUpRQ25Cc2hyT2IwWE1GdmNESU9NcVVaOXRCWmJ6Rnc?oc=5",
+      "publishedAt": "2026-10-22T21:00:00+00:00",
+      "summary": "阿布扎比主权基金与EQT合作，协助将另一家上市公司私有化。",
+      "summaryZh": "阿布扎比主权基金与EQT合作，协助将另一家上市公司私有化。",
+      "originalSummary": "Abu Dhabi’s sovereign fund is helping take another listed company private, alongside EQT EnterpriseAM",
+      "impact": "主权基金参与私有化反映海湾资本对全球资产配置的活跃度，可能影响相关公司治理与退出路径。",
+      "impactZh": "主权基金参与私有化反映海湾资本对全球资产配置的活跃度，可能影响相关公司治理与退出路径。",
+      "score": 61
+    },
+    {
+      "title": "阿联酋对加拿大700亿美元投资承诺面临执行考验",
+      "titleZh": "阿联酋对加拿大700亿美元投资承诺面临执行考验",
+      "originalTitle": "How Mark Carney Can Rescue the UAE’s $70 Billion Investment Commitment into Canada - Resource Works",
+      "region": "阿联酋",
+      "topic": "主权基金",
+      "source": "EnergyNow",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNSWltYzRxV1MtUkc4R1FlZjI2S2U0MzdLekVaV2s4aUNvdWV5QzVnVlljMXd2djd5S2w0NzVIRUtrbjlITXZMak9EOXFDVjFsWmlXckV6TmVXd0M5bU1YTWtmQmFmeXpUR3p6a0ExcUNmbE1HNExRYXUyTnRUZjZTdzhYaFE2SWNrcjM3VHpyQ1pHR1BrZnBGaTRRT1ZRSVhFVFhYZndHRGFOMThtdVkzSVFkdGVOM0xGMWxXNmZtYWFlYkU?oc=5",
+      "publishedAt": "2026-10-28T03:08:26+00:00",
+      "summary": "报道讨论马克·卡尼如何帮助挽救阿联酋对加拿大700亿美元的投资承诺。",
+      "summaryZh": "报道讨论马克·卡尼如何帮助挽救阿联酋对加拿大700亿美元的投资承诺。",
+      "originalSummary": "How Mark Carney Can Rescue the UAE’s $70 Billion Investment Commitment into Canada - Resource Works",
+      "impact": "大型跨境投资承诺面临执行风险，政策协调与政治关系将影响海湾资本对加拿大市场的信心。",
+      "impactZh": "大型跨境投资承诺面临执行风险，政策协调与政治关系将影响海湾资本对加拿大市场的信心。",
+      "score": 61
+    },
+    {
+      "title": "加拿大与阿联酋达成全面经济伙伴关系协定",
+      "titleZh": "加拿大与阿联酋达成全面经济伙伴关系协定",
+      "originalTitle": "Canada and UAE Sign Comprehensive Economic Partnership Agreement, Over 99% of Exported Goods to Receive Tariff Relief",
+      "region": "阿联酋",
+      "topic": "贸易与物流",
+      "source": "BigGo Finance",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE13WV90cDJzUDhiSnpLYWdzMGZwSmdqczNScFYyNTM5YUZYRzltR2VOejE0YVhIdVJqZzZfTHBsVk81VXJFeFFUdEFnTWhKNlJMaGRNVHFhbVBqTEZVdTB1X0E5ODl5TmM2UGFUdHI3b3JBaEtsV2c?oc=5",
+      "publishedAt": "2026-10-28T23:35:00+00:00",
+      "summary": "加拿大与阿联酋签署全面经济伙伴关系协定，超过99%的出口商品将获得关税减免。",
+      "summaryZh": "加拿大与阿联酋签署全面经济伙伴关系协定，超过99%的出口商品将获得关税减免。",
+      "originalSummary": "Canada and UAE Sign Comprehensive Economic Partnership Agreement, Over 99% of Exported Goods to Receive Tariff Relief BigGo Finance",
+      "impact": "协定有望扩大双边贸易与投资，降低关税壁垒，并增强阿联酋作为加拿大进入中东市场门户的地位。",
+      "impactZh": "协定有望扩大双边贸易与投资，降低关税壁垒，并增强阿联酋作为加拿大进入中东市场门户的地位。",
+      "score": 61
+    }
+  ],
+  "regions": [
+    {
+      "region": "香港",
+      "storyCount": 2,
+      "focus": "基准利率与投资移民监管"
+    },
+    {
+      "region": "新加坡",
+      "storyCount": 7,
+      "focus": "自由贸易、支付治理、能源转型与关税应对"
+    },
+    {
+      "region": "阿联酋",
+      "storyCount": 8,
+      "focus": "双边贸易、税务数字化与主权基金配置"
+    },
+    {
+      "region": "海湾国家",
+      "storyCount": 1,
+      "focus": "海事物流与贸易投资"
+    }
+  ],
+  "analysis": [
+    {
+      "label": "货币政策",
+      "title": "香港高利率环境延续，套息压力需关注",
+      "body": "香港在美联储按兵不动后维持基准利率4.25%，金管局提示套息交易对货币的压力。对跨境投资者而言，融资成本和港元波动仍是配置香港资产时需评估的关键变量。"
+    },
+    {
+      "label": "贸易格局",
+      "title": "自由贸易伙伴关系与关税应对并行",
+      "body": "新加坡联合13国发起自由贸易与投资伙伴关系，同时新加坡总理黄循财提出成立工作组应对特朗普关税。两者共同反映开放型经济体在维护贸易规则与缓冲外部冲击之间寻求平衡。"
+    },
+    {
+      "label": "资本流动",
+      "title": "海湾主权资本保持活跃",
+      "body": "阿联酋主权基金参与上市公司私有化，阿联酋对加拿大700亿美元投资承诺也受到关注。海湾资本正在全球范围内寻找长期资产与战略合作，但大型交易仍受政治与执行风险约束。"
+    },
+    {
+      "label": "能源与合规",
+      "title": "绿色转型与漂绿监管同步推进",
+      "body": "新加坡与东南亚讨论能源转型合作，同时新加坡修订清洁能源声明规则以应对漂绿风险。绿色投资机会增加的同时，披露与合规要求也在提高。"
+    },
+    {
+      "label": "区域联通",
+      "title": "阿联酋强化贸易与物流门户地位",
+      "body": "阿联酋与印尼、加拿大和澳大利亚的贸易投资联系受到关注，沙特海事物流大会也强调行业整合。海湾国家正通过协定、物流与主权资本增强区域联通。"
+    }
+  ],
+  "broadcastScript": {
+    "anchorName": "岚序",
+    "date": "2026-10-29",
+    "headline": "香港维持高利率，新加坡与海湾经济体推进贸易、投资与监管议程",
+    "intro": "各位观众大家好，欢迎收看岚序财经。今天是2026年10月29日。接下来为您播报今日亚洲与海湾地区财经要点。",
+    "segments": [
+      {
+        "title": "今日概览",
+        "text": "2026年10月29日情报覆盖香港、新加坡、阿联酋及海湾国家。香港维持基准利率4.25%并关注套息压力；新加坡联合13国发起自由贸易与投资伙伴关系，同时推进支付治理、能源转型与绿色声明规则；阿联酋与印尼、加拿大等地深化贸易投资联系，主权基金继续活跃于跨境资产配置。"
+      },
+      {
+        "title": "新加坡携手13国启动伙伴关系，承诺促进自由贸易与投资流动",
+        "text": "第1条，新加坡新加坡携手13国启动伙伴关系，承诺促进自由贸易与投资流动。新加坡与另外13个国家共同启动一项伙伴关系，承诺维护自由贸易并促进投资流动；具体成员与机制细节仍待观察。影响方面，若机制落地，可能强化新加坡作为区域贸易与投资枢纽的角色，并为跨境资本流动提供更多制度性便利。"
+      },
+      {
+        "title": "印度尼西亚和阿联酋加强经济纽带，扩大贸易与投资机会",
+        "text": "第2条，阿联酋印度尼西亚和阿联酋加强经济纽带，扩大贸易与投资机会。印度尼西亚与阿联酋正加强经济联系，双方贸易和投资机会持续增加，报道聚焦双边经济合作。影响方面，双边关系升温可能带动海湾资本对东南亚基础设施与产业投资，并为阿联酋企业进入印尼市场提供通道。"
+      },
+      {
+        "title": "沙特海事与物流大会强调海事整合及贸易投资机遇",
+        "text": "第3条，海湾国家沙特海事与物流大会强调海事整合及贸易投资机遇。沙特海事与物流大会强调海事领域整合，以及在沙特贸易和投资增长中的机会。影响方面，海事物流整合有望提升沙特港口与航运效率，支持非油贸易和外资进入。"
+      },
+      {
+        "title": "美联储按兵不动，香港基准利率保持4.25%",
+        "text": "第4条，香港美联储按兵不动，香港基准利率保持4.25%。在美联储按兵不动后，香港维持基准利率4.25%；香港金管局提到套息交易对货币构成压力。影响方面，高利率延续会抬高融资成本，套息压力可能增加港元波动，并对跨境投资和资产估值形成约束。"
+      },
+      {
+        "title": "项目负责人在香港会议讨论监管与资本流动",
+        "text": "第5条，香港项目负责人在香港会议讨论监管与资本流动。在香港举行的一场投资移民会议上，项目负责人围绕监管和资本流动展开讨论。影响方面，投资移民与跨境资本流动的监管协调受关注，可能影响高净值人群配置和项目合规要求。"
+      }
+    ],
+    "outro": "今日重点，香港维持高利率，新加坡与海湾经济体推进贸易、投资与监管议程。感谢收看岚序财经，我们明天见。"
+  }
+}
