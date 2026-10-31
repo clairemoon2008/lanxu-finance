@@ -1,0 +1,416 @@
+{
+  "date": "2026-10-31",
+  "generatedAt": "2026-10-31T00:00:00Z",
+  "status": "published",
+  "headline": "新加坡调整家族办公室税务激励；香港维持基准利率；海湾税务与投资议题升温",
+  "summary": "本期情报覆盖香港、新加坡、阿联酋与海湾国家。新加坡调整家族办公室税务激励并参与13国自由贸易伙伴关系；香港维持基准利率4.25%并关注套息压力；科威特推进消费税，阿联酋推进游客退税与跨国公司补足税合规，同时海湾资本与物流议题升温。",
+  "metrics": {
+    "totalStories": 18,
+    "regionsCovered": 4,
+    "highPriorityStories": 4,
+    "averageScore": 63.2,
+    "sources": 11,
+    "topScore": 71,
+    "storyCountByRegion": {
+      "香港": 3,
+      "新加坡": 10,
+      "阿联酋": 3,
+      "海湾国家": 2
+    },
+    "articles": 18,
+    "regions": 4,
+    "hotspots": 5
+  },
+  "topStories": [
+    {
+      "title": "新加坡调整家族办公室税务激励，并要求其促进本地招聘",
+      "titleZh": "新加坡调整家族办公室税务激励，并要求其促进本地招聘",
+      "originalTitle": "Singapore adjusts tax incentives for family offices, which must also do more to boost local hires",
+      "region": "新加坡",
+      "topic": "税务与自由区",
+      "source": "Singapore Economic Development Board (EDB)",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQUUx4WFZWZzcxMHZ2YW9zSFlXMGVUSGd4a2YyOF8wVmVScDRQSk9YTk5JdjlaZlEtS1IwTi1vVWFYMU9NWHB2Y2lfbmxteHV1S2w5dFF2bjBNS1JobW9hUDRqZ2JwYXd5dDdUWmdZeFQ1RUNKc1Z2UlVwX1JaRlZpdnpuclo5VEpYYnZkVHpnNDUwQ3dueWh5dXA1Z2djaFVJTHBSYkhsUFVRZEVJNjRrb243NTRLdUlMMVB3X1BaN2RVenMzLTFTdThLcFRvLXp5RVNn?oc=5",
+      "publishedAt": "2026-10-27T07:00:00+00:00",
+      "summary": "新加坡调整家族办公室税务激励，并要求其在促进本地招聘方面承担更多责任。",
+      "summaryZh": "新加坡调整家族办公室税务激励，并要求其在促进本地招聘方面承担更多责任。",
+      "originalSummary": "Singapore adjusts tax incentives for family offices, which must also do more to boost local hires Singapore Economic Development Board (EDB)",
+      "impact": "可能提高家族办公室落地与合规门槛，推动其从单纯税务安排转向本地就业与实体经济贡献；拟在新加坡设立家族办公室的跨境高净值客户需重新评估激励条件与雇佣承诺。",
+      "impactZh": "可能提高家族办公室落地与合规门槛，推动其从单纯税务安排转向本地就业与实体经济贡献；拟在新加坡设立家族办公室的跨境高净值客户需重新评估激励条件与雇佣承诺。",
+      "score": 71
+    },
+    {
+      "title": "新加坡与13国共同启动自由贸易与投资流动伙伴关系",
+      "titleZh": "新加坡与13国共同启动自由贸易与投资流动伙伴关系",
+      "originalTitle": "Singapore joins 13 countries to launch partnership committed to free trade and enhancing investment flows",
+      "region": "新加坡",
+      "topic": "主权基金",
+      "source": "Singapore Economic Development Board (EDB)",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNV1pCcFBFdzBHdDZ6S0ZEX0t3elZDZXdJdlFDcXVSRlAxb3REOTJkMi1xYkNFMmc5WmUwOExBMURIRzNOZEJoeWZhZTM5cDl1aURfam5XMW5NQVN1eFY1eEJDcFNNSmdHbzZ3RDgxUGktMGZxRW1VcmNtZGxzNjgyTzNLZTgxQVpmTC1xQmhoTHpOR2VfWFJRTGNXWUpvUHBZa3g4ZE9LNFFGZlAxNVpFemN1bm9TQ09pRHk1cHhTUQ?oc=5",
+      "publishedAt": "2026-10-25T07:00:00+00:00",
+      "summary": "新加坡与另外13个国家共同启动伙伴关系，承诺推动自由贸易并加强投资流动。",
+      "summaryZh": "新加坡与另外13个国家共同启动伙伴关系，承诺推动自由贸易并加强投资流动。",
+      "originalSummary": "Singapore joins 13 countries to launch partnership committed to free trade and enhancing investment flows Singapore Economic Development Board (EDB)",
+      "impact": "在贸易摩擦升温背景下，该伙伴关系有助于新加坡强化多边贸易网络和投资通道，但具体规则与成员执行力度仍待观察。",
+      "impactZh": "在贸易摩擦升温背景下，该伙伴关系有助于新加坡强化多边贸易网络和投资通道，但具体规则与成员执行力度仍待观察。",
+      "score": 71
+    },
+    {
+      "title": "科威特批准针对能量饮料、烟草和含糖饮料的消费税计划",
+      "titleZh": "科威特批准针对能量饮料、烟草和含糖饮料的消费税计划",
+      "originalTitle": "Kuwait approves excise tax plan targeting energy drinks, tobacco and sugary drinks",
+      "region": "海湾国家",
+      "topic": "税务与自由区",
+      "source": "Gulf News",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNdW1aYmQ5ZmlWQTZLek5iYWh0MXEycmVkQ0lPdkpXSkFtRkpZdVRneVEtS1dYSmZXbUhjc2JFWFpCNVRVMmIyMW15djBBM05fTWFqUng5VEpGX191eHVYX1dscHNHbTlyNGZySll6aVNGblBiR0lteDA0b21ZRDZpSUpMRHlaRTl3WlN4RlI3NktzVmtLcGFya0R4V1VkalNfbjFHWDE4dFo5bGRPM0hEaFdjZEp4MnhlcW9pSHBRWjlacUxJVDFCLThyT03SAeIBQVVfeXFMTTRPejVyd0x2RjI2b1ZrRHQ4Y3RiMHBYbmxTLWRsa1N5dzg2cjRfS2RWWmlEUmdKclB4dHJTdlN4SWtMTG53c2V1bV9OT18ycjlyNm01bWRhWTFFbEhXeWlzZUdXUG1MdWE2eVlDZ21tTUMxVTItczkxWTUxY0JheUFKYnpNMXFqa1Vla2hrdkRvX211SmhDWU9vanpmWHI2ZVQ0cG51bG9SSVFZczNfUmJQdjVCcXJvM1dHaDVoMHZhSG0zQ1dQdG1fVWVHX21KVHBhRG5qbXFDbllFRkxWNy0xdw?oc=5",
+      "publishedAt": "2026-10-27T19:26:54+00:00",
+      "summary": "科威特批准消费税计划，针对能量饮料、烟草和含糖饮料。",
+      "summaryZh": "科威特批准消费税计划，针对能量饮料、烟草和含糖饮料。",
+      "originalSummary": "Kuwait approves excise tax plan targeting energy drinks, tobacco and sugary drinks Gulf News",
+      "impact": "海湾国家继续以消费税调节消费与财政收入，相关进口商和零售渠道需关注税率、适用范围和合规成本。",
+      "impactZh": "海湾国家继续以消费税调节消费与财政收入，相关进口商和零售渠道需关注税率、适用范围和合规成本。",
+      "score": 71
+    },
+    {
+      "title": "沙特海事与物流大会聚焦海事整合及贸易投资增长机遇",
+      "titleZh": "沙特海事与物流大会聚焦海事整合及贸易投资增长机遇",
+      "originalTitle": "Saudi Maritime & Logistics Congress Highlights Maritime Sector Integration and Opportunities for Trade and Investment Growth in the Kingdom",
+      "region": "海湾国家",
+      "topic": "主权基金",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQOG5qQ2ZOZmlSd09JNTlMQ3hFblRhckN1UEtaaWJsOGpGUHV6RW1YdmJoazhUVkttS2x4V1htQnFxaWFKNWkybGtRdmp1cVBxWXZ1RXEyQ3RwbGJrMk1XbThGVHUyc2tCRUdTenh2NHpHRksxUHM4Wmttay0tdldZQjY1M1ZJdEsyZ0lNdnd2eDdxNGQxdjZWa0hROVF0ZHZHSUJCQTl5aFFOZV92bVE?oc=5",
+      "publishedAt": "2026-10-22T14:52:00+00:00",
+      "summary": "沙特海事与物流大会聚焦海事领域整合，以及沙特贸易与投资增长机遇。",
+      "summaryZh": "沙特海事与物流大会聚焦海事领域整合，以及沙特贸易与投资增长机遇。",
+      "originalSummary": "Saudi Maritime & Logistics Congress Highlights Maritime Sector Integration and Opportunities for Trade and Investment Growth in the Kingdom Yahoo Finance",
+      "impact": "沙特正借物流与海事整合提升贸易枢纽功能，可能为港口、航运、仓储和供应链投资带来机会。",
+      "impactZh": "沙特正借物流与海事整合提升贸易枢纽功能，可能为港口、航运、仓储和供应链投资带来机会。",
+      "score": 71
+    },
+    {
+      "title": "Caffrey将金融监管AI覆盖扩展至英国、香港和新加坡",
+      "titleZh": "Caffrey将金融监管AI覆盖扩展至英国、香港和新加坡",
+      "originalTitle": "Named a 2026 FIA Innovator, Caffrey Expands Its Financial-Regulation AI Coverage to the U.K., Hong Kong and Singapore",
+      "region": "香港",
+      "topic": "金融监管",
+      "source": "Business Wire",
+      "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPSFo1ejdnZER4QVJVNHpCVGpqdzR3RUdKZFZNSmVWZDNIYkpKLU1qZ3pXSS02Ui1oSGxocnpVbGJ2ZE5feE9xOGdUUnU4dk9lQ1Q3Rk56T3ltZl9zOExMcGV4c3ZXRTB5bktYOEpFa2Q5ZnRPQlRSZHdReDdOYVpkS0Y3OUJvcGxralFhRy1DMEdvbnQ4LVlYb3dlMVlkTFloUnN4ZFdaLVRUakFsbERPTXluc0x0amk2SFZ5U1JvM0E1M0NxYkhKdHpjRFFyOHVRMU9qdnBhRWlpQXVVMF9xa211Mml4aFcwNlVkMzczbm94QkM4ODJESTBPMExBQVVQY3c?oc=5",
+      "publishedAt": "2026-10-30T12:00:00+00:00",
+      "summary": "Caffrey扩展金融监管AI覆盖至英国、香港和新加坡，并获评2026年FIA创新者。",
+      "summaryZh": "Caffrey扩展金融监管AI覆盖至英国、香港和新加坡，并获评2026年FIA创新者。",
+      "originalSummary": "Named a 2026 FIA Innovator, Caffrey Expands Its Financial-Regulation AI Coverage to the U.K., Hong Kong and Singapore Business Wire",
+      "impact": "监管科技覆盖扩展反映香港和新加坡金融合规需求上升，可能推动金融机构采用AI合规工具并加剧监管科技竞争。",
+      "impactZh": "监管科技覆盖扩展反映香港和新加坡金融合规需求上升，可能推动金融机构采用AI合规工具并加剧监管科技竞争。",
+      "score": 61
+    },
+    {
+      "title": "阿联酋补足税期限临近，适用营收8亿美元以上跨国公司",
+      "titleZh": "阿联酋补足税期限临近，适用营收8亿美元以上跨国公司",
+      "originalTitle": "UAE top-up tax deadline nears for multinationals with $800 million revenue",
+      "region": "阿联酋",
+      "topic": "税务与自由区",
+      "source": "Arabian Business",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQTFZnWXNReHhfaFJQbkIxNlJHOHQxYlUzX3J4d0xaQ0lqWTc2Rk9MeUJodEF6eEtjMmRzcEJDcmtoTGUzanRyX0kwTE1ycWZ5ZS1Uc0lNeHphTjdXeXU3YnpWdGNIVEk1cEUzYkJLMUxESE9xdHpLa0RJUVpQTWNvZlVna1lUa29SUXFsUlQxRnZDdkF0WnJnQnZCeHExOURzWlpRMGVMVjJuN0JLUkpKNTRQZw?oc=5",
+      "publishedAt": "2026-10-30T08:29:28+00:00",
+      "summary": "阿联酋补足税申报期限临近，适用于营收达到8亿美元以上的跨国公司。",
+      "summaryZh": "阿联酋补足税申报期限临近，适用于营收达到8亿美元以上的跨国公司。",
+      "originalSummary": "UAE top-up tax deadline nears for multinationals with $800 million revenue Arabian Business",
+      "impact": "大型跨国公司需关注阿联酋补足税申报期限与合规成本，可能影响控股架构、利润分配和区域税务安排。",
+      "impactZh": "大型跨国公司需关注阿联酋补足税申报期限与合规成本，可能影响控股架构、利润分配和区域税务安排。",
+      "score": 61
+    },
+    {
+      "title": "美联储按兵不动，香港维持基准利率4.25%并提示套息压力",
+      "titleZh": "美联储按兵不动，香港维持基准利率4.25%并提示套息压力",
+      "originalTitle": "Hong Kong Holds Base Rate at 4.25% as Fed Stands Pat, HKMA Flags Carry-Trade Pressure on Currency",
+      "region": "香港",
+      "topic": "贸易与物流",
+      "source": "BigGo Finance",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBRaTZ0LUlraEVJdWJMVlZHano2Z2pUcGVQWXBDT3JrbGlMdmdZRnFfLUgyTklqQm9tei1WRE9LbkFOcUFQQ1VrMTRLN1ZkWFc5M2VnaVk5NEdUUGt4Vi0yZms4bEl6UU9OTnpMU1gwdndEaDVCZHc?oc=5",
+      "publishedAt": "2026-10-29T03:35:00+00:00",
+      "summary": "美联储维持政策不变，香港维持基准利率4.25%；香港金管局提示套息交易对港元构成压力。",
+      "summaryZh": "美联储维持政策不变，香港维持基准利率4.25%；香港金管局提示套息交易对港元构成压力。",
+      "originalSummary": "Hong Kong Holds Base Rate at 4.25% as Fed Stands Pat, HKMA Flags Carry-Trade Pressure on Currency BigGo Finance",
+      "impact": "港元利率跟随美元利率，套息压力可能影响资金流向与港元稳定性；香港资产融资成本短期难明显下降。",
+      "impactZh": "港元利率跟随美元利率，套息压力可能影响资金流向与港元稳定性；香港资产融资成本短期难明显下降。",
+      "score": 61
+    },
+    {
+      "title": "新加坡支付网络任命核心领导团队，负责国家支付体系治理与创新",
+      "titleZh": "新加坡支付网络任命核心领导团队，负责国家支付体系治理与创新",
+      "originalTitle": "Singapore Payments Network Appoints Key Leadership Team to Govern Singapore’s National Payment Schemes and Drive Payments Innovation",
+      "region": "新加坡",
+      "topic": "金融监管",
+      "source": "Monetary Authority of Singapore",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQdnZJVHIzaXI4eWFXSUVGa1N3aEpsS3RxbHZQQWhGTDR6OTBNRnhJOGxpR1B2X3FqTmZxLXVfU0pwM19PZ0hTU3p6dkhXTzFVUUNnMVp4cDZfTzFTYkhyb0lSOWx4VFBYWTZyYXRjSUhydDRkcHJ4VmVxb1ltY1lLQ3NVbHZoQXUxNUVFZkpvQ0xIcU45ems0a1RPdTJhMjBGNHlUX2x3?oc=5",
+      "publishedAt": "2026-10-28T06:14:50+00:00",
+      "summary": "新加坡支付网络任命核心领导团队，负责治理新加坡国家支付体系并推动支付创新。",
+      "summaryZh": "新加坡支付网络任命核心领导团队，负责治理新加坡国家支付体系并推动支付创新。",
+      "originalSummary": "Singapore Payments Network Appoints Key Leadership Team to Govern Singapore’s National Payment Schemes and Drive Payments Innovation Monetary Authority of Singapore",
+      "impact": "国家支付体系治理架构落地，有助于支付创新与风险控制并行，影响金融机构和支付服务商的合规与产品布局。",
+      "impactZh": "国家支付体系治理架构落地，有助于支付创新与风险控制并行，影响金融机构和支付服务商的合规与产品布局。",
+      "score": 61
+    },
+    {
+      "title": "项目负责人在香港Globevisa会议上讨论监管与资本流动",
+      "titleZh": "项目负责人在香港Globevisa会议上讨论监管与资本流动",
+      "originalTitle": "Programme Leaders Discuss Regulation and Capital Flows at Globevisa Conference in Hong Kong",
+      "region": "香港",
+      "topic": "金融监管",
+      "source": "IMI Daily",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNTUtveHZ6THNEeThYRFNjLUZLSzIxWmVFeUk5UTJISVF4bkRwc3Y4OGcyTVptSVJuOEJNVmpXVG85R2pJQXRTeU9pZ3NmU2Y1dmM1Tm5BMXJUS2VLX09ZVUl6S3lXOUxza1FmaDZnejd3TGQ4amNzUE85OGt5SHVMU0g4ZzcwUC1HeEVIUzZyazdPRnBBRGl2cTFwUW05V1VGSW5WWXRLMWZ5Nm9XeWM5eVFqd0xRczFKcFVqUVhMLTItcHIxV3dKMG5ZclNMcjFw?oc=5",
+      "publishedAt": "2026-10-27T03:13:30+00:00",
+      "summary": "项目负责人在香港Globevisa会议上讨论监管与资本流动议题。",
+      "summaryZh": "项目负责人在香港Globevisa会议上讨论监管与资本流动议题。",
+      "originalSummary": "Programme Leaders Discuss Regulation and Capital Flows at Globevisa Conference in Hong Kong IMI Daily",
+      "impact": "会议聚焦监管与资本流动，显示香港仍是跨境资本与项目方交流的重要节点；后续需关注监管口径对资金流动的影响。",
+      "impactZh": "会议聚焦监管与资本流动，显示香港仍是跨境资本与项目方交流的重要节点；后续需关注监管口径对资金流动的影响。",
+      "score": 61
+    },
+    {
+      "title": "从约束到合作：新加坡与东南亚的能源转型",
+      "titleZh": "从约束到合作：新加坡与东南亚的能源转型",
+      "originalTitle": "From Constraints to Cooperation: Singapore and Southeast Asia’s Energy Transition",
+      "region": "新加坡",
+      "topic": "能源与产业投资",
+      "source": "Singapore Economic Development Board (EDB)",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPTHZCRHJmMWJ3aGF6anRHY3hnUDZWcFFJYVpjOG15T3dhZldRdXItU2tNWTluRXFiclJSdUNKMFY5aXdkYUtQQ1NObi1VeFpibGtQaEZCZm15QVYtR1VqMHdiU3RpTmFqVTBVX0FHcDA5NmJpdXd6Um1MUlJHdFhGN0IwSnpOVFlzTlQ2eE9xdUU1NUk4ZWdXbkl5U2w3a1RIMjF0dTlYRHhxNjBMUHEyUFAxZWFRM2dlNXRXVGRkOVY?oc=5",
+      "publishedAt": "2026-10-27T07:00:00+00:00",
+      "summary": "新加坡与东南亚的能源转型被置于“从约束到合作”的框架下讨论。",
+      "summaryZh": "新加坡与东南亚的能源转型被置于“从约束到合作”的框架下讨论。",
+      "originalSummary": "From Constraints to Cooperation: Singapore and Southeast Asia’s Energy Transition Singapore Economic Development Board (EDB)",
+      "impact": "能源转型合作可能带动绿色投资、跨境电力与低碳项目，但受制于区域政策协调和项目落地能力。",
+      "impactZh": "能源转型合作可能带动绿色投资、跨境电力与低碳项目，但受制于区域政策协调和项目落地能力。",
+      "score": 61
+    },
+    {
+      "title": "新加坡与英国签署绿色经济框架，加强能源与气候合作",
+      "titleZh": "新加坡与英国签署绿色经济框架，加强能源与气候合作",
+      "originalTitle": "Singapore, UK ink green economy framework to bolster energy, climate collaboration",
+      "region": "新加坡",
+      "topic": "能源与产业投资",
+      "source": "Singapore Economic Development Board (EDB)",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQWGttSExzZThkWENrS0hSUkJPYnZySzd3VXVJMjM4QzlVLWMxbW5DNnZLRE5uVHJvU1ZWTXYxS195NTVDSHNmU001MXByYnhTSzdJY0ZUNHpaOTJJSWstbDV6REtmNnp6cnFKZnVoanFJbGt3Nm5wNUhQclB0dG1wSXVEa2NuR3VCY1c2b1lhTWFKU2FEWTZpN1RrRi1tTHhGWHY2MUpaQl9XRzRieUFadFJtLVpyS0NKWFJVNWhn?oc=5",
+      "publishedAt": "2026-10-27T07:00:00+00:00",
+      "summary": "新加坡与英国签署绿色经济框架，以加强能源和气候合作。",
+      "summaryZh": "新加坡与英国签署绿色经济框架，以加强能源和气候合作。",
+      "originalSummary": "Singapore, UK ink green economy framework to bolster energy, climate collaboration Singapore Economic Development Board (EDB)",
+      "impact": "绿色经济框架可能促进跨境绿色投资、碳市场和气候技术合作，为相关企业提供政策对接机会。",
+      "impactZh": "绿色经济框架可能促进跨境绿色投资、碳市场和气候技术合作，为相关企业提供政策对接机会。",
+      "score": 61
+    },
+    {
+      "title": "新加坡副总理：贸易紧张或拖累增长，绿色与数字机遇将显现",
+      "titleZh": "新加坡副总理：贸易紧张或拖累增长，绿色与数字机遇将显现",
+      "originalTitle": "Singapore growth to slow as trade tensions rise, but green, digital opportunities will emerge: DPM Gan",
+      "region": "新加坡",
+      "topic": "贸易与物流",
+      "source": "Singapore Economic Development Board (EDB)",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNd2pTWWxnZ3g5ZEZ5R1pLUVpFLTFfOWljUFEyZENNTmlyOUtBYTVCUk9TNlJOdkxVbVoyWkw1X1Zpa0RDSzNFQXRVR0ZzRERLTENtaktsQjZhcmc3aFVMRDJCU292WGtFcXJkNFhjd3ZaTEYzQnVKcDhFUElZSWYxNzJBRTBYT0lhNGN2RVpzMG5MdUZuTkh2c1ZEbVVEUUxnbGUtczE0bHBzNEFtQkk3QXQtRDlVSG1Vc1I5M0xiSl94cDhIdV9ZY1BkUTdQZmhEenhCeDM5MA?oc=5",
+      "publishedAt": "2026-10-25T07:00:00+00:00",
+      "summary": "新加坡副总理表示，贸易紧张可能令新加坡增长放缓，但绿色和数字领域将出现机遇。",
+      "summaryZh": "新加坡副总理表示，贸易紧张可能令新加坡增长放缓，但绿色和数字领域将出现机遇。",
+      "originalSummary": "Singapore growth to slow as trade tensions rise, but green, digital opportunities will emerge: DPM Gan Singapore Economic Development Board (EDB)",
+      "impact": "增长放缓与贸易摩擦相关，政策资源可能更多转向绿色和数字领域，企业需调整市场与供应链布局。",
+      "impactZh": "增长放缓与贸易摩擦相关，政策资源可能更多转向绿色和数字领域，企业需调整市场与供应链布局。",
+      "score": 61
+    },
+    {
+      "title": "黄循财：面对特朗普关税，新加坡将成立工作组协助企业和工人",
+      "titleZh": "黄循财：面对特朗普关税，新加坡将成立工作组协助企业和工人",
+      "originalTitle": "Trump tariffs: Singapore to form task force to help businesses and workers, says PM Wong",
+      "region": "新加坡",
+      "topic": "经济政策",
+      "source": "Singapore Economic Development Board (EDB)",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOMDlPNVpMTWRZS28tZkVNdEU1VGRQMUZFTHd1dHJqb1FNNDhDT0ZGQ0lvcFlPRkd2QXpEVjc0cGdxTjBKaHJDU09uZEhwNTltd3EtUlIyVUlubi1nZi05ZURreXkzVWJWTGJGSEhhZkdwWmdubTRwQWJWUzZ2YnlCTFZGZmtwanV0UmFObG12LTZteDBHWm9icXdibEVGZHVERFRrYkt3YmxKTl83amdPSVBUZEpjRjNXdE1ZU0xudURnYjJaREE?oc=5",
+      "publishedAt": "2026-10-22T07:00:00+00:00",
+      "summary": "新加坡总理黄循财表示，因应特朗普关税，新加坡将成立工作组帮助企业和工人。",
+      "summaryZh": "新加坡总理黄循财表示，因应特朗普关税，新加坡将成立工作组帮助企业和工人。",
+      "originalSummary": "Trump tariffs: Singapore to form task force to help businesses and workers, says PM Wong Singapore Economic Development Board (EDB)",
+      "impact": "关税冲击下，新加坡以工作组方式提供企业支持和工人援助，反映贸易政策不确定性对开放型经济体的直接影响。",
+      "impactZh": "关税冲击下，新加坡以工作组方式提供企业支持和工人援助，反映贸易政策不确定性对开放型经济体的直接影响。",
+      "score": 61
+    },
+    {
+      "title": "黄循财：家族办公室可支持新加坡创新、可持续金融与慈善",
+      "titleZh": "黄循财：家族办公室可支持新加坡创新、可持续金融与慈善",
+      "originalTitle": "Family offices can support innovation, sustainable finance, philanthropy in S'pore: DPM Wong",
+      "region": "新加坡",
+      "topic": "贸易与物流",
+      "source": "Singapore Economic Development Board (EDB)",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQVFE4UzNXQ3BXQ0JxalEtcGpFZ0xCa3J1aUx4VENWVlBkbFY0ckRMbENBRzA3S0NPT2tHWThNaFRXSzZqOHp3Nlk2N0UtZFBGUDQ1dWdWbjU3NWdZQWJ3M0tQRXh2aVY5OGUtNTNDVUJ2TER1SHhUdUh6WlZ0enp1YVRlWlFzRDB0ZGVHeVFQclFUS2RTN0VtdUMyQlhFQVVWcGU3SHNfMHlIYzNtbmthdXU3OGY3UkVfUmFqM1Nja2dEWE9seUtlV2ZXLXIyZw?oc=5",
+      "publishedAt": "2026-10-22T07:00:00+00:00",
+      "summary": "新加坡副总理黄循财表示，家族办公室可以支持新加坡的创新、可持续金融与慈善事业。",
+      "summaryZh": "新加坡副总理黄循财表示，家族办公室可以支持新加坡的创新、可持续金融与慈善事业。",
+      "originalSummary": "Family offices can support innovation, sustainable finance, philanthropy in S'pore: DPM Wong Singapore Economic Development Board (EDB)",
+      "impact": "政策导向鼓励家族办公室超越税务优惠，参与创新、可持续金融和慈善；可能影响家族办公室的本地投入与合规期望。",
+      "impactZh": "政策导向鼓励家族办公室超越税务优惠，参与创新、可持续金融和慈善；可能影响家族办公室的本地投入与合规期望。",
+      "score": 61
+    },
+    {
+      "title": "阿联酋宣布重大退税升级：游客增值税规则解读",
+      "titleZh": "阿联酋宣布重大退税升级：游客增值税规则解读",
+      "originalTitle": "UAE announces major tax refund upgrade: Tourist VAT rules explained",
+      "region": "阿联酋",
+      "topic": "税务与自由区",
+      "source": "Arabian Business",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOOV9mdmlpRVVsSTdjRnA2bV9OSGUtNGlvNmgzTWVjSGJiZFkyYmpBQ1h1UE4zY2VGN3FFQ1M3N09ZQm4zc1lTNl8ybDNKTll4c1FweWZlNFBLMFI3aFRfSzAtaHJzVmxSajI4amM1OFBMRUlnWnBfbWZ2a0s1azBieWtybl9VRmVrRmd0VVI4T0tzNWZZbWdCNE5NR3BxZVR0TW1EZ3VCTlBHZw?oc=5",
+      "publishedAt": "2026-10-20T07:00:00+00:00",
+      "summary": "阿联酋宣布重大退税升级，并解释游客增值税规则。",
+      "summaryZh": "阿联酋宣布重大退税升级，并解释游客增值税规则。",
+      "originalSummary": "UAE announces major tax refund upgrade: Tourist VAT rules explained Arabian Business",
+      "impact": "游客增值税退税升级有望提升旅游零售吸引力，相关零售商和退税服务商需更新流程与合规安排。",
+      "impactZh": "游客增值税退税升级有望提升旅游零售吸引力，相关零售商和退税服务商需更新流程与合规安排。",
+      "score": 61
+    },
+    {
+      "title": "新加坡金管局首席经济学家：AI生产力提升或使货币政策转向宽松",
+      "titleZh": "新加坡金管局首席经济学家：AI生产力提升或使货币政策转向宽松",
+      "originalTitle": "Monetary policy could turn accommodative as AI productivity gains take hold: MAS chief economist",
+      "region": "新加坡",
+      "topic": "金融监管",
+      "source": "The Straits Times",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNN2lIbnhPcmdONmVJMjZhbGpJNThBVG5nOHhWMjNTSXdVaWxzNlhveHY3alRrUnNEd3dwX3NDSFV2bnF5Qy1zTllkcldnR0tlM3AxN05XckVfb251S0xnaUFueE15WkQwMVhsbTFjcTVMbFhESUVyT0w4NUZoemgyYWRmWEhpSTdtbjlZOWUwRTNJYWR5R3Jpb2xoSzNhWTlhNlhULVVGRExXNjVmeVlIQXR3aVBGV0lfR2xwOUJTZUtsWnZGTE1tRW13ZlVJQQ?oc=5",
+      "publishedAt": "2026-10-20T07:00:00+00:00",
+      "summary": "新加坡金管局首席经济学家表示，随着AI生产力提升见效，货币政策可能转向宽松。",
+      "summaryZh": "新加坡金管局首席经济学家表示，随着AI生产力提升见效，货币政策可能转向宽松。",
+      "originalSummary": "Monetary policy could turn accommodative as AI productivity gains take hold: MAS chief economist The Straits Times",
+      "impact": "若AI提升生产率并压低通胀压力，新加坡货币政策可能获得宽松空间；但时点和幅度取决于实际生产力数据。",
+      "impactZh": "若AI提升生产率并压低通胀压力，新加坡货币政策可能获得宽松空间；但时点和幅度取决于实际生产力数据。",
+      "score": 61
+    },
+    {
+      "title": "新加坡元升值可能放缓，因接近金管局政策上限",
+      "titleZh": "新加坡元升值可能放缓，因接近金管局政策上限",
+      "originalTitle": "Singdollar gains may slow as it nears MAS policy ceiling",
+      "region": "新加坡",
+      "topic": "经济政策",
+      "source": "Singapore Business Review",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOT193d0pndVNOYVJpS0xUT0daRUlESnpEdmNvdmd0eWhDVHVKdlQ0cE9XdzRHRnRXRDYtV2F0TFlZLXloczBLc3I1Z3oxdk4zeG1MNmI1Y2EzRUNxd29rYjNxdnVSMVJqd2tObnlRd19sZHhjZWhNaTl3U3hLb3FzSW5hczhodVhmZjJreFZfTy1fTzg?oc=5",
+      "publishedAt": "2026-10-19T07:00:00+00:00",
+      "summary": "新加坡元升值可能放缓，因其接近新加坡金管局的政策上限。",
+      "summaryZh": "新加坡元升值可能放缓，因其接近新加坡金管局的政策上限。",
+      "originalSummary": "Singdollar gains may slow as it nears MAS policy ceiling Singapore Business Review",
+      "impact": "新元汇率接近政策区间上限，意味着进一步升值空间受限；跨境贸易与资金配置需关注金管局政策节奏。",
+      "impactZh": "新元汇率接近政策区间上限，意味着进一步升值空间受限；跨境贸易与资金配置需关注金管局政策节奏。",
+      "score": 61
+    },
+    {
+      "title": "阿联酋对埃及十年投资正成为霍尔木兹风险对冲，战争拖累迪拜经济",
+      "titleZh": "阿联酋对埃及十年投资正成为霍尔木兹风险对冲，战争拖累迪拜经济",
+      "originalTitle": "The UAE’s decade of investment in Egypt is turning into a Hormuz hedge as the war shrinks Dubai’s economy",
+      "region": "阿联酋",
+      "topic": "主权基金",
+      "source": "EnterpriseAM",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOdUFWSnJHYUN0TWJ5LVBJcllrN09ZaHkxZ1A3TDBWN00tOTkwd1BnLUgzSHZZV1dlcTVzenJRSFpyeFNod25XbnZhNXM5TW9pZ0NZMlh2LURWeTFCd2dmNzFfSTdBZFBwcVhDLWFqSmdfMGpzbHhEUWhfY2hpNzBaMHY2UkRETTB0WVlva3BGbXBneW5fc3pqaUVtN1hEc3hHSDNDSlhfOGZZNENFV2p4SnczVjRLTkZPb3Q3LWRoRExweTlWTlVNRElhMHBUN2pnUEhnb2Zadw?oc=5",
+      "publishedAt": "2026-10-19T03:06:54+00:00",
+      "summary": "阿联酋对埃及的十年投资正被视为霍尔木兹风险对冲，而战争拖累迪拜经济。",
+      "summaryZh": "阿联酋对埃及的十年投资正被视为霍尔木兹风险对冲，而战争拖累迪拜经济。",
+      "originalSummary": "The UAE’s decade of investment in Egypt is turning into a Hormuz hedge as the war shrinks Dubai’s economy EnterpriseAM",
+      "impact": "地区冲突与航运风险上升背景下，阿联酋通过埃及投资分散风险；迪拜经济承压可能影响其贸易、旅游和资本吸引力。",
+      "impactZh": "地区冲突与航运风险上升背景下，阿联酋通过埃及投资分散风险；迪拜经济承压可能影响其贸易、旅游和资本吸引力。",
+      "score": 61
+    }
+  ],
+  "regions": [
+    {
+      "region": "香港",
+      "storyCount": 3,
+      "topics": [
+        "贸易与物流",
+        "金融监管"
+      ],
+      "keyPoints": "香港维持基准利率4.25%并关注套息压力；金融监管AI覆盖扩展；香港会议讨论监管与资本流动。"
+    },
+    {
+      "region": "新加坡",
+      "storyCount": 10,
+      "topics": [
+        "税务与自由区",
+        "主权基金",
+        "金融监管",
+        "经济政策",
+        "能源与产业投资",
+        "贸易与物流"
+      ],
+      "keyPoints": "家族办公室税务激励调整；参与13国自由贸易伙伴关系；支付体系治理；新元接近政策上限；AI生产力与货币政策；贸易紧张与绿色数字机遇；绿色经济框架；关税工作组。"
+    },
+    {
+      "region": "阿联酋",
+      "storyCount": 3,
+      "topics": [
+        "税务与自由区",
+        "主权基金"
+      ],
+      "keyPoints": "游客增值税退税升级；跨国公司补足税期限临近；对埃及投资被视为霍尔木兹风险对冲。"
+    },
+    {
+      "region": "海湾国家",
+      "storyCount": 2,
+      "topics": [
+        "税务与自由区",
+        "主权基金"
+      ],
+      "keyPoints": "科威特批准消费税计划；沙特海事与物流大会聚焦整合与投资机会。"
+    }
+  ],
+  "analysis": [
+    {
+      "label": "税务与自由区",
+      "title": "税务激励与消费税同步调整",
+      "body": "新加坡调整家族办公室税务激励并要求增加本地招聘；科威特批准针对能量饮料、烟草和含糖饮料的消费税计划；阿联酋推进游客增值税退税升级，并临近对营收8亿美元以上跨国公司的补足税期限。区域税务政策正从吸引资本转向兼顾本地就业、财政收入与合规监管。"
+    },
+    {
+      "label": "资本与家族办公室",
+      "title": "家族办公室政策从税务优惠转向本地贡献",
+      "body": "新加坡家族办公室新闻同时强调税务激励调整和本地招聘、创新、可持续金融与慈善功能。对跨境高净值客户而言，单纯依赖税务优惠的架构吸引力下降，本地雇佣、投资与公益承诺成为更重要的评估项。"
+    },
+    {
+      "label": "贸易与物流",
+      "title": "贸易摩擦与物流整合并行",
+      "body": "新加坡参与13国自由贸易与投资伙伴关系，同时因贸易紧张面临增长放缓并成立工作组应对特朗普关税；沙特海事与物流大会强调海事整合和贸易投资机会。开放型经济体在维护多边贸易网络的同时，正加强对企业和工人的支持。"
+    },
+    {
+      "label": "金融监管与货币政策",
+      "title": "利率与汇率政策保持谨慎",
+      "body": "香港在美联储按兵不动后维持基准利率4.25%，金管局提示套息交易对港元压力；新加坡金管局首席经济学家认为AI生产力提升可能带来宽松空间，但新元升值接近政策上限。监管科技覆盖扩展和支付体系治理任命也显示金融合规与支付创新持续推进。"
+    },
+    {
+      "label": "海湾投资与财政",
+      "title": "海湾国家以财政工具和海外投资应对风险",
+      "body": "科威特推进消费税，阿联酋推进游客退税和补足税合规；阿联酋对埃及的十年投资被报道为霍尔木兹风险对冲，而战争拖累迪拜经济。海湾政策组合体现财政收入、旅游消费和区域投资分散化的多重目标。"
+    }
+  ],
+  "broadcastScript": {
+    "anchorName": "岚序",
+    "date": "2026-10-31",
+    "headline": "新加坡调整家族办公室税务激励；香港维持基准利率；海湾税务与投资议题升温",
+    "intro": "各位观众大家好，欢迎收看岚序财经。今天是2026年10月31日。接下来为您播报今日亚洲与海湾地区财经要点。",
+    "segments": [
+      {
+        "title": "今日概览",
+        "text": "本期情报覆盖香港、新加坡、阿联酋与海湾国家。新加坡调整家族办公室税务激励并参与13国自由贸易伙伴关系；香港维持基准利率4.25%并关注套息压力；科威特推进消费税，阿联酋推进游客退税与跨国公司补足税合规，同时海湾资本与物流议题升温。"
+      },
+      {
+        "title": "新加坡调整家族办公室税务激励，并要求其促进本地招聘",
+        "text": "第1条，新加坡新加坡调整家族办公室税务激励，并要求其促进本地招聘。新加坡调整家族办公室税务激励，并要求其在促进本地招聘方面承担更多责任。影响方面，可能提高家族办公室落地与合规门槛，推动其从单纯税务安排转向本地就业与实体经济贡献；拟在新加坡设立家族办公室的跨境高净值客户需重新评估激励条件与雇佣承诺。"
+      },
+      {
+        "title": "新加坡与13国共同启动自由贸易与投资流动伙伴关系",
+        "text": "第2条，新加坡新加坡与13国共同启动自由贸易与投资流动伙伴关系。新加坡与另外13个国家共同启动伙伴关系，承诺推动自由贸易并加强投资流动。影响方面，在贸易摩擦升温背景下，该伙伴关系有助于新加坡强化多边贸易网络和投资通道，但具体规则与成员执行力度仍待观察。"
+      },
+      {
+        "title": "科威特批准针对能量饮料、烟草和含糖饮料的消费税计划",
+        "text": "第3条，海湾国家科威特批准针对能量饮料、烟草和含糖饮料的消费税计划。科威特批准消费税计划，针对能量饮料、烟草和含糖饮料。影响方面，海湾国家继续以消费税调节消费与财政收入，相关进口商和零售渠道需关注税率、适用范围和合规成本。"
+      },
+      {
+        "title": "沙特海事与物流大会聚焦海事整合及贸易投资增长机遇",
+        "text": "第4条，海湾国家沙特海事与物流大会聚焦海事整合及贸易投资增长机遇。沙特海事与物流大会聚焦海事领域整合，以及沙特贸易与投资增长机遇。影响方面，沙特正借物流与海事整合提升贸易枢纽功能，可能为港口、航运、仓储和供应链投资带来机会。"
+      },
+      {
+        "title": "Caffrey将金融监管AI覆盖扩展至英国、香港和新加坡",
+        "text": "第5条，香港Caffrey将金融监管AI覆盖扩展至英国、香港和新加坡。Caffrey扩展金融监管AI覆盖至英国、香港和新加坡，并获评2026年FIA创新者。影响方面，监管科技覆盖扩展反映香港和新加坡金融合规需求上升，可能推动金融机构采用AI合规工具并加剧监管科技竞争。"
+      }
+    ],
+    "outro": "今日重点，新加坡调整家族办公室税务激励；香港维持基准利率；海湾税务与投资议题升温。感谢收看岚序财经，我们明天见。"
+  }
+}
