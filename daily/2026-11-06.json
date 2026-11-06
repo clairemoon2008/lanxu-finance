@@ -1,0 +1,403 @@
+{
+  "date": "2026-11-06",
+  "generatedAt": "2026-11-06T00:00:00+08:00",
+  "status": "published",
+  "headline": "香港、新加坡与阿联酋金融监管及税务动态成为跨境投资焦点",
+  "summary": "本期覆盖18条新闻，重点关注香港全球金融领袖投资峰会与加密资产税务新规、新加坡家族办公室税务激励和东盟能源合作、阿联酋航空租赁与私募市场，以及科威特消费税计划。",
+  "metrics": {
+    "totalStories": 18,
+    "regionCounts": {
+      "香港": 8,
+      "新加坡": 6,
+      "阿联酋": 3,
+      "海湾国家": 1
+    },
+    "topScore": 71,
+    "averageScore": 65.3,
+    "highImpactStories": 9,
+    "articles": 18,
+    "regions": 4,
+    "hotspots": 6
+  },
+  "topStories": [
+    {
+      "title": "全球金融领袖投资峰会闭幕，“与全球投资者对话”投资论坛举行",
+      "titleZh": "全球金融领袖投资峰会闭幕，“与全球投资者对话”投资论坛举行",
+      "originalTitle": "Global Financial Leaders’ Investment Summit concludes with “Conversations with Global Investors” investment forum",
+      "region": "香港",
+      "topic": "金融监管",
+      "source": "Hong Kong Monetary Authority",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOT1VObmRsVW1pQWRyeFF1X2Z3dVk4QWo3X2dpaEVlT2lPd3dzQTY4M1NNZGZ6RXgwekRkSW5qeHNWUkZmdU5nc3YxNUl4UTkyTm9UUzVDUmNKdVlENkRSXy1RdDNLLTZNQWFKTUd3MGtpc3EtSEZ3UllFTld0SUtIUUpaWQ?oc=5",
+      "publishedAt": "2026-11-04T08:02:03+00:00",
+      "summary": "香港金管局主办的全球金融领袖投资峰会以“与全球投资者对话”投资论坛结束。",
+      "summaryZh": "香港金管局主办的全球金融领袖投资峰会以“与全球投资者对话”投资论坛结束。",
+      "originalSummary": "Global Financial Leaders’ Investment Summit concludes with “Conversations with Global Investors” investment forum Hong Kong Monetary Authority",
+      "impact": "显示香港继续以国际金融中心平台吸引全球资本，后续投资取向与监管沟通值得关注。",
+      "impactZh": "显示香港继续以国际金融中心平台吸引全球资本，后续投资取向与监管沟通值得关注。",
+      "score": 71
+    },
+    {
+      "title": "新加坡调整家族办公室税务激励，并要求加大本地招聘",
+      "titleZh": "新加坡调整家族办公室税务激励，并要求加大本地招聘",
+      "originalTitle": "Singapore adjusts tax incentives for family offices, which must also do more to boost local hires",
+      "region": "新加坡",
+      "topic": "税务与自由区",
+      "source": "Singapore Economic Development Board (EDB)",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQUUx4WFZWZzcxMHZ2YW9zSFlXMGVUSGd4a2YyOF8wVmVScDRQSk9YTk5JdjlaZlEtS1IwTi1vVWFYMU9NWHB2Y2lfbmxteHV1S2w5dFF2bjBNS1JobW9hUDRqZ2JwYXd5dDdUWmdZeFQ1RUNKc1Z2UlVwX1JaRlZpdnpuclo5VEpYYnZkVHpnNDUwQ3dueWh5dXA1Z2djaFVJTHBSYkhsUFVRZEVJNjRrb243NTRLdUlMMVB3X1BaN2RVenMzLTFTdThLcFRvLXp5RVNn?oc=5",
+      "publishedAt": "2026-10-27T07:00:00+00:00",
+      "summary": "新加坡调整家族办公室税务激励，并要求家族办公室加大本地招聘力度。",
+      "summaryZh": "新加坡调整家族办公室税务激励，并要求家族办公室加大本地招聘力度。",
+      "originalSummary": "Singapore adjusts tax incentives for family offices, which must also do more to boost local hires Singapore Economic Development Board (EDB)",
+      "impact": "家族办公室税务合规和本地就业贡献要求上升，将影响区域财富管理布局。",
+      "impactZh": "家族办公室税务合规和本地就业贡献要求上升，将影响区域财富管理布局。",
+      "score": 71
+    },
+    {
+      "title": "新加坡将作为候任东盟主席推进核能合作与电力贸易规则",
+      "titleZh": "新加坡将作为候任东盟主席推进核能合作与电力贸易规则",
+      "originalTitle": "Singapore to advance nuclear ties and power trade rules as incoming Asean chair",
+      "region": "新加坡",
+      "topic": "金融监管",
+      "source": "Green Central Banking",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOQmxGWW1EdXU4UmkwaEVMMmFmSHlUQVBHRER1a3BKZXFIU003RDJNWlVPYlpSZ29DeHhCZFVOSU9pTjZEMDY3RUxQdG1PVVBXMHFoampGeVQ1a1lTbndhZDFPbzNqVU4ySkdjaFZ2cG5lV3VUSjZ0dDl6NE15ZGtJSGJkYVAzRlVYbTdIWXUybGhSQmdQNnlZU0hzQzhiMkVFWmVoaUpXTmN2R3lrVDhSUFhfeDNiM1Z5TWFOZ0JTZjc?oc=5",
+      "publishedAt": "2026-11-04T14:25:17+00:00",
+      "summary": "新加坡将以候任东盟主席身份推进核能合作和电力贸易规则。",
+      "summaryZh": "新加坡将以候任东盟主席身份推进核能合作和电力贸易规则。",
+      "originalSummary": "Singapore to advance nuclear ties and power trade rules as incoming Asean chair Green Central Banking",
+      "impact": "区域能源互联与核能合作议题升温，相关跨境投资需关注规则变化。",
+      "impactZh": "区域能源互联与核能合作议题升温，相关跨境投资需关注规则变化。",
+      "score": 71
+    },
+    {
+      "title": "阿联酋在ADGM和DIFC打造航空租赁枢纽，获主权资本与自由区零税率支持",
+      "titleZh": "阿联酋在ADGM和DIFC打造航空租赁枢纽，获主权资本与自由区零税率支持",
+      "originalTitle": "UAE Builds Aircraft Leasing Hub in ADGM and DIFC, Backed by Sovereign Capital and 0% Free Zone Tax",
+      "region": "阿联酋",
+      "topic": "税务与自由区",
+      "source": "Avi-Go",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5ucHJubmxHLTFfeDFOWjR1M3RvOGJTMncwZXpqOGpoZzZOMXA2eXNFcWFmU2xWWm5lX0lFVUE4dE5Bb3VJTjlsdUw0WUpQNmwxTUVCZHl3amV4dzlZTkhhRnl0R2hzSWtJTXI4NlFKXzJaY2M?oc=5",
+      "publishedAt": "2026-11-03T06:59:22+00:00",
+      "summary": "阿联酋在ADGM和DIFC建设航空租赁枢纽，并获得主权资本和自由区零税率支持。",
+      "summaryZh": "阿联酋在ADGM和DIFC建设航空租赁枢纽，并获得主权资本和自由区零税率支持。",
+      "originalSummary": "UAE Builds Aircraft Leasing Hub in ADGM and DIFC, Backed by Sovereign Capital and 0% Free Zone Tax Avi-Go",
+      "impact": "航空租赁与自由区税制结合，可能增强阿联酋在航空金融和跨境租赁中的吸引力。",
+      "impactZh": "航空租赁与自由区税制结合，可能增强阿联酋在航空金融和跨境租赁中的吸引力。",
+      "score": 71
+    },
+    {
+      "title": "科威特批准消费税计划，针对能量饮料、烟草和含糖饮料",
+      "titleZh": "科威特批准消费税计划，针对能量饮料、烟草和含糖饮料",
+      "originalTitle": "Kuwait approves excise tax plan targeting energy drinks, tobacco and sugary drinks",
+      "region": "海湾国家",
+      "topic": "税务与自由区",
+      "source": "Gulf News",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNdW1aYmQ5ZmlWQTZLek5iYWh0MXEycmVkQ0lPdkpXSkFtRkpZdVRneVEtS1dYSmZXbUhjc2JFWFpCNVRVMmIyMW15djBBM05fTWFqUng5VEpGX191eHVYX1dscHNHbTlyNGZySll6aVNGblBiR0lteDA0b21ZRDZpSUpMRHlaRTl3WlN4RlI3NktzVmtLcGFya0R4V1VkalNfbjFHWDE4dFo5bGRPM0hEaFdjZEp4MnhlcW9pSHBRWjlacUxJVDFCLThyT03SAeIBQVVfeXFMTTRPejVyd0x2RjI2b1ZrRHQ4Y3RiMHBYbmxTLWRsa1N5dzg2cjRfS2RWWmlEUmdKclB4dHJTdlN4SWtMTG53c2V1bV9OT18ycjlyNm01bWRhWTFFbEhXeWlzZUdXUG1MdWE2eVlDZ21tTUMxVTItczkxWTUxY0JheUFKYnpNMXFqa1Vla2hrdkRvX211SmhDWU9vanpmWHI2ZVQ0cG51bG9SSVFZczNfUmJQdjVCcXJvM1dHaDVoMHZhSG0zQ1dQdG1fVWVHX21KVHBhRG5qbXFDbllFRkxWNy0xdw?oc=5",
+      "publishedAt": "2026-10-27T07:00:00+00:00",
+      "summary": "科威特批准消费税计划，目标针对能量饮料、烟草和含糖饮料。",
+      "summaryZh": "科威特批准消费税计划，目标针对能量饮料、烟草和含糖饮料。",
+      "originalSummary": "Kuwait approves excise tax plan targeting energy drinks, tobacco and sugary drinks Gulf News",
+      "impact": "海湾消费税扩围，消费与贸易企业需关注税负和定价调整。",
+      "impactZh": "海湾消费税扩围，消费与贸易企业需关注税负和定价调整。",
+      "score": 71
+    },
+    {
+      "title": "香港计划为保险业热门新增长市场制定规则",
+      "titleZh": "香港计划为保险业热门新增长市场制定规则",
+      "originalTitle": "Hong Kong Plans Rules for Insurers’ Hot New Growth Market",
+      "region": "香港",
+      "topic": "资本市场",
+      "source": "Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZXBiLWtkSWkzdURTQ1I2bk5tNHZaVkZjM0tSTXQyNTlBTmNic2dub3RlZ1cwREtTc3RXanZwaU5BdW1lM2NlcWU5SkZ1U0tlQ2VVS1ViWFpCYlZmMHpiT0stMDhxXzdrbHVfT3Jyd1J0OExSakVoaGU4R3BUVjdNRWwxOE5zNXZEblRZLXluU0RXbEgzYmszbmZ5cVlQUmVuQzgtOHBBMGlkN1U?oc=5",
+      "publishedAt": "2026-11-01T23:00:00+00:00",
+      "summary": "彭博报道称，香港计划为保险业当前热门的新增长市场制定规则。",
+      "summaryZh": "彭博报道称，香港计划为保险业当前热门的新增长市场制定规则。",
+      "originalSummary": "Hong Kong Plans Rules for Insurers’ Hot New Growth Market Bloomberg.com",
+      "impact": "保险创新业务监管框架或将明确，影响产品准入与合规安排。",
+      "impactZh": "保险创新业务监管框架或将明确，影响产品准入与合规安排。",
+      "score": 68
+    },
+    {
+      "title": "2026年香港私人财富管理报告发布",
+      "titleZh": "2026年香港私人财富管理报告发布",
+      "originalTitle": "Hong Kong Private Wealth Management Report 2026",
+      "region": "香港",
+      "topic": "贸易与物流",
+      "source": "kpmg.com",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNNW55MnJHS256SEtxcEoyd1Bjdl81ZmJpSGNwbGpQYWhwQmVyc29VeWFJXzFEX1JKT0h0QWJHU19PRGdMQm16Q0tOcm5zNVNnZDFMRGQyWHkzZ0hSbGc0YlBIc2xrbkN4RjExRkFnVWhNSFUxc3ZGdTkwYTVxR0dnODBQMk1TMGJ2eHFOdkIwZHBINE56OXFn?oc=5",
+      "publishedAt": "2026-11-05T02:37:18+00:00",
+      "summary": "毕马威发布《2026年香港私人财富管理报告》。",
+      "summaryZh": "毕马威发布《2026年香港私人财富管理报告》。",
+      "originalSummary": "Hong Kong Private Wealth Management Report 2026 kpmg.com",
+      "impact": "为观察香港私人财富管理行业提供年度参考，家办与高净值客户配置趋势值得关注。",
+      "impactZh": "为观察香港私人财富管理行业提供年度参考，家办与高净值客户配置趋势值得关注。",
+      "score": 68
+    },
+    {
+      "title": "阿联酋财政部与国际货币基金组织讨论财政发展与展望",
+      "titleZh": "阿联酋财政部与国际货币基金组织讨论财政发展与展望",
+      "originalTitle": "Ministry of Finance, IMF mission discuss UAE fiscal developments and outlook",
+      "region": "阿联酋",
+      "topic": "经济政策",
+      "source": "www.wam.ae",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOcVdPUTRSamQ3S0JMWkF5WDdMb1M1aGt3dmYzMGFTM20yUkVGbS1XbTY5d0lPUTBoQmVmcHVJMnlCTU5uVUpXZ2xMZHJoUkhlTDlkRmdWeXgtOUd1NGN6bWlDSFB1T2x2QnNGb3ZscDFRcnVuWm5SNTdxRDQzQ0lEVUU5dkNaLXYwUG1vNHdn?oc=5",
+      "publishedAt": "2026-11-04T16:24:41+00:00",
+      "summary": "阿联酋财政部与国际货币基金组织代表团讨论阿联酋财政发展和展望。",
+      "summaryZh": "阿联酋财政部与国际货币基金组织代表团讨论阿联酋财政发展和展望。",
+      "originalSummary": "Ministry of Finance, IMF mission discuss UAE fiscal developments and outlook www.wam.ae",
+      "impact": "阿联酋财政政策与IMF磋商受关注，影响主权信用与财政可持续性观察。",
+      "impactZh": "阿联酋财政政策与IMF磋商受关注，影响主权信用与财政可持续性观察。",
+      "score": 68
+    },
+    {
+      "title": "阿联酋：二级市场热潮增强阿布扎比私募市场吸引力",
+      "titleZh": "阿联酋：二级市场热潮增强阿布扎比私募市场吸引力",
+      "originalTitle": "UAE: Secondaries Boom Adds to Abu Dhabi’s Private Markets Appeal",
+      "region": "阿联酋",
+      "topic": "资本市场",
+      "source": "Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQSFVxdElqS3BpZHZBV2M3OUZXS2Q1d3k3YTZGdHYwSi14VEE3YllaZTlBTjUyVk5LR3VRUWpwN2VRRzUyZTR6cmZLb0lyU2lEMWU1SjZmd1lGX3Q3YUhQMWFCblFKUHNKVjJyTVFKRklZQlh1S0VhN1pmYU5RWkVuMnhYcUMzbHZDU01HbUhmbHMyaV9xeURKaW1ucWRBN2xUWmkxcWZ6NGJuSFlzWFBLR1NLVVg?oc=5",
+      "publishedAt": "2026-11-03T12:15:34+00:00",
+      "summary": "报道称二级市场交易热潮增强阿布扎比私募市场吸引力。",
+      "summaryZh": "报道称二级市场交易热潮增强阿布扎比私募市场吸引力。",
+      "originalSummary": "UAE: Secondaries Boom Adds to Abu Dhabi’s Private Markets Appeal Bloomberg.com",
+      "impact": "私募二级交易活跃度上升，可能提升阿布扎比作为区域私募资本配置中心的热度。",
+      "impactZh": "私募二级交易活跃度上升，可能提升阿布扎比作为区域私募资本配置中心的热度。",
+      "score": 68
+    },
+    {
+      "title": "香港通过法律，要求加密交易所向税务机关报告客户交易",
+      "titleZh": "香港通过法律，要求加密交易所向税务机关报告客户交易",
+      "originalTitle": "Hong Kong passes law requiring crypto exchanges to report customer transactions to tax authorities",
+      "region": "香港",
+      "topic": "税务与自由区",
+      "source": "CoinDesk",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNRERtdWt5RjRBSzVoTm9PcUhlS2o2c0lQdzBwT243MHZ4YVdqYUNnY3RaOTRERGhNR3NRd0dtVWxDMWczWjUwamxnSHVNYUdIcUpjc1Qwc0trSTc2NUdyVnQ5VlJaWjJ2Vnp3Si1PQjAwZ1RnRUlId2hWZENCWjJyOEtjQjF0VzYxc2M1MHBmeUtrQ3l0YUlhODdWWWJya0NTQkx1UTZxaTl2dHZNQ1E3SnhhNFBHUkx0ZWU1cEY3LW54cHcyc0FxWkpfSXFoUzlDZG1IdUk0RlU?oc=5",
+      "publishedAt": "2026-11-05T08:35:37+00:00",
+      "summary": "香港通过法律，要求加密交易所向税务机关报告客户交易。",
+      "summaryZh": "香港通过法律，要求加密交易所向税务机关报告客户交易。",
+      "originalSummary": "Hong Kong passes law requiring crypto exchanges to report customer transactions to tax authorities CoinDesk",
+      "impact": "香港加密资产税务透明度提高，交易所合规成本与申报义务上升。",
+      "impactZh": "香港加密资产税务透明度提高，交易所合规成本与申报义务上升。",
+      "score": 61
+    },
+    {
+      "title": "香港通过新加密税务法：2027年投资者将面临哪些变化",
+      "titleZh": "香港通过新加密税务法：2027年投资者将面临哪些变化",
+      "originalTitle": "Hong Kong Passes a New Crypto Tax Law: What Changes for Investors in 2027",
+      "region": "香港",
+      "topic": "税务与自由区",
+      "source": "BeInCrypto",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9zSEswOEFZcnNnUng3ZXQxN3ZLTWtTTEJabTMxUnBBenlDMjNDR3B4RWRPOEkzY3JUVC1rR3I3c1lWZEY3V19FbEM0ODR0dnYwZUxqVXo2elgxRGc2Q2xFM2RBVjIzNUU4VUYyVVQ0VUE?oc=5",
+      "publishedAt": "2026-11-04T13:27:19+00:00",
+      "summary": "报道梳理香港新加密税务法对投资者在2027年的变化。",
+      "summaryZh": "报道梳理香港新加密税务法对投资者在2027年的变化。",
+      "originalSummary": "Hong Kong Passes a New Crypto Tax Law: What Changes for Investors in 2027 BeInCrypto",
+      "impact": "投资者需关注申报、交易记录和税务合规安排。",
+      "impactZh": "投资者需关注申报、交易记录和税务合规安排。",
+      "score": 61
+    },
+    {
+      "title": "全球金融巨头齐聚香港，重新评估投资策略",
+      "titleZh": "全球金融巨头齐聚香港，重新评估投资策略",
+      "originalTitle": "Global finance titans convene in Hong Kong to reassess investment strategies",
+      "region": "香港",
+      "topic": "主权基金",
+      "source": "SCMP",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQWEFVaFZZS0I0LVZ4SjRQcTg2dkpoZzZJUlNiS2hsX0ctbUd5cmtZUFZZSDFkRjY4RURzQ3dULWkwQlAzWjE1LW9ZS0JOc05VS0tYTEc4NmJDV0kxRFhOcW1EM2NBN2RpcUdQWk9XWHB1ZnZJd1FjdExaVzVRenh1THFOcVVrMTk2LVhfRG5YQzJrYkRMOC1xeGJ2QXN2bGVTS2lNNm9rMThiU3cwYnZ6OHM1WWd1TWJ5OW81WTcxbUc4LTFSZmhqelc1enFSOTVldXUwUl83UktMWGRXOVFaMQ?oc=5",
+      "publishedAt": "2026-11-01T23:30:16+00:00",
+      "summary": "全球金融巨头齐聚香港，重新评估投资策略。",
+      "summaryZh": "全球金融巨头齐聚香港，重新评估投资策略。",
+      "originalSummary": "Global finance titans convene in Hong Kong to reassess investment strategies SCMP",
+      "impact": "香港作为对话平台作用凸显，外资对亚洲资产配置的再评估值得关注。",
+      "impactZh": "香港作为对话平台作用凸显，外资对亚洲资产配置的再评估值得关注。",
+      "score": 61
+    },
+    {
+      "title": "Baillie Gifford与HashKey探索在香港推出代币化投资产品",
+      "titleZh": "Baillie Gifford与HashKey探索在香港推出代币化投资产品",
+      "originalTitle": "Baillie Gifford and HashKey Explore Tokenised Investment Products in Hong Kong",
+      "region": "香港",
+      "topic": "主权基金",
+      "source": "FinanceX Magazine",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQQmY0NlFobHFBX0duNTRNdjFQSlBrT2lOWnRFaFl4ZzF2NTcwS0hKdUppcG52ZjFpOGluOTZ6aEx4bk83SjlaSW9LS09TblpvMmY4alY2MU5CSG5raE14MTBGM2p4UzdPNDdXUVY2VktzaGRLcUtBZmRrODFTZUVuMzBsb0FoTkxUOE9yc3JRQlNfdEFISVVaYklKdGFYdW9fbUsxS1R2YUFNa1AzN0pmVnMtMTEzLXM?oc=5",
+      "publishedAt": "2026-11-02T13:06:57+00:00",
+      "summary": "Baillie Gifford与HashKey探索在香港推出代币化投资产品。",
+      "summaryZh": "Baillie Gifford与HashKey探索在香港推出代币化投资产品。",
+      "originalSummary": "Baillie Gifford and HashKey Explore Tokenised Investment Products in Hong Kong FinanceX Magazine",
+      "impact": "代币化投资产品探索增加，香港虚拟资产与资管融合趋势受关注。",
+      "impactZh": "代币化投资产品探索增加，香港虚拟资产与资管融合趋势受关注。",
+      "score": 61
+    },
+    {
+      "title": "Caffrey扩展金融监管AI覆盖至英国、香港和新加坡",
+      "titleZh": "Caffrey扩展金融监管AI覆盖至英国、香港和新加坡",
+      "originalTitle": "Named a 2026 FIA Innovator, Caffrey Expands Its Financial-Regulation AI Coverage to the U.K., Hong Kong and Singapore",
+      "region": "香港",
+      "topic": "金融监管",
+      "source": "Business Wire",
+      "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPSFo1ejdnZER4QVJVNHpCVGpqdzR3RUdKZFZNSmVWZDNIYkpKLU1qZ3pXSS02Ui1oSGxocnpVbGJ2ZE5feE9xOGdUUnU4dk9lQ1Q3Rk56T3ltZl9zOExMcGV4c3ZXRTB5bktYOEpFa2Q5ZnRPQlRSZHdReDdOYVpkS0Y3OUJvcGxralFhRy1DMEdvbnQ4LVlYb3dlMVlkTFloUnN4ZFdaLVRUakFsbERPTXluc0x0amk2SFZ5U1JvM0E1M0NxYkhKdHpjRFFyOHVRMU9qdnBhRWlpQXVVMF9xa211Mml4aFcwNlVkMzczbm94QkM4ODJESTBPMExBQVVQY3c?oc=5",
+      "publishedAt": "2026-10-30T12:00:00+00:00",
+      "summary": "Caffrey被列为2026年FIA创新者，并将其金融监管AI覆盖扩展至英国、香港和新加坡。",
+      "summaryZh": "Caffrey被列为2026年FIA创新者，并将其金融监管AI覆盖扩展至英国、香港和新加坡。",
+      "originalSummary": "Named a 2026 FIA Innovator, Caffrey Expands Its Financial-Regulation AI Coverage to the U.K., Hong Kong and Singapore Business Wire",
+      "impact": "监管科技AI覆盖扩展，金融机构合规科技采购与跨境监管信息需求上升。",
+      "impactZh": "监管科技AI覆盖扩展，金融机构合规科技采购与跨境监管信息需求上升。",
+      "score": 61
+    },
+    {
+      "title": "知名贸易经济学家Davin Chor教授获任新加坡国立大学MAS访问教授",
+      "titleZh": "知名贸易经济学家Davin Chor教授获任新加坡国立大学MAS访问教授",
+      "originalTitle": "Leading trade economist Professor Davin Chor appointed MAS Term Professor at NUS - NUS",
+      "region": "新加坡",
+      "topic": "贸易与物流",
+      "source": "National University of Singapore",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPeTJqLUdaWW8zV1FMM19LdkZkbC1Od09qM21KVWNhdC10c2FvTFRES0JZZVpoa25fQ3c3aUpuYkdtS01RRVJ0cFBzcEN0QWdEU0Z5VzlPd3ROSzVKeVZ4UHZaWjJ2Q2JJQmtuWXF3Qlh1Wi1uTHg5dC1wdV9MZmJxazZXS0tJNEVXdHItcy1YdXRQY2dXWmgwNFJsbWZDdTlCLUJjb2M2NW4?oc=5",
+      "publishedAt": "2026-11-05T02:45:06+00:00",
+      "summary": "新加坡国立大学宣布，知名贸易经济学家Davin Chor教授获任MAS Term Professor。",
+      "summaryZh": "新加坡国立大学宣布，知名贸易经济学家Davin Chor教授获任MAS Term Professor。",
+      "originalSummary": "Leading trade economist Professor Davin Chor appointed MAS Term Professor at NUS NUS",
+      "impact": "贸易经济研究交流增强，新加坡在贸易政策与学术合作上的网络值得关注。",
+      "impactZh": "贸易经济研究交流增强，新加坡在贸易政策与学术合作上的网络值得关注。",
+      "score": 61
+    },
+    {
+      "title": "新加坡支付网络任命核心领导团队，治理国家支付体系并推动创新",
+      "titleZh": "新加坡支付网络任命核心领导团队，治理国家支付体系并推动创新",
+      "originalTitle": "Singapore Payments Network Appoints Key Leadership Team to Govern Singapore’s National Payment Schemes and Drive Payments Innovation",
+      "region": "新加坡",
+      "topic": "金融监管",
+      "source": "Monetary Authority of Singapore",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQdnZJVHIzaXI4eWFXSUVGa1N3aEpsS3RxbHZQQWhGTDR6OTBNRnhJOGxpR1B2X3FqTmZxLXVfU0pwM19PZ0hTU3p6dkhXTzFVUUNnMVp4cDZfTzFTYkhyb0lSOWx4VFBYWTZyYXRjSUhydDRkcHJ4VmVxb1ltY1lLQ3NVbHZoQXUxNUVFZkpvQ0xIcU45ems0a1RPdTJhMjBGNHlUX2x3?oc=5",
+      "publishedAt": "2026-10-28T06:14:50+00:00",
+      "summary": "新加坡支付网络任命关键领导团队，负责治理新加坡国家支付体系并推动支付创新。",
+      "summaryZh": "新加坡支付网络任命关键领导团队，负责治理新加坡国家支付体系并推动支付创新。",
+      "originalSummary": "Singapore Payments Network Appoints Key Leadership Team to Govern Singapore’s National Payment Schemes and Drive Payments Innovation Monetary Authority of Singapore",
+      "impact": "新加坡国家支付体系治理与创新推进，影响支付机构合规与互联互通。",
+      "impactZh": "新加坡国家支付体系治理与创新推进，影响支付机构合规与互联互通。",
+      "score": 61
+    },
+    {
+      "title": "从约束到合作：新加坡与东南亚的能源转型",
+      "titleZh": "从约束到合作：新加坡与东南亚的能源转型",
+      "originalTitle": "From Constraints to Cooperation: Singapore and Southeast Asia’s Energy Transition",
+      "region": "新加坡",
+      "topic": "能源与产业投资",
+      "source": "Singapore Economic Development Board (EDB)",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPTHZCRHJmMWJ3aGF6anRHY3hnUDZWcFFJYVpjOG15T3dhZldRdXItU2tNWTluRXFiclJSdUNKMFY5aXdkYUtQQ1NObi1VeFpibGtQaEZCZm15QVYtR1VqMHdiU3RpTmFqVTBVX0FHcDA5NmJpdXd6Um1MUlJHdFhGN0IwSnpOVFlzTlQ2eE9xdUU1NUk4ZWdXbkl5U2w3a1RIMjF0dTlYRHhxNjBMUHEyUFAxZWFRM2dlNXRXVGRkOVY?oc=5",
+      "publishedAt": "2026-10-27T07:00:00+00:00",
+      "summary": "新加坡经济发展局相关文章讨论新加坡与东南亚如何从能源约束走向合作并推进能源转型。",
+      "summaryZh": "新加坡经济发展局相关文章讨论新加坡与东南亚如何从能源约束走向合作并推进能源转型。",
+      "originalSummary": "From Constraints to Cooperation: Singapore and Southeast Asia’s Energy Transition Singapore Economic Development Board (EDB)",
+      "impact": "东南亚能源转型合作议题受关注，跨境电力、投资与政策协调是观察重点。",
+      "impactZh": "东南亚能源转型合作议题受关注，跨境电力、投资与政策协调是观察重点。",
+      "score": 61
+    },
+    {
+      "title": "马来西亚和泰国央行加入新加坡金管局跨境支付倡议",
+      "titleZh": "马来西亚和泰国央行加入新加坡金管局跨境支付倡议",
+      "originalTitle": "Malaysia, Thailand central banks join MAS cross-border payment initiative",
+      "region": "新加坡",
+      "topic": "金融监管",
+      "source": "The Business Times",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQeVUzdXhNZjdBQ2xSMjBCV3Jyb1UzSkYzQnRoZG9mRUF6ZXdWYlJXX3E4NHBsVHRtMzJCQ0FwWlZ0MGJrWlBZaWtIX1hGYmNmSjdNZW91S0VWX0JKMGNIZnVXRUhCdlVkQ3p6TEFfRXNDbmhnX3Zsd3lUQWV4b2lMOHZnREx5OWM5UkpXRWxBeHBfNG5WS0REanh2M1J6bDBwOVdzNV9IV3lRallsTm1mRHhhM2FyZ3UtSlo0Rm1BM3R2V0k?oc=5",
+      "publishedAt": "2026-10-23T07:00:00+00:00",
+      "summary": "马来西亚和泰国央行加入新加坡金管局的跨境支付倡议。",
+      "summaryZh": "马来西亚和泰国央行加入新加坡金管局的跨境支付倡议。",
+      "originalSummary": "Malaysia, Thailand central banks join MAS cross-border payment initiative The Business Times",
+      "impact": "区域跨境支付互联扩大，支付网络与合规协调值得关注。",
+      "impactZh": "区域跨境支付互联扩大，支付网络与合规协调值得关注。",
+      "score": 61
+    }
+  ],
+  "regions": [
+    {
+      "region": "香港",
+      "storyCount": 8,
+      "focus": "金融峰会、保险监管、私人财富管理、加密资产税务与代币化投资",
+      "topScore": 71
+    },
+    {
+      "region": "新加坡",
+      "storyCount": 6,
+      "focus": "家族办公室税务激励、东盟能源与核能合作、跨境支付、支付体系治理",
+      "topScore": 71
+    },
+    {
+      "region": "阿联酋",
+      "storyCount": 3,
+      "focus": "航空租赁自由区、财政展望、私募二级市场",
+      "topScore": 71
+    },
+    {
+      "region": "海湾国家",
+      "storyCount": 1,
+      "focus": "科威特消费税计划",
+      "topScore": 71
+    }
+  ],
+  "analysis": [
+    {
+      "label": "区域主线",
+      "title": "香港聚焦金融平台功能与合规规则建设",
+      "body": "香港本期新闻集中在全球金融领袖投资峰会、私人财富管理、保险业新增长市场规则，以及加密资产税务申报。主线是巩固国际金融中心平台功能，同时提高加密资产和保险等领域的合规透明度。"
+    },
+    {
+      "label": "新加坡",
+      "title": "家办税务激励调整与区域支付、能源合作并行",
+      "body": "新加坡一方面调整家族办公室税务激励并强化本地招聘要求，另一方面作为候任东盟主席推进核能合作与电力贸易规则，同时扩展跨境支付合作。财富管理合规与区域金融互联互通是两条并行主线。"
+    },
+    {
+      "label": "阿联酋与海湾",
+      "title": "自由区税制、财政磋商与消费税扩围",
+      "body": "阿联酋新闻涉及ADGM和DIFC航空租赁枢纽、财政部与IMF的财政展望讨论，以及阿布扎比私募二级市场吸引力。海湾国家方面，科威特批准针对能量饮料、烟草和含糖饮料的消费税计划，显示财税调整继续受到关注。"
+    },
+    {
+      "label": "监管与税务",
+      "title": "加密资产申报与家办激励调整提高合规要求",
+      "body": "香港要求加密交易所向税务机关报告客户交易，新加坡则调整家族办公室税务激励并强调本地招聘。跨境投资者需关注申报义务、交易记录留存以及税务激励条件变化。"
+    },
+    {
+      "label": "资本流向",
+      "title": "私募二级、航空租赁与代币化产品受关注",
+      "body": "新闻列表显示，阿布扎比私募二级市场热度、阿联酋航空租赁枢纽建设，以及香港代币化投资产品探索均受到关注。这些方向反映区域资本在私募资产、航空金融和虚拟资产产品上的配置兴趣。"
+    },
+    {
+      "label": "风险提示",
+      "title": "关注规则落地节奏与跨境申报一致性",
+      "body": "本期多项动态仍处于规则制定、计划批准或合作探索阶段。跨境投资与贸易主体应关注香港加密税务申报、新加坡家办激励条件、海湾消费税实施范围及区域支付规则的实际落地节奏。"
+    }
+  ],
+  "broadcastScript": {
+    "anchorName": "岚序",
+    "date": "2026-11-06",
+    "headline": "香港、新加坡与阿联酋金融监管及税务动态成为跨境投资焦点",
+    "intro": "各位观众大家好，欢迎收看岚序财经。今天是2026年11月6日。接下来为您播报今日亚洲与海湾地区财经要点。",
+    "segments": [
+      {
+        "title": "今日概览",
+        "text": "本期覆盖18条新闻，重点关注香港全球金融领袖投资峰会与加密资产税务新规、新加坡家族办公室税务激励和东盟能源合作、阿联酋航空租赁与私募市场，以及科威特消费税计划。"
+      },
+      {
+        "title": "全球金融领袖投资峰会闭幕，“与全球投资者对话”投资论坛举行",
+        "text": "第1条，香港全球金融领袖投资峰会闭幕，“与全球投资者对话”投资论坛举行。香港金管局主办的全球金融领袖投资峰会以“与全球投资者对话”投资论坛结束。影响方面，显示香港继续以国际金融中心平台吸引全球资本，后续投资取向与监管沟通值得关注。"
+      },
+      {
+        "title": "新加坡调整家族办公室税务激励，并要求加大本地招聘",
+        "text": "第2条，新加坡新加坡调整家族办公室税务激励，并要求加大本地招聘。新加坡调整家族办公室税务激励，并要求家族办公室加大本地招聘力度。影响方面，家族办公室税务合规和本地就业贡献要求上升，将影响区域财富管理布局。"
+      },
+      {
+        "title": "新加坡将作为候任东盟主席推进核能合作与电力贸易规则",
+        "text": "第3条，新加坡新加坡将作为候任东盟主席推进核能合作与电力贸易规则。新加坡将以候任东盟主席身份推进核能合作和电力贸易规则。影响方面，区域能源互联与核能合作议题升温，相关跨境投资需关注规则变化。"
+      },
+      {
+        "title": "阿联酋在ADGM和DIFC打造航空租赁枢纽，获主权资本与自由区零税率支持",
+        "text": "第4条，阿联酋阿联酋在ADGM和DIFC打造航空租赁枢纽，获主权资本与自由区零税率支持。阿联酋在ADGM和DIFC建设航空租赁枢纽，并获得主权资本和自由区零税率支持。影响方面，航空租赁与自由区税制结合，可能增强阿联酋在航空金融和跨境租赁中的吸引力。"
+      },
+      {
+        "title": "科威特批准消费税计划，针对能量饮料、烟草和含糖饮料",
+        "text": "第5条，海湾国家科威特批准消费税计划，针对能量饮料、烟草和含糖饮料。科威特批准消费税计划，目标针对能量饮料、烟草和含糖饮料。影响方面，海湾消费税扩围，消费与贸易企业需关注税负和定价调整。"
+      }
+    ],
+    "outro": "今日重点，香港、新加坡与阿联酋金融监管及税务动态成为跨境投资焦点。感谢收看岚序财经，我们明天见。"
+  }
+}
