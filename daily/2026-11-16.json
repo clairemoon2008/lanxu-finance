@@ -1,0 +1,416 @@
+{
+  "date": "2026-11-16",
+  "generatedAt": "2026-11-16T08:00:00+08:00",
+  "status": "published",
+  "headline": "香港税务与财富管理政策密集推进，新加坡、阿联酋同步强化金融与自由区布局",
+  "summary": "本期情报覆盖香港、新加坡与阿联酋共18条动态。香港聚焦税务激励、虚拟资产税务申报、离岸信托规则、私人财富管理与代币化结算；新加坡关注东盟主席国议程下的核能与电力贸易规则，以及跨境外汇结算项目；阿联酋围绕飞机租赁枢纽、财政展望与私募市场二级交易展开。",
+  "metrics": {
+    "totalStories": 18,
+    "regionCounts": {
+      "香港": 13,
+      "新加坡": 2,
+      "阿联酋": 3,
+      "海湾国家": 0
+    },
+    "topicCounts": {
+      "税务与自由区": 5,
+      "金融监管": 5,
+      "贸易与物流": 2,
+      "主权基金": 4,
+      "经济政策": 1,
+      "资本市场": 1
+    },
+    "averageScore": 64.6,
+    "highScoreStories": 8,
+    "topScore": 71,
+    "earliestPublishedAt": "2026-11-02T08:00:00+00:00",
+    "latestPublishedAt": "2026-11-13T11:40:40+00:00",
+    "articles": 18,
+    "regions": 4,
+    "hotspots": 4
+  },
+  "topStories": [
+    {
+      "title": "香港推动税务激励：航运、大宗商品、家族办公室与企业财资中心的关键进展",
+      "titleZh": "香港推动税务激励：航运、大宗商品、家族办公室与企业财资中心的关键进展",
+      "originalTitle": "Hong Kong’s Tax Incentives Push: Key Developments Across Shipping, Commodities, Family Offices and Corporate Treasury Centres",
+      "region": "香港",
+      "topic": "税务与自由区",
+      "source": "RSM Global",
+      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPNVBfaHdzMG1kZUliRjh0ME9CVURCU2tYX2VnWG85M1RiN05zeUFsQnFrRkVXbHNlSHBld3Q2aXdwb3QtT1c2aU9jOXh2czNMM3FocE5jd0dfcEY4cFB0UDVsYXFBVnNQZDlFeld2aDhHZ3g0bzlQZnpRaGJWQmI3Q05MYlpaSng5REhFMmV6NmZFT19VdEpNU01OQ3NPakN2MDhmSGZYYnRVYTVyRHl2djNQQlVPSTBoQTdvS1ZkUUZjYVNzVC1xWnlPa2gzS284bWZodEMwVGRiZURCNmlEcXYzSVJEd0pkSm1WS25pbEtHWE9iNXhfYmFJQlJOMTNp?oc=5",
+      "publishedAt": "2026-11-05T09:45:26+00:00",
+      "summary": "RSM Global 梳理香港在航运、大宗商品、家族办公室及企业财资中心领域的税务激励措施与关键进展。",
+      "summaryZh": "RSM Global 梳理香港在航运、大宗商品、家族办公室及企业财资中心领域的税务激励措施与关键进展。",
+      "originalSummary": "Hong Kong’s Tax Incentives Push: Key Developments Across Shipping, Commodities, Family Offices and Corporate Treasury Centres RSM Global",
+      "impact": "相关税务激励进展有助于跨境投资者评估香港在航运、大宗商品、家族办公室和企业财资中心领域的税制吸引力，并关注后续政策落地细节。",
+      "impactZh": "相关税务激励进展有助于跨境投资者评估香港在航运、大宗商品、家族办公室和企业财资中心领域的税制吸引力，并关注后续政策落地细节。",
+      "score": 71
+    },
+    {
+      "title": "新加坡将借东盟主席国身份推进核能合作与电力贸易规则",
+      "titleZh": "新加坡将借东盟主席国身份推进核能合作与电力贸易规则",
+      "originalTitle": "Singapore to advance nuclear ties and power trade rules as incoming Asean chair",
+      "region": "新加坡",
+      "topic": "金融监管",
+      "source": "Green Central Banking",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOQmxGWW1EdXU4UmkwaEVMMmFmSHlUQVBHRER1a3BKZXFIU003RDJNWlVPYlpSZ29DeHhCZFVOSU9pTjZEMDY3RUxQdG1PVVBXMHFoampGeVQ1a1lTbndhZDFPbzNqVU4ySkdjaFZ2cG5lV3VUSjZ0dDl6NE15ZGtJSGJkYVAzRlVYbTdIWXUybGhSQmdQNnlZU0hzQzhiMkVFWmVoaUpXTmN2R3lrVDhSUFhfeDNiM1Z5TWFOZ0JTZjc?oc=5",
+      "publishedAt": "2026-11-04T14:25:17+00:00",
+      "summary": "报道称新加坡将在接任东盟主席国之际，推进核能合作关系与电力贸易规则。",
+      "summaryZh": "报道称新加坡将在接任东盟主席国之际，推进核能合作关系与电力贸易规则。",
+      "originalSummary": "Singapore to advance nuclear ties and power trade rules as incoming Asean chair Green Central Banking",
+      "impact": "区域能源合作与电力贸易规则可能成为新加坡担任东盟主席国期间的重要议题，影响跨境能源投资和监管预期。",
+      "impactZh": "区域能源合作与电力贸易规则可能成为新加坡担任东盟主席国期间的重要议题，影响跨境能源投资和监管预期。",
+      "score": 71
+    },
+    {
+      "title": "阿联酋在阿布扎比全球市场与迪拜国际金融中心打造飞机租赁枢纽，获主权资本与自由区零税率支持",
+      "titleZh": "阿联酋在阿布扎比全球市场与迪拜国际金融中心打造飞机租赁枢纽，获主权资本与自由区零税率支持",
+      "originalTitle": "UAE Builds Aircraft Leasing Hub in ADGM and DIFC, Backed by Sovereign Capital and 0% Free Zone Tax",
+      "region": "阿联酋",
+      "topic": "税务与自由区",
+      "source": "Avi-Go",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5ucHJubmxHLTFfeDFOWjR1M3RvOGJTMncwZXpqOGpoZzZOMXA2eXNFcWFmU2xWWm5lX0lFVUE4dE5Bb3VJTjlsdUw0WUpQNmwxTUVCZHl3amV4dzlZTkhhRnl0R2hzSWtJTXI4NlFKXzJaY2M?oc=5",
+      "publishedAt": "2026-11-03T06:59:22+00:00",
+      "summary": "报道称阿联酋依托主权资本与自由区零税率，在阿布扎比全球市场和迪拜国际金融中心建设飞机租赁枢纽。",
+      "summaryZh": "报道称阿联酋依托主权资本与自由区零税率，在阿布扎比全球市场和迪拜国际金融中心建设飞机租赁枢纽。",
+      "originalSummary": "UAE Builds Aircraft Leasing Hub in ADGM and DIFC, Backed by Sovereign Capital and 0% Free Zone Tax Avi-Go",
+      "impact": "飞机租赁枢纽建设可能增强阿联酋自由区对航空金融、租赁和跨境资本的服务能力，税务安排与主权资本支持是主要观察点。",
+      "impactZh": "飞机租赁枢纽建设可能增强阿联酋自由区对航空金融、租赁和跨境资本的服务能力，税务安排与主权资本支持是主要观察点。",
+      "score": 71
+    },
+    {
+      "title": "对冲基金争夺香港办公空间，加快扩张布局",
+      "titleZh": "对冲基金争夺香港办公空间，加快扩张布局",
+      "originalTitle": "Hedge Funds Battle for Office Space in Hong Kong in Race to Expand in City",
+      "region": "香港",
+      "topic": "主权基金",
+      "source": "Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOWnBUVkx6V255ek5kWTRrY2ZQaUlFZ3pqR2gwY01TeWRMUGYxQXd0SnNQSGZGSi1ra3NWbWEyMlBOYUNYV0lNdXlCdURUVUNIYXVsWXJYeWVkOTF4UnNfSEMtTDBKYlNBUS1WYTNBYU1YU1poVE5XMTVGZGNzeVVrdl81S1VKNWVfNFpuWEdpN3NkczZ5VXNrRWxJUmZtbzNadDRla3VuVnZINHlhNFNqWWxzZXEwSVQzdXZVRHJzeHRDVEE2UHhCcg?oc=5",
+      "publishedAt": "2026-11-12T23:00:14+00:00",
+      "summary": "报道称对冲基金在香港争抢办公空间，反映其在当地扩张布局的竞争加剧。",
+      "summaryZh": "报道称对冲基金在香港争抢办公空间，反映其在当地扩张布局的竞争加剧。",
+      "originalSummary": "Hedge Funds Battle for Office Space in Hong Kong in Race to Expand in City Bloomberg.com",
+      "impact": "对冲基金扩张可能带动香港高端办公空间需求，并影响资产管理机构对香港作为区域投资平台的布局判断。",
+      "impactZh": "对冲基金扩张可能带动香港高端办公空间需求，并影响资产管理机构对香港作为区域投资平台的布局判断。",
+      "score": 68
+    },
+    {
+      "title": "2026年香港私人财富管理报告发布",
+      "titleZh": "2026年香港私人财富管理报告发布",
+      "originalTitle": "Hong Kong Private Wealth Management Report 2026",
+      "region": "香港",
+      "topic": "贸易与物流",
+      "source": "kpmg.com",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNNW55MnJHS256SEtxcEoyd1Bjdl81ZmJpSGNwbGpQYWhwQmVyc29VeWFJXzFEX1JKT0h0QWJHU19PRGdMQm16Q0tOcm5zNVNnZDFMRGQyWHkzZ0hSbGc0YlBIc2xrbkN4RjExRkFnVWhNSFUxc3ZGdTkwYTVxR0dnODBQMk1TMGJ2eHFOdkIwZHBINE56OXFn?oc=5",
+      "publishedAt": "2026-11-05T02:37:18+00:00",
+      "summary": "毕马威发布《2026年香港私人财富管理报告》，聚焦香港私人财富管理行业发展。",
+      "summaryZh": "毕马威发布《2026年香港私人财富管理报告》，聚焦香港私人财富管理行业发展。",
+      "originalSummary": "Hong Kong Private Wealth Management Report 2026 kpmg.com",
+      "impact": "该报告为私人银行、家族办公室及财富管理机构提供香港市场参考，有助于观察行业趋势与业务机会。",
+      "impactZh": "该报告为私人银行、家族办公室及财富管理机构提供香港市场参考，有助于观察行业趋势与业务机会。",
+      "score": 68
+    },
+    {
+      "title": "香港金融科技周暨StartmeupHK 2026主会议：以“金融+”“人工智能+”和全球连接拓展新机遇",
+      "titleZh": "香港金融科技周暨StartmeupHK 2026主会议：以“金融+”“人工智能+”和全球连接拓展新机遇",
+      "originalTitle": "Hong Kong FinTech Week x StartmeupHK 2026 Main Conference advances new opportunities through Finance+, AI+ and global connectivity (with photos)",
+      "region": "香港",
+      "topic": "贸易与物流",
+      "source": "www.info.gov.hk",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE4wYzdzVFVUYWQzQkJvQVZLSF9PdzRlalpXX0ZsM1lydnh0QmxydDB0SzgyaEg2NWRwTUJxNlYyMkduaWJrWFpVY0dGNnA5eEI2NVNIQTNEV3kzcURhQ3FZNGFCeEVPb3VoTmYtLUlEMnlrQQ?oc=5",
+      "publishedAt": "2026-11-04T03:26:04+00:00",
+      "summary": "香港金融科技周与StartmeupHK 2026主会议通过“金融+”“人工智能+”及全球连接，推动新机遇。",
+      "summaryZh": "香港金融科技周与StartmeupHK 2026主会议通过“金融+”“人工智能+”及全球连接，推动新机遇。",
+      "originalSummary": "Hong Kong FinTech Week x StartmeupHK 2026 Main Conference advances new opportunities through Finance+, AI+ and global connectivity (with photos) www.info.gov.hk",
+      "impact": "会议议题体现香港金融科技政策与产业连接的关注方向，可能影响金融科技企业、初创公司和跨境合作方的市场预期。",
+      "impactZh": "会议议题体现香港金融科技政策与产业连接的关注方向，可能影响金融科技企业、初创公司和跨境合作方的市场预期。",
+      "score": 68
+    },
+    {
+      "title": "阿联酋财政部与国际货币基金组织讨论财政进展与展望",
+      "titleZh": "阿联酋财政部与国际货币基金组织讨论财政进展与展望",
+      "originalTitle": "Ministry of Finance, IMF mission discuss UAE fiscal developments and outlook",
+      "region": "阿联酋",
+      "topic": "经济政策",
+      "source": "www.wam.ae",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOcVdPUTRSamQ3S0JMWkF5WDdMb1M1aGt3dmYzMGFTM20yUkVGbS1XbTY5d0lPUTBoQmVmcHVJMnlCTU5uVUpXZ2xMZHJoUkhlTDlkRmdWeXgtOUd1NGN6bWlDSFB1T2x2QnNGb3ZscDFRcnVuWm5SNTdxRDQzQ0lEVUU5dkNaLXYwUG1vNHdn?oc=5",
+      "publishedAt": "2026-11-04T08:00:00+00:00",
+      "summary": "阿联酋财政部与国际货币基金组织代表团讨论阿联酋财政进展与前景。",
+      "summaryZh": "阿联酋财政部与国际货币基金组织代表团讨论阿联酋财政进展与前景。",
+      "originalSummary": "Ministry of Finance, IMF mission discuss UAE fiscal developments and outlook www.wam.ae",
+      "impact": "相关讨论有助于观察阿联酋财政政策走向及其对跨境投资、主权资本和经济多元化议程的影响。",
+      "impactZh": "相关讨论有助于观察阿联酋财政政策走向及其对跨境投资、主权资本和经济多元化议程的影响。",
+      "score": 68
+    },
+    {
+      "title": "阿联酋：二级份额交易热潮提升阿布扎比私募市场吸引力",
+      "titleZh": "阿联酋：二级份额交易热潮提升阿布扎比私募市场吸引力",
+      "originalTitle": "UAE: Secondaries Boom Adds to Abu Dhabi’s Private Markets Appeal",
+      "region": "阿联酋",
+      "topic": "资本市场",
+      "source": "Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQSFVxdElqS3BpZHZBV2M3OUZXS2Q1d3k3YTZGdHYwSi14VEE3YllaZTlBTjUyVk5LR3VRUWpwN2VRRzUyZTR6cmZLb0lyU2lEMWU1SjZmd1lGX3Q3YUhQMWFCblFKUHNKVjJyTVFKRklZQlh1S0VhN1pmYU5RWkVuMnhYcUMzbHZDU01HbUhmbHMyaV9xeURKaW1ucWRBN2xUWmkxcWZ6NGJuSFlzWFBLR1NLVVg?oc=5",
+      "publishedAt": "2026-11-03T08:00:00+00:00",
+      "summary": "报道称二级份额交易热潮增强阿布扎比私募市场的吸引力。",
+      "summaryZh": "报道称二级份额交易热潮增强阿布扎比私募市场的吸引力。",
+      "originalSummary": "UAE: Secondaries Boom Adds to Abu Dhabi’s Private Markets Appeal Bloomberg.com",
+      "impact": "二级份额交易活跃度提升可能改善私募资产流动性预期，并增强阿布扎比对全球私募资本和基金管理人的吸引力。",
+      "impactZh": "二级份额交易活跃度提升可能改善私募资产流动性预期，并增强阿布扎比对全球私募资本和基金管理人的吸引力。",
+      "score": 68
+    },
+    {
+      "title": "北京明确离岸信托税务规则，香港强积金账户获豁免",
+      "titleZh": "北京明确离岸信托税务规则，香港强积金账户获豁免",
+      "originalTitle": "Beijing clarifies offshore trust tax rules, exempting Hong Kong MPF accounts",
+      "region": "香港",
+      "topic": "税务与自由区",
+      "source": "South China Morning Post",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNeDdBb3BEOU9ZQjh0eXprbXFuWDJPdUJUV3IwM1RMcWFXY0wwd2taSFlqYl9oVkxSTmFEb0xGZ1MwaEpQaVpsLVpMXzF5R3kxcFRrR09hZ2w3endndG5Nd1RVdURFWXgxQXBibzhvM2xieWxfVjJ5NEVOWlVsendmR0NhdVR5SEZRQS1HNWE2V1l1MWQ1VzBQNXF4U0xRNFhBX0w2Y3RKRXBkSTZWRzdkUURaLXpubjhONUlocHJ1bExxRVBOd2JMcURkWVVxWGh5Z0E?oc=5",
+      "publishedAt": "2026-11-13T11:40:40+00:00",
+      "summary": "北京明确离岸信托税务规则，并对香港强积金账户给予豁免。",
+      "summaryZh": "北京明确离岸信托税务规则，并对香港强积金账户给予豁免。",
+      "originalSummary": "Beijing clarifies offshore trust tax rules, exempting Hong Kong MPF accounts South China Morning Post",
+      "impact": "规则明确化可能降低离岸信托相关税务不确定性，香港强积金账户获豁免对退休账户安排和跨境财富管理具有观察意义。",
+      "impactZh": "规则明确化可能降低离岸信托相关税务不确定性，香港强积金账户获豁免对退休账户安排和跨境财富管理具有观察意义。",
+      "score": 61
+    },
+    {
+      "title": "官员称北京税务规则放缓香港保险对内地客户销售",
+      "titleZh": "官员称北京税务规则放缓香港保险对内地客户销售",
+      "originalTitle": "Beijing tax rule is slowing Hong Kong’s insurance sales to mainlanders, official says",
+      "region": "香港",
+      "topic": "税务与自由区",
+      "source": "South China Morning Post",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNLXNSWVl5djRiVkxMUmJoaDYtWVJGVU96enNLOEh0MGZfWTFKU3haUGRLcldwUkItUk9XbnNMc0dLZkJWVU83WXhaWkV3dFBEZHVhMDg3aHFtb3RzVjExeUZrWGkzTGRQMmczSm5GSURQRXFKWW93Vi1jdE5CX2pkQWVmU19xUXRQNHk5MDJrZjFGWXU5VDN5OV9xeHF1QXlQSUV2UlFsdEFsTjM2OWN4ZFRHR0dpVWdGaTZ0OEZKbHNwNnlSQmMybGN6WlgwZ2FrNUhWZkRn?oc=5",
+      "publishedAt": "2026-11-13T00:00:22+00:00",
+      "summary": "有官员表示，北京税务规则正在放缓香港保险对内地客户的销售。",
+      "summaryZh": "有官员表示，北京税务规则正在放缓香港保险对内地客户的销售。",
+      "originalSummary": "Beijing tax rule is slowing Hong Kong’s insurance sales to mainlanders, official says South China Morning Post",
+      "impact": "若相关税务规则持续影响内地客户投保需求，香港保险业跨境销售、渠道策略和产品结构可能面临调整压力。",
+      "impactZh": "若相关税务规则持续影响内地客户投保需求，香港保险业跨境销售、渠道策略和产品结构可能面临调整压力。",
+      "score": 61
+    },
+    {
+      "title": "英国央行、新加坡金管局与泰国央行推进“Meridian FX亚太项目”",
+      "titleZh": "英国央行、新加坡金管局与泰国央行推进“Meridian FX亚太项目”",
+      "originalTitle": "The Bank of England, the Monetary Authority of Singapore, and the Bank of Thailand: Project Meridian FX APAC",
+      "region": "新加坡",
+      "topic": "金融监管",
+      "source": "Bank of England",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQcVR4eHdIRUN4cVU4LVRHcGE3Z29yM1hteXVfZ1hRbTJROURUcFp0aDZPcURGaXJBbHlHZ0hjU3hGZ0JrdzRTWGtQSnhsdlJMcGFoYU1jUkhZLVpHVDRNQmRsSl9FTkthMXJZcHVQdl93My1oOG05SFRjRlQtSFp5TU1jZEpYeVktQ2lzTnFwMzlHMWJycDM5YzY0VXZubGxlUVJFYmJ5ckJkeTNyR3JwNTZDZ2E2cFdkZDFmWDhPV1BoUHM?oc=5",
+      "publishedAt": "2026-11-13T09:03:07+00:00",
+      "summary": "英国央行、新加坡金管局与泰国央行联合推进“Meridian FX亚太项目”。",
+      "summaryZh": "英国央行、新加坡金管局与泰国央行联合推进“Meridian FX亚太项目”。",
+      "originalSummary": "The Bank of England, the Monetary Authority of Singapore, and the Bank of Thailand: Project Meridian FX APAC Bank of England",
+      "impact": "该项目体现亚太跨境外汇结算与央行合作探索，可能为区域外汇市场基础设施和跨境支付互联提供参考。",
+      "impactZh": "该项目体现亚太跨境外汇结算与央行合作探索，可能为区域外汇市场基础设施和跨境支付互联提供参考。",
+      "score": 61
+    },
+    {
+      "title": "香港金管局与证监会合办研讨会，推进代币化与“Ensemble项目”合作",
+      "titleZh": "香港金管局与证监会合办研讨会，推进代币化与“Ensemble项目”合作",
+      "originalTitle": "HKMA and SFC co-host seminar to advance tokenisation in Hong Kong and promote collaborative opportunities within Project Ensemble",
+      "region": "香港",
+      "topic": "金融监管",
+      "source": "Hong Kong Monetary Authority",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOLWg1SUtIamhGa0RacGFLTW4yV2ZJeEhfSUw1Q2hQQVFlZ1JNUFU1QVVuejFxNWFFMjJwRTd5XzQyMmZ0SzIwdW9XSVFyTzc5ZUFwUnB1bEJUU0hWVnhGWS10cVdCVWpyOFhMRVBfN1ZNQ1ltTlJwczU1M1BncVZNYjU3WQ?oc=5",
+      "publishedAt": "2026-11-12T08:19:16+00:00",
+      "summary": "香港金管局与证监会合办研讨会，推动香港代币化发展并促进“Ensemble项目”内的合作机会。",
+      "summaryZh": "香港金管局与证监会合办研讨会，推动香港代币化发展并促进“Ensemble项目”内的合作机会。",
+      "originalSummary": "HKMA and SFC co-host seminar to advance tokenisation in Hong Kong and promote collaborative opportunities within Project Ensemble Hong Kong Monetary Authority",
+      "impact": "监管机构联合推动代币化，可能增强市场对香港虚拟资产与代币化金融基础设施协同发展的预期。",
+      "impactZh": "监管机构联合推动代币化，可能增强市场对香港虚拟资产与代币化金融基础设施协同发展的预期。",
+      "score": 61
+    },
+    {
+      "title": "香港商界领袖审视首个五年规划下的投资机会",
+      "titleZh": "香港商界领袖审视首个五年规划下的投资机会",
+      "originalTitle": "Hong Kong business leaders examine investment opportunities under city’s first Five-Year plan",
+      "region": "香港",
+      "topic": "主权基金",
+      "source": "South China Morning Post",
+      "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQVFVkR3BSbjJ2bzh0OEM5MjVSbkw1dEJkUVFvMFY0OWFYR0k5ZXN1UDU2XzVpcUltbkxsMWNGQmFNQkp4dGFNdXRjT092bDNxQmRERnBvSG1fZlJIa1NxNnVZOHEyUkVoTUFfVzIxbW5OTHJDLUNtVkVYcGVDRW1UVm9RX3gtM2ZqUm9wTkFybVNlcTlid0RTb3J6MVZPXzc2UE9jQ01STTVVQXFVSm5TTk9CMURnMXB1MXNVTVNqT1lBS01kWEFuXzNSVmhtbUIzR3Rqek5UNVlmeHY2X2xUY0s3T3MyNjY5a3JWT2pNWWtJZldrWXhadm1qMllGd3F1a0k2aTBn?oc=5",
+      "publishedAt": "2026-11-12T02:00:20+00:00",
+      "summary": "香港商界领袖审视香港首个五年规划下的投资机会。",
+      "summaryZh": "香港商界领袖审视香港首个五年规划下的投资机会。",
+      "originalSummary": "Hong Kong business leaders examine investment opportunities under city’s first Five-Year plan South China Morning Post",
+      "impact": "首个五年规划可能影响香港产业投资方向与政商协作重点，商界关注点有助于观察后续资本配置与项目机会。",
+      "impactZh": "首个五年规划可能影响香港产业投资方向与政商协作重点，商界关注点有助于观察后续资本配置与项目机会。",
+      "score": 61
+    },
+    {
+      "title": "香港金管局宣布“Ensemble项目”实现24/7结算",
+      "titleZh": "香港金管局宣布“Ensemble项目”实现24/7结算",
+      "originalTitle": "Hong Kong Monetary Authority Announces 24/7 Settlement Under Project Ensemble",
+      "region": "香港",
+      "topic": "金融监管",
+      "source": "TOKENPOST",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAzaUcwQzZpdEZvZ29rYTd1X0luOUp6QWRRTTU5RkU2MWJFVVNJUWVtMVFKcXdicWxDbmdDQ1dLci1qSUlFR3ljN3VSUUxtMmNUMXhYM1FYUzdLUDQ?oc=5",
+      "publishedAt": "2026-11-08T13:53:28+00:00",
+      "summary": "香港金管局宣布在“Ensemble项目”下实现24/7结算。",
+      "summaryZh": "香港金管局宣布在“Ensemble项目”下实现24/7结算。",
+      "originalSummary": "Hong Kong Monetary Authority Announces 24/7 Settlement Under Project Ensemble TOKENPOST",
+      "impact": "24/7结算安排可能提升代币化交易场景的结算效率预期，并为香港金融基础设施创新提供观察样本。",
+      "impactZh": "24/7结算安排可能提升代币化交易场景的结算效率预期，并为香港金融基础设施创新提供观察样本。",
+      "score": 61
+    },
+    {
+      "title": "香港通过法律，要求加密资产交易所向税务机关报告客户交易",
+      "titleZh": "香港通过法律，要求加密资产交易所向税务机关报告客户交易",
+      "originalTitle": "Hong Kong passes law requiring crypto exchanges to report customer transactions to tax authorities",
+      "region": "香港",
+      "topic": "税务与自由区",
+      "source": "CoinDesk",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNRERtdWt5RjRBSzVoTm9PcUhlS2o2c0lQdzBwT243MHZ4YVdqYUNnY3RaOTRERGhNR3NRd0dtVWxDMWczWjUwamxnSHVNYUdIcUpjc1Qwc0trSTc2NUdyVnQ5VlJaWjJ2Vnp3Si1PQjAwZ1RnRUlId2hWZENCWjJyOEtjQjF0VzYxc2M1MHBmeUtrQ3l0YUlhODdWWWJya0NTQkx1UTZxaTl2dHZNQ1E3SnhhNFBHUkx0ZWU1cEY3LW54cHcyc0FxWkpfSXFoUzlDZG1IdUk0RlU?oc=5",
+      "publishedAt": "2026-11-05T08:00:00+00:00",
+      "summary": "香港通过法律，要求加密资产交易所向税务机关报告客户交易。",
+      "summaryZh": "香港通过法律，要求加密资产交易所向税务机关报告客户交易。",
+      "originalSummary": "Hong Kong passes law requiring crypto exchanges to report customer transactions to tax authorities CoinDesk",
+      "impact": "新法律可能提高加密资产交易的税务透明度与合规要求，交易所需关注客户交易报告义务带来的运营调整。",
+      "impactZh": "新法律可能提高加密资产交易的税务透明度与合规要求，交易所需关注客户交易报告义务带来的运营调整。",
+      "score": 61
+    },
+    {
+      "title": "2026全球金融领袖投资峰会闭幕，聚焦香港未来金融市场",
+      "titleZh": "2026全球金融领袖投资峰会闭幕，聚焦香港未来金融市场",
+      "originalTitle": "Global Financial Leaders' Investment Summit 2026 Concludes with \"Conversations with Global Investors\" Investment Forum on Future Financial Markets in Hong Kong",
+      "region": "香港",
+      "topic": "主权基金",
+      "source": "巴士的報",
+      "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxPNmxJUWpJajJBb3QwbFV2MlIzbXNod3pXamZZbEZkTmQzTGlMWXY5eUxocGtyTGJnTzRFWHViV2dCVXcxZTV3OU5LU0hVand3OGpseUs0M3NDX2tUZXZvLVZLRzh6YVNDdGU2bU5LckpKa3h3S1NrT0FBRndRRlI4bjFRaHFHWlItaEE1M1RaT21yblg3R2lHRDkzbkU5MEw0RDZBLUFSdFFXM2tURTJIZ1hZdEJlaGlDUXdJQVM0M0JSNktFUGxtMEZpbFFtc19RdzEwU1B5VzFHWTd6QnlxNUNwQVR5anR5RG93Rld0SnJuVWpBdTJpamoyXzdzTkxHb1RGU3FZcWlGbThIZGpNWll1bXlQd0QtUHlLV2JnTTNsNmZkY0J4YmxTQ0d0MjBkdXc?oc=5",
+      "publishedAt": "2026-11-04T08:00:00+00:00",
+      "summary": "2026全球金融领袖投资峰会闭幕，并以“与全球投资者对话”投资论坛聚焦香港未来金融市场。",
+      "summaryZh": "2026全球金融领袖投资峰会闭幕，并以“与全球投资者对话”投资论坛聚焦香港未来金融市场。",
+      "originalSummary": "Global Financial Leaders' Investment Summit 2026 Concludes with \"Conversations with Global Investors\" Investment Forum on Future Financial Markets in Hong Kong 巴士的報",
+      "impact": "峰会闭幕与论坛议题体现国际投资者对香港未来金融市场的关注，有助于观察香港作为国际金融中心的市场沟通与资本连接。",
+      "impactZh": "峰会闭幕与论坛议题体现国际投资者对香港未来金融市场的关注，有助于观察香港作为国际金融中心的市场沟通与资本连接。",
+      "score": 61
+    },
+    {
+      "title": "全球金融巨头齐聚香港，重新评估投资策略",
+      "titleZh": "全球金融巨头齐聚香港，重新评估投资策略",
+      "originalTitle": "Global finance titans convene in Hong Kong to reassess investment strategies",
+      "region": "香港",
+      "topic": "主权基金",
+      "source": "South China Morning Post",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQWEFVaFZZS0I0LVZ4SjRQcTg2dkpoZzZJUlNiS2hsX0ctbUd5cmtZUFZZSDFkRjY4RURzQ3dULWkwQlAzWjE1LW9ZS0JOc05VS0tYTEc4NmJDV0kxRFhOcW1EM2NBN2RpcUdQWk9XWHB1ZnZJd1FjdExaVzVRenh1THFOcVVrMTk2LVhfRG5YQzJrYkRMOC1xeGJ2QXN2bGVTS2lNNm9rMThiU3cwYnZ6OHM1WWd1TWJ5OW81WTcxbUc4LTFSZmhqelc1enFSOTVldXUwUl83UktMWGRXOVFaMQ?oc=5",
+      "publishedAt": "2026-11-02T08:00:00+00:00",
+      "summary": "全球金融巨头齐聚香港，重新评估投资策略。",
+      "summaryZh": "全球金融巨头齐聚香港，重新评估投资策略。",
+      "originalSummary": "Global finance titans convene in Hong Kong to reassess investment strategies South China Morning Post",
+      "impact": "国际金融机构的策略评估可能影响香港资本市场资金流向与资产管理布局，是观察跨境投资情绪的重要信号。",
+      "impactZh": "国际金融机构的策略评估可能影响香港资本市场资金流向与资产管理布局，是观察跨境投资情绪的重要信号。",
+      "score": 61
+    },
+    {
+      "title": "香港虚拟资产法律与监管概览",
+      "titleZh": "香港虚拟资产法律与监管概览",
+      "originalTitle": "Virtual assets laws and regulations in Hong Kong",
+      "region": "香港",
+      "topic": "金融监管",
+      "source": "Stephenson Harwood",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPRFEySEwyT3dONF9xTjFRYTYtWHA5SEVYRVk0SXZiSnk1a2NVeVRxSjNYQTBSZDBScjFmcDl2TE1EYU55YUZocXVmNWt4M00xMTN2V3RqMVh1TklTSDl0RGJkVU1kckp0S00tU2VUX3BXVTd0bTVHd2loNkE4aVRqb042bkI1WWlRbG1RX3hlMFpJWlJJTXlF?oc=5",
+      "publishedAt": "2026-11-02T08:00:00+00:00",
+      "summary": " Stephenson Harwood 发布香港虚拟资产法律与监管概览。",
+      "summaryZh": " Stephenson Harwood 发布香港虚拟资产法律与监管概览。",
+      "originalSummary": "Virtual assets laws and regulations in Hong Kong Stephenson Harwood",
+      "impact": "该概览有助于虚拟资产市场参与者理解香港法律与监管框架，并关注合规要求对业务模式的影响。",
+      "impactZh": "该概览有助于虚拟资产市场参与者理解香港法律与监管框架，并关注合规要求对业务模式的影响。",
+      "score": 61
+    }
+  ],
+  "regions": [
+    {
+      "region": "香港",
+      "storyCount": 13,
+      "focus": "税务激励、虚拟资产税务申报、离岸信托规则、私人财富管理、对冲基金扩张、代币化结算与金融科技会议",
+      "representativeSources": [
+        "RSM Global",
+        "Bloomberg.com",
+        "CoinDesk",
+        "South China Morning Post",
+        "Hong Kong Monetary Authority"
+      ]
+    },
+    {
+      "region": "新加坡",
+      "storyCount": 2,
+      "focus": "东盟主席国议程下的核能合作与电力贸易规则，以及“Meridian FX亚太项目”跨境外汇结算合作",
+      "representativeSources": [
+        "Green Central Banking",
+        "Bank of England"
+      ]
+    },
+    {
+      "region": "阿联酋",
+      "storyCount": 3,
+      "focus": "飞机租赁枢纽、自由区零税率、财政部与国际货币基金组织财政讨论、阿布扎比私募市场二级交易",
+      "representativeSources": [
+        "Avi-Go",
+        "www.wam.ae",
+        "Bloomberg.com"
+      ]
+    },
+    {
+      "region": "海湾国家",
+      "storyCount": 0,
+      "focus": "本期新闻列表中没有单独标注为海湾国家的报道；阿联酋相关动态可作为区域观察参考。",
+      "representativeSources": []
+    }
+  ],
+  "analysis": [
+    {
+      "label": "香港税务与财富管理",
+      "title": "税务激励与合规规则并行，香港财富管理生态面临结构性调整",
+      "body": "本期香港新闻同时涉及税务激励推进、离岸信托税务规则明确、加密资产交易税务报告立法，以及保险销售受税务规则影响的官员表态。对跨境投资者而言，关注点不只在优惠本身，也在申报义务、信托安排和跨境销售合规的变化。私人财富管理报告与对冲基金扩张新闻则显示，香港财富与资产管理行业仍在吸引机构布局。"
+    },
+    {
+      "label": "新加坡区域金融",
+      "title": "新加坡以东盟主席国议程和央行合作提升区域金融连接",
+      "body": "新加坡相关动态集中在两方向：一是接任东盟主席国后推进核能关系与电力贸易规则，二是与英国央行、泰国央行共同推进“Meridian FX亚太项目”。前者关系区域能源合作与规则制定，后者体现跨境外汇结算和央行合作探索，均可能影响亚太跨境投资与金融基础设施预期。"
+    },
+    {
+      "label": "阿联酋自由区与资本市场",
+      "title": "阿联酋以自由区税制、主权资本和私募二级市场增强资本吸引力",
+      "body": "阿联酋新闻覆盖飞机租赁枢纽建设、自由区零税率、财政部与国际货币基金组织的财政讨论，以及阿布扎比私募市场二级交易热潮。这些动态共同指向阿联酋通过自由区制度、主权资本支持和资本市场流动性建设，提升对航空金融、私募资本和跨境机构的吸引力。"
+    },
+    {
+      "label": "虚拟资产与代币化",
+      "title": "香港虚拟资产监管与代币化基础设施同步推进",
+      "body": "香港虚拟资产相关新闻包括加密交易所客户交易税务报告立法、虚拟资产法律监管概览、金管局与证监会推动代币化研讨会，以及“Ensemble项目”24/7结算安排。政策与基础设施动作并行，显示香港在强化税务透明和合规框架的同时，也在推进代币化结算等金融创新试点。"
+    }
+  ],
+  "broadcastScript": {
+    "anchorName": "岚序",
+    "date": "2026-11-16",
+    "headline": "香港税务与财富管理政策密集推进，新加坡、阿联酋同步强化金融与自由区布局",
+    "intro": "各位观众大家好，欢迎收看岚序财经。今天是2026年11月16日。接下来为您播报今日亚洲与海湾地区财经要点。",
+    "segments": [
+      {
+        "title": "今日概览",
+        "text": "本期情报覆盖香港、新加坡与阿联酋共18条动态。香港聚焦税务激励、虚拟资产税务申报、离岸信托规则、私人财富管理与代币化结算；新加坡关注东盟主席国议程下的核能与电力贸易规则，以及跨境外汇结算项目；阿联酋围绕飞机租赁枢纽、财政展望与私募市场二级交易展开。"
+      },
+      {
+        "title": "香港推动税务激励：航运、大宗商品、家族办公室与企业财资中心的关键进展",
+        "text": "第1条，香港香港推动税务激励：航运、大宗商品、家族办公室与企业财资中心的关键进展。RSM Global 梳理香港在航运、大宗商品、家族办公室及企业财资中心领域的税务激励措施与关键进展。影响方面，相关税务激励进展有助于跨境投资者评估香港在航运、大宗商品、家族办公室和企业财资中心领域的税制吸引力，并关注后续政策落地细节。"
+      },
+      {
+        "title": "新加坡将借东盟主席国身份推进核能合作与电力贸易规则",
+        "text": "第2条，新加坡新加坡将借东盟主席国身份推进核能合作与电力贸易规则。报道称新加坡将在接任东盟主席国之际，推进核能合作关系与电力贸易规则。影响方面，区域能源合作与电力贸易规则可能成为新加坡担任东盟主席国期间的重要议题，影响跨境能源投资和监管预期。"
+      },
+      {
+        "title": "阿联酋在阿布扎比全球市场与迪拜国际金融中心打造飞机租赁枢纽，获主权资本与自由区零税率支持",
+        "text": "第3条，阿联酋阿联酋在阿布扎比全球市场与迪拜国际金融中心打造飞机租赁枢纽，获主权资本与自由区零税率支持。报道称阿联酋依托主权资本与自由区零税率，在阿布扎比全球市场和迪拜国际金融中心建设飞机租赁枢纽。影响方面，飞机租赁枢纽建设可能增强阿联酋自由区对航空金融、租赁和跨境资本的服务能力，税务安排与主权资本支持是主要观察点。"
+      },
+      {
+        "title": "对冲基金争夺香港办公空间，加快扩张布局",
+        "text": "第4条，香港对冲基金争夺香港办公空间，加快扩张布局。报道称对冲基金在香港争抢办公空间，反映其在当地扩张布局的竞争加剧。影响方面，对冲基金扩张可能带动香港高端办公空间需求，并影响资产管理机构对香港作为区域投资平台的布局判断。"
+      },
+      {
+        "title": "2026年香港私人财富管理报告发布",
+        "text": "第5条，香港2026年香港私人财富管理报告发布。毕马威发布《2026年香港私人财富管理报告》，聚焦香港私人财富管理行业发展。影响方面，该报告为私人银行、家族办公室及财富管理机构提供香港市场参考，有助于观察行业趋势与业务机会。"
+      }
+    ],
+    "outro": "今日重点，香港税务与财富管理政策密集推进，新加坡、阿联酋同步强化金融与自由区布局。感谢收看岚序财经，我们明天见。"
+  }
+}
