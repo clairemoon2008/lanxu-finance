@@ -1,0 +1,397 @@
+{
+  "date": "2026-11-21",
+  "generatedAt": "2026-11-21T00:00:00Z",
+  "status": "published",
+  "headline": "香港、新加坡与海湾市场情报：监管创新、家族办公室调仓与跨境合规并行",
+  "summary": "本期情报覆盖香港、新加坡、阿联酋及海湾国家，主线包括香港监管论坛与家族办公室调仓、新加坡AI金融风险与支付及自贸协定进展，以及中东主权资本和跨境税务合规议题。",
+  "metrics": {
+    "totalStories": 18,
+    "byRegion": {
+      "香港": 9,
+      "新加坡": 6,
+      "阿联酋": 2,
+      "海湾国家": 1
+    },
+    "byTopic": {
+      "资本市场": 1,
+      "经济政策": 2,
+      "主权基金": 4,
+      "能源与产业投资": 2,
+      "贸易与物流": 3,
+      "税务与自由区": 3,
+      "金融监管": 3
+    },
+    "averageScore": 64.8,
+    "highScoreCount": 4,
+    "articles": 18,
+    "regions": 4,
+    "hotspots": 4
+  },
+  "topStories": [
+    {
+      "title": "香港彭博监管论坛聚焦市场韧性与创新",
+      "titleZh": "香港彭博监管论坛聚焦市场韧性与创新",
+      "originalTitle": "Policymakers and Industry Leaders Address Market Resilience and Innovation at Bloomberg Global Regulatory Forum in Hong Kong | Press",
+      "region": "香港",
+      "topic": "资本市场",
+      "source": "Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQeHBWRDJYaUNWamVyenlPM3Y3WXYweEFVUGNaU1JTSWRKbE5JV1UtMEJwd09VOWxZR2FadXZhckVjQ3gtUTF6clI5R0FHNlduRjNrSWxfSmNUNllobXhyYlYxUHphbF9pc1dWQzdaY2MtcHplQURpdGFVanVpTTZwaTNwcEV1ZUYyZmZuTERxTWNmRVJvZTFTNXNVV2NQdkJHZ1otNWJkSjhBYVp3ZTl4OXc5ZUxyUW80S2drc010NGxtaWQxRDRTZTBqQ25VZ1hjUlFvOXZ1THZqdi12Q2NrdmRhaThUZ0h2NXJENW9QMS1RcHlCTW1SVQ?oc=5",
+      "publishedAt": "2026-11-17T01:00:28+00:00",
+      "summary": "彭博全球监管论坛在香港举行，政策制定者和行业领袖围绕市场韧性与创新展开讨论。",
+      "summaryZh": "彭博全球监管论坛在香港举行，政策制定者和行业领袖围绕市场韧性与创新展开讨论。",
+      "originalSummary": "Policymakers and Industry Leaders Address Market Resilience and Innovation at Bloomberg Global Regulatory Forum in Hong Kong | Press Bloomberg.com",
+      "impact": "论坛议题涉及监管与创新平衡，可能影响香港资本市场参与者的政策预期和合规安排。",
+      "impactZh": "论坛议题涉及监管与创新平衡，可能影响香港资本市场参与者的政策预期和合规安排。",
+      "score": 78
+    },
+    {
+      "title": "香港家族办公室削减39亿美元AI相关押注",
+      "titleZh": "香港家族办公室削减39亿美元AI相关押注",
+      "originalTitle": "Hong Kong Family Office Unwinds $3.9 Billion of Bets Around AI",
+      "region": "香港",
+      "topic": "经济政策",
+      "source": "Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNSjR0aVZ2NGVfWk1qaVJ2Q3dzcy1Fd2RrekJ1NVpKUDZBYjhKZmlmQ1BpZUZUcWRwVWM2SnNlMnVuN1pzdnJrWFloajRJakpzY2YtdVp4NXUxa3E3Q0dqa2dyTnNPcDdIdzRfQ0l3amlJTE9sSUU3UmhVMllZZVNfMjdLUHNKcVU0RTM4QVJIbm4xSjdHb3BMSDlrSWtqRko4Ui1ZV0M1YmZRNEcxSHlkSHhn?oc=5",
+      "publishedAt": "2026-11-19T07:58:00+00:00",
+      "summary": "彭博报道，香港一家家族办公室削减约39亿美元与人工智能相关的押注。",
+      "summaryZh": "彭博报道，香港一家家族办公室削减约39亿美元与人工智能相关的押注。",
+      "originalSummary": "Hong Kong Family Office Unwinds $3.9 Billion of Bets Around AI Bloomberg.com",
+      "impact": "大额调仓反映该家族办公室调整AI相关风险敞口，值得关注对香港科技与AI相关资产资金流向的影响。",
+      "impactZh": "大额调仓反映该家族办公室调整AI相关风险敞口，值得关注对香港科技与AI相关资产资金流向的影响。",
+      "score": 78
+    },
+    {
+      "title": "AI金融分析师发布：香港上市公司与家族办公室获战略投资",
+      "titleZh": "AI金融分析师发布：香港上市公司与家族办公室获战略投资",
+      "originalTitle": "AI Financial Analyst Launch: Hong Kong Listed Companies & Family Offices Secure Strategic Investments",
+      "region": "香港",
+      "topic": "主权基金",
+      "source": "eu.36kr.com",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE42NHJPRlBBMWZGSDdlYml6aU5lU2pDaS1OWkRTaTdrSWJWRHZMUzZnbTNtQmhvQkxRTDMyX0FRLXUxOFZSZjR0OXhUb2o5SkZmZ0dj?oc=5",
+      "publishedAt": "2026-11-17T00:41:05+00:00",
+      "summary": "有消息称，AI金融分析师发布，香港上市公司与家族办公室获得战略投资。",
+      "summaryZh": "有消息称，AI金融分析师发布，香港上市公司与家族办公室获得战略投资。",
+      "originalSummary": "AI Financial Analyst Launch: Hong Kong Listed Companies & Family Offices Secure Strategic Investments eu.36kr.com",
+      "impact": "若相关投资落地，可能推动香港上市公司和家族办公室采用AI金融分析工具，并带来新的合规与数据治理需求。",
+      "impactZh": "若相关投资落地，可能推动香港上市公司和家族办公室采用AI金融分析工具，并带来新的合规与数据治理需求。",
+      "score": 71
+    },
+    {
+      "title": "经济部长与卡塔尔主权财富基金讨论能源、旅游与AI投资",
+      "titleZh": "经济部长与卡塔尔主权财富基金讨论能源、旅游与AI投资",
+      "originalTitle": "The Minister of Economy, Digitalization, Entrepreneurship and Tourism, Daniel Zamfir, discusses investments in energy, tourism and artificial intelligence with Qatar’s sovereign wealth fund",
+      "region": "海湾国家",
+      "topic": "能源与产业投资",
+      "source": "Informat.ro",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPSFVZNmFRel9JeFpHcjlPNjJJZUpjUS1IUlVxUjFwVkRSblpFYU02Zm5vNjlKMG91SVoyT2QydVpTVlYtUUREREJUSGxWQ01qWWE0SzFta2FRQ3FUNEpfOE5lTzVudlRyUDM2a1A2djVMZEZtckNidzRBSV9SUXI4QnoyWjI1ZFduMU9pMGQzTHhCcXlMWHdyazFzdXYxS1F6ZVVuYk5GV0hVcUJEeEVZX0ZmVEo2OU0?oc=5",
+      "publishedAt": "2026-11-17T09:45:58+00:00",
+      "summary": "经济、数字化、创业与旅游部长丹尼尔·扎姆菲尔与卡塔尔主权财富基金讨论能源、旅游和人工智能领域投资。",
+      "summaryZh": "经济、数字化、创业与旅游部长丹尼尔·扎姆菲尔与卡塔尔主权财富基金讨论能源、旅游和人工智能领域投资。",
+      "originalSummary": "The Minister of Economy, Digitalization, Entrepreneurship and Tourism, Daniel Zamfir, discusses investments in energy, tourism and artificial intelligence with Qatar’s sovereign wealth fund Informat.ro",
+      "impact": "讨论涉及海湾主权资本与产业投资方向，可能为能源、旅游和AI项目带来跨境合作机会。",
+      "impactZh": "讨论涉及海湾主权资本与产业投资方向，可能为能源、旅游和AI项目带来跨境合作机会。",
+      "score": 71
+    },
+    {
+      "title": "对冲基金争夺香港办公空间以加速扩张",
+      "titleZh": "对冲基金争夺香港办公空间以加速扩张",
+      "originalTitle": "Hedge Funds Battle for Office Space in Hong Kong in Race to Expand in City",
+      "region": "香港",
+      "topic": "主权基金",
+      "source": "Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOWnBUVkx6V255ek5kWTRrY2ZQaUlFZ3pqR2gwY01TeWRMUGYxQXd0SnNQSGZGSi1ra3NWbWEyMlBOYUNYV0lNdXlCdURUVUNIYXVsWXJYeWVkOTF4UnNfSEMtTDBKYlNBUS1WYTNBYU1YU1poVE5XMTVGZGNzeVVrdl81S1VKNWVfNFpuWEdpN3NkczZ5VXNrRWxJUmZtbzNadDRla3VuVnZINHlhNFNqWWxzZXEwSVQzdXZVRHJzeHRDVEE2UHhCcg?oc=5",
+      "publishedAt": "2026-11-12T08:00:00+00:00",
+      "summary": "彭博报道，对冲基金在香港争夺办公空间，以推进扩张计划。",
+      "summaryZh": "彭博报道，对冲基金在香港争夺办公空间，以推进扩张计划。",
+      "originalSummary": "Hedge Funds Battle for Office Space in Hong Kong in Race to Expand in City Bloomberg.com",
+      "impact": "办公需求上升反映部分对冲基金仍视香港为区域扩张据点，可能支撑核心商业区租赁市场。",
+      "impactZh": "办公需求上升反映部分对冲基金仍视香港为区域扩张据点，可能支撑核心商业区租赁市场。",
+      "score": 68
+    },
+    {
+      "title": "新加坡金管局警告AI代理可能加快资金流动并抬高金融风险",
+      "titleZh": "新加坡金管局警告AI代理可能加快资金流动并抬高金融风险",
+      "originalTitle": "MAS Warns AI Agents Could Move Money Faster, Raise Finance Risks",
+      "region": "新加坡",
+      "topic": "经济政策",
+      "source": "Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNM3phS3NuMW04a3d4cEVhNnVDM25naVJfNUUtR0w3a2M4WHpjUVhxMmt5MWtoMU9DUzZrdFc3RFU1TU15djdQV1I1R1RaQ1g2ZUJnM3BqX2RXbFg4WGdDYTdfUWxic0ltSVJRQjcwd0ZXV2ZpeWF2UXFTSm16Sm9Wdl9QWTZXU1RSMkQxdF9CTWNFWS0wbmRMMjBFMVF6RmUtV1IwdXlMcHctVTBkN3RCaHJvWE4?oc=5",
+      "publishedAt": "2026-11-19T11:20:15+00:00",
+      "summary": "新加坡金管局警告，AI代理可能加快资金流动，并增加金融风险。",
+      "summaryZh": "新加坡金管局警告，AI代理可能加快资金流动，并增加金融风险。",
+      "originalSummary": "MAS Warns AI Agents Could Move Money Faster, Raise Finance Risks Bloomberg.com",
+      "impact": "监管机构关注AI代理在支付与资金转移中的风险，可能推动更严格的治理和监控要求。",
+      "impactZh": "监管机构关注AI代理在支付与资金转移中的风险，可能推动更严格的治理和监控要求。",
+      "score": 68
+    },
+    {
+      "title": "香港商界领袖审视首份五年规划下的投资机遇",
+      "titleZh": "香港商界领袖审视首份五年规划下的投资机遇",
+      "originalTitle": "Hong Kong business leaders examine investment opportunities under city’s first Five-Year plan",
+      "region": "香港",
+      "topic": "主权基金",
+      "source": "South China Morning Post",
+      "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQVFVkR3BSbjJ2bzh0OEM5MjVSbkw1dEJkUVFvMFY0OWFYR0k5ZXN1UDU2XzVpcUltbkxsMWNGQmFNQkp4dGFNdXRjT092bDNxQmRERnBvSG1fZlJIa1NxNnVZOHEyUkVoTUFfVzIxbW5OTHJDLUNtVkVYcGVDRW1UVm9RX3gtM2ZqUm9wTkFybVNlcTlid0RTb3J6MVZPXzc2UE9jQ01STTVVQXFVSm5TTk9CMURnMXB1MXNVTVNqT1lBS01kWEFuXzNSVmhtbUIzR3Rqek5UNVlmeHY2X2xUY0s3T3MyNjY5a3JWT2pNWWtJZldrWXhadm1qMllGd3F1a0k2aTBn?oc=5",
+      "publishedAt": "2026-11-12T08:00:00+00:00",
+      "summary": "香港商界领袖研究该市首份五年规划下的投资机会。",
+      "summaryZh": "香港商界领袖研究该市首份五年规划下的投资机会。",
+      "originalSummary": "Hong Kong business leaders examine investment opportunities under city’s first Five-Year plan South China Morning Post",
+      "impact": "五年规划可能引导香港产业与投资方向，商界关注政策落地带来的项目与资本配置机会。",
+      "impactZh": "五年规划可能引导香港产业与投资方向，商界关注政策落地带来的项目与资本配置机会。",
+      "score": 61
+    },
+    {
+      "title": "BNY：香港谨慎再接触获得政策支持",
+      "titleZh": "BNY：香港谨慎再接触获得政策支持",
+      "originalTitle": "Hong Kong: Cautious re-engagement draws support from policy – BNY",
+      "region": "香港",
+      "topic": "贸易与物流",
+      "source": "www.tmgm.com",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOQzMyNGNwZ3lVQzF6QXEtdmdBblV2YVh1eDBHcGstZi1jOV9kYmgwcFZhQ0ZTcDNLbmJaX3N1dVpTUjhYdUlBY3hpeHJjQWVTWTYzNjBmZWxPN09xSWFrSmdJcVhtLUs1ZjBZT3FoVk5VRnFfeHpMUmpzNWszMmtzRlliN0ljRkk5ZVhUVHc5UzRDak9TN1oxMkJ1eDd1OHliM1FmckhuWDlrVVhNamVEeFpKYjcwNHlzZm1nTmYzdktWV3JCbGc?oc=5",
+      "publishedAt": "2026-11-20T15:56:25+00:00",
+      "summary": "BNY观点称，香港的谨慎再接触获得政策支持。",
+      "summaryZh": "BNY观点称，香港的谨慎再接触获得政策支持。",
+      "originalSummary": "Hong Kong: Cautious re-engagement draws support from policy – BNY www.tmgm.com",
+      "impact": "该观点显示市场对香港政策支持与重新参与保持关注，可能影响跨境业务和资产配置判断。",
+      "impactZh": "该观点显示市场对香港政策支持与重新参与保持关注，可能影响跨境业务和资产配置判断。",
+      "score": 61
+    },
+    {
+      "title": "北京明确离岸信托税务规则 香港强积金账户获豁免",
+      "titleZh": "北京明确离岸信托税务规则 香港强积金账户获豁免",
+      "originalTitle": "Beijing clarifies offshore trust tax rules, exempting Hong Kong MPF accounts",
+      "region": "香港",
+      "topic": "税务与自由区",
+      "source": "South China Morning Post",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNeDdBb3BEOU9ZQjh0eXprbXFuWDJPdUJUV3IwM1RMcWFXY0wwd2taSFlqYl9oVkxSTmFEb0xGZ1MwaEpQaVpsLVpMXzF5R3kxcFRrR09hZ2w3endndG5Nd1RVdURFWXgxQXBibzhvM2xieWxfVjJ5NEVOWlVsendmR0NhdVR5SEZRQS1HNWE2V1l1MWQ1VzBQNXF4U0xRNFhBX0w2Y3RKRXBkSTZWRzdkUURaLXpubjhONUlocHJ1bExxRVBOd2JMcURkWVVxWGh5Z0E?oc=5",
+      "publishedAt": "2026-11-13T11:40:40+00:00",
+      "summary": "北京明确离岸信托税务规则，香港强积金账户获豁免。",
+      "summaryZh": "北京明确离岸信托税务规则，香港强积金账户获豁免。",
+      "originalSummary": "Beijing clarifies offshore trust tax rules, exempting Hong Kong MPF accounts South China Morning Post",
+      "impact": "规则明确有助于降低香港强积金相关离岸信托的不确定性，但跨境税务合规仍需持续关注。",
+      "impactZh": "规则明确有助于降低香港强积金相关离岸信托的不确定性，但跨境税务合规仍需持续关注。",
+      "score": 61
+    },
+    {
+      "title": "官员称北京税务新规放缓香港对内地客户保险销售",
+      "titleZh": "官员称北京税务新规放缓香港对内地客户保险销售",
+      "originalTitle": "Beijing tax rule is slowing Hong Kong’s insurance sales to mainlanders, official says",
+      "region": "香港",
+      "topic": "税务与自由区",
+      "source": "South China Morning Post",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNLXNSWVl5djRiVkxMUmJoaDYtWVJGVU96enNLOEh0MGZfWTFKU3haUGRLcldwUkItUk9XbnNMc0dLZkJWVU83WXhaWkV3dFBEZHVhMDg3aHFtb3RzVjExeUZrWGkzTGRQMmczSm5GSURQRXFKWW93Vi1jdE5CX2pkQWVmU19xUXRQNHk5MDJrZjFGWXU5VDN5OV9xeHF1QXlQSUV2UlFsdEFsTjM2OWN4ZFRHR0dpVWdGaTZ0OEZKbHNwNnlSQmMybGN6WlgwZ2FrNUhWZkRn?oc=5",
+      "publishedAt": "2026-11-13T00:00:22+00:00",
+      "summary": "有官员表示，北京税务规则正在放缓香港向内地客户销售保险。",
+      "summaryZh": "有官员表示，北京税务规则正在放缓香港向内地客户销售保险。",
+      "originalSummary": "Beijing tax rule is slowing Hong Kong’s insurance sales to mainlanders, official says South China Morning Post",
+      "impact": "若销售放缓持续，可能影响香港保险业内地客业务节奏及跨境财富管理安排。",
+      "impactZh": "若销售放缓持续，可能影响香港保险业内地客业务节奏及跨境财富管理安排。",
+      "score": 61
+    },
+    {
+      "title": "香港金管局与证监会合办研讨会推进代币化及Project Ensemble合作",
+      "titleZh": "香港金管局与证监会合办研讨会推进代币化及Project Ensemble合作",
+      "originalTitle": "HKMA and SFC co-host seminar to advance tokenisation in Hong Kong and promote collaborative opportunities within Project Ensemble",
+      "region": "香港",
+      "topic": "金融监管",
+      "source": "Hong Kong Monetary Authority",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOLWg1SUtIamhGa0RacGFLTW4yV2ZJeEhfSUw1Q2hQQVFlZ1JNUFU1QVVuejFxNWFFMjJwRTd5XzQyMmZ0SzIwdW9XSVFyTzc5ZUFwUnB1bEJUU0hWVnhGWS10cVdCVWpyOFhMRVBfN1ZNQ1ltTlJwczU1M1BncVZNYjU3WQ?oc=5",
+      "publishedAt": "2026-11-12T08:19:16+00:00",
+      "summary": "香港金管局与证监会合办研讨会，推进香港代币化并促进Project Ensemble内的合作机会。",
+      "summaryZh": "香港金管局与证监会合办研讨会，推进香港代币化并促进Project Ensemble内的合作机会。",
+      "originalSummary": "HKMA and SFC co-host seminar to advance tokenisation in Hong Kong and promote collaborative opportunities within Project Ensemble Hong Kong Monetary Authority",
+      "impact": "监管机构推动代币化合作，可能影响香港数字资产基础设施、合规标准与机构参与路径。",
+      "impactZh": "监管机构推动代币化合作，可能影响香港数字资产基础设施、合规标准与机构参与路径。",
+      "score": 61
+    },
+    {
+      "title": "英伦银行、新加坡金管局与泰国央行推进Project Meridian FX亚太项目",
+      "titleZh": "英伦银行、新加坡金管局与泰国央行推进Project Meridian FX亚太项目",
+      "originalTitle": "The Bank of England, the Monetary Authority of Singapore, and the Bank of Thailand: Project Meridian FX APAC",
+      "region": "新加坡",
+      "topic": "金融监管",
+      "source": "Bank of England",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQcVR4eHdIRUN4cVU4LVRHcGE3Z29yM1hteXVfZ1hRbTJROURUcFp0aDZPcURGaXJBbHlHZ0hjU3hGZ0JrdzRTWGtQSnhsdlJMcGFoYU1jUkhZLVpHVDRNQmRsSl9FTkthMXJZcHVQdl93My1oOG05SFRjRlQtSFp5TU1jZEpYeVktQ2lzTnFwMzlHMWJycDM5YzY0VXZubGxlUVJFYmJ5ckJkeTNyR3JwNTZDZ2E2cFdkZDFmWDhPV1BoUHM?oc=5",
+      "publishedAt": "2026-11-13T09:03:07+00:00",
+      "summary": "英伦银行、新加坡金管局和泰国央行介绍Project Meridian FX亚太项目。",
+      "summaryZh": "英伦银行、新加坡金管局和泰国央行介绍Project Meridian FX亚太项目。",
+      "originalSummary": "The Bank of England, the Monetary Authority of Singapore, and the Bank of Thailand: Project Meridian FX APAC Bank of England",
+      "impact": "跨境支付与外汇结算实验若推进，可能提升亚太区跨境支付效率并影响相关监管协作。",
+      "impactZh": "跨境支付与外汇结算实验若推进，可能提升亚太区跨境支付效率并影响相关监管协作。",
+      "score": 61
+    },
+    {
+      "title": "从约束到合作：新加坡与东南亚能源转型",
+      "titleZh": "从约束到合作：新加坡与东南亚能源转型",
+      "originalTitle": "From Constraints to Cooperation: Singapore and Southeast Asia’s Energy Transition",
+      "region": "新加坡",
+      "topic": "能源与产业投资",
+      "source": "Singapore Economic Development Board (EDB)",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPTHZCRHJmMWJ3aGF6anRHY3hnUDZWcFFJYVpjOG15T3dhZldRdXItU2tNWTluRXFiclJSdUNKMFY5aXdkYUtQQ1NObi1VeFpibGtQaEZCZm15QVYtR1VqMHdiU3RpTmFqVTBVX0FHcDA5NmJpdXd6Um1MUlJHdFhGN0IwSnpOVFlzTlQ2eE9xdUU1NUk4ZWdXbkl5U2w3a1RIMjF0dTlYRHhxNjBMUHEyUFAxZWFRM2dlNXRXVGRkOVY?oc=5",
+      "publishedAt": "2026-11-12T08:00:00+00:00",
+      "summary": "新加坡经济发展局发布文章，讨论新加坡与东南亚能源转型从约束走向合作。",
+      "summaryZh": "新加坡经济发展局发布文章，讨论新加坡与东南亚能源转型从约束走向合作。",
+      "originalSummary": "From Constraints to Cooperation: Singapore and Southeast Asia’s Energy Transition Singapore Economic Development Board (EDB)",
+      "impact": "能源转型合作可能影响东南亚电力投资、跨境绿色项目与区域供应链布局。",
+      "impactZh": "能源转型合作可能影响东南亚电力投资、跨境绿色项目与区域供应链布局。",
+      "score": 61
+    },
+    {
+      "title": "新加坡金管局与ABS公布PayNow第二代实施路线图",
+      "titleZh": "新加坡金管局与ABS公布PayNow第二代实施路线图",
+      "originalTitle": "MAS and ABS Set Out PayNow Generation 2 Implementation Roadmap",
+      "region": "新加坡",
+      "topic": "金融监管",
+      "source": "Monetary Authority of Singapore",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPQ0dwU0E1Yk45dDV6ak92bnVYblF1WENLTmduRHh4TlFpWGxmZGRHM05zSmMwYjFqTDdCY0t2dDRjLWl6Umd1RWlaclRzM1VidThUWUJZQmZWZEpUekREMmFPMUh3WHdiQ0IyRGFOOWFXZW01TVB6b3VSRERjbHozVVNVTEVnZHpFLWRvc0pETm9fVzAyVlgxa3d4b2VvVVpzd3JwU1R5eEhaMm1VY2J3?oc=5",
+      "publishedAt": "2026-11-18T06:41:53+00:00",
+      "summary": "新加坡金管局与ABS公布PayNow第二代实施路线图。",
+      "summaryZh": "新加坡金管局与ABS公布PayNow第二代实施路线图。",
+      "originalSummary": "MAS and ABS Set Out PayNow Generation 2 Implementation Roadmap Monetary Authority of Singapore",
+      "impact": "PayNow升级可能提升新加坡支付基础设施能力，并影响银行与支付机构的系统改造和产品安排。",
+      "impactZh": "PayNow升级可能提升新加坡支付基础设施能力，并影响银行与支付机构的系统改造和产品安排。",
+      "score": 61
+    },
+    {
+      "title": "新加坡国立大学与金管局任命迈克尔·韦伯为经济学与金融学任期教授",
+      "titleZh": "新加坡国立大学与金管局任命迈克尔·韦伯为经济学与金融学任期教授",
+      "originalTitle": "NUS and MAS appoint Michael Weber to economics and finance term professorship",
+      "region": "新加坡",
+      "topic": "贸易与物流",
+      "source": "Traders Union",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxONWR4YXY4ZHllYzNpYVhUdnRrUnJkVXI1cElfNWo5b3FZajYzdnRKeXlQNFpyQ0xsX3R0M3NPYzRzNDdueVNaYjdrR0RrM3JucEZmVnI2T3pENXVtTmVQUnlZdFFGc252VDltS0FLVVBLeURfcEh0bUdjQnlZVzNjUHRqRVlsWUN5ei1YR2RqbDFmRjda?oc=5",
+      "publishedAt": "2026-11-13T02:19:21+00:00",
+      "summary": "新加坡国立大学与新加坡金管局任命迈克尔·韦伯为经济学与金融学任期教授。",
+      "summaryZh": "新加坡国立大学与新加坡金管局任命迈克尔·韦伯为经济学与金融学任期教授。",
+      "originalSummary": "NUS and MAS appoint Michael Weber to economics and finance term professorship Traders Union",
+      "impact": "该任命有助于强化新加坡经济学与金融研究能力，并可能促进政策与学术交流。",
+      "impactZh": "该任命有助于强化新加坡经济学与金融研究能力，并可能促进政策与学术交流。",
+      "score": 61
+    },
+    {
+      "title": "中国与新加坡启动自由贸易协定升级谈判",
+      "titleZh": "中国与新加坡启动自由贸易协定升级谈判",
+      "originalTitle": "China, Singapore launch negotiations to upgrade Free Trade Agreement",
+      "region": "新加坡",
+      "topic": "贸易与物流",
+      "source": "China Daily",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5IY0h4bHZ1WE9kUnZ0ZjU5Xy16YzFyZHZFZXNpQ0ZSMUcyWWx1Z1RMajNHb3g5T1ZNeWlkcUxBVFIzdjFrMjBlTXJmcUx5M2t5eG9HUzZPLXFwR1EzbUdHXzJ3eUlGcU1Lb19zUkZjNjB4VlFiYmF5ajYwaTZIdw?oc=5",
+      "publishedAt": "2026-11-20T09:32:59+00:00",
+      "summary": "中国与新加坡启动自由贸易协定升级谈判。",
+      "summaryZh": "中国与新加坡启动自由贸易协定升级谈判。",
+      "originalSummary": "China, Singapore launch negotiations to upgrade Free Trade Agreement China Daily",
+      "impact": "升级谈判若推进，可能影响中新双边贸易、投资规则和区域供应链合作。",
+      "impactZh": "升级谈判若推进，可能影响中新双边贸易、投资规则和区域供应链合作。",
+      "score": 61
+    },
+    {
+      "title": "马克·卡尼如何挽救阿联酋对加拿大700亿美元投资承诺",
+      "titleZh": "马克·卡尼如何挽救阿联酋对加拿大700亿美元投资承诺",
+      "originalTitle": "How Mark Carney Can Rescue the UAE’s $70 Billion Investment Commitment into Canada - Resource Works",
+      "region": "阿联酋",
+      "topic": "主权基金",
+      "source": "EnergyNow",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNSWltYzRxV1MtUkc4R1FlZjI2S2U0MzdLekVaV2s4aUNvdWV5QzVnVlljMXd2djd5S2w0NzVIRUtrbjlITXZMak9EOXFDVjFsWmlXckV6TmVXd0M5bU1YTWtmQmFmeXpUR3p6a0ExcUNmbE1HNExRYXUyTnRUZjZTdzhYaFE2SWNrcjM3VHpyQ1pHR1BrZnBGaTRRT1ZRSVhFVFhYZndHRGFOMThtdVkzSVFkdGVOM0xGMWxXNmZtYWFlYkU?oc=5",
+      "publishedAt": "2026-11-14T09:54:56+00:00",
+      "summary": "Resource Works文章讨论马克·卡尼如何挽救阿联酋对加拿大700亿美元投资承诺。",
+      "summaryZh": "Resource Works文章讨论马克·卡尼如何挽救阿联酋对加拿大700亿美元投资承诺。",
+      "originalSummary": "How Mark Carney Can Rescue the UAE’s $70 Billion Investment Commitment into Canada",
+      "impact": "阿联酋对加拿大投资承诺的进展受到关注，可能影响海湾主权资本在加拿大的配置预期。",
+      "impactZh": "阿联酋对加拿大投资承诺的进展受到关注，可能影响海湾主权资本在加拿大的配置预期。",
+      "score": 61
+    },
+    {
+      "title": "印度—阿联酋商业架构中的返程投资风险：FEMA、税务与实质问题",
+      "titleZh": "印度—阿联酋商业架构中的返程投资风险：FEMA、税务与实质问题",
+      "originalTitle": "Round-Tripping Risks in India–UAE Business Structures: FEMA, Tax and Substance Issues",
+      "region": "阿联酋",
+      "topic": "税务与自由区",
+      "source": "TaxGuru",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQb3RONENiM2o2Rm1qRlpfOU15M21ENmpqSTVtcnNtVVlYRVpyN0laTUYwUkhEZmI1eGk2b0ZJRjAwNXF2QV9KRjQ1WE5SVzk4aUVtTlBsRXRpLUxFNU84dFpzTnJiTkN6bnBMWWYxU0Z4bDIxbGZjRy1ySUpRWUFtVWFscnY0ejBGR0Jsa3hsYXl4enoyNnp2dUxld3BIUk0?oc=5",
+      "publishedAt": "2026-11-19T04:19:34+00:00",
+      "summary": "TaxGuru分析印度—阿联酋商业架构中的返程投资风险，涉及FEMA、税务与实质问题。",
+      "summaryZh": "TaxGuru分析印度—阿联酋商业架构中的返程投资风险，涉及FEMA、税务与实质问题。",
+      "originalSummary": "Round-Tripping Risks in India–UAE Business Structures: FEMA, Tax and Substance Issues TaxGuru",
+      "impact": "跨境架构需重视监管实质与税务合规，可能影响印度与阿联酋之间的投资安排。",
+      "impactZh": "跨境架构需重视监管实质与税务合规，可能影响印度与阿联酋之间的投资安排。",
+      "score": 61
+    }
+  ],
+  "regions": [
+    {
+      "region": "香港",
+      "count": 9,
+      "focus": "监管论坛、家族办公室调仓、对冲基金扩张、离岸信托税务与金融市场创新"
+    },
+    {
+      "region": "新加坡",
+      "count": 6,
+      "focus": "AI金融风险、PayNow路线图、自贸协定升级、能源转型与央行合作"
+    },
+    {
+      "region": "阿联酋",
+      "count": 2,
+      "focus": "对加拿大主权投资承诺与印度—阿联酋跨境税务结构"
+    },
+    {
+      "region": "海湾国家",
+      "count": 1,
+      "focus": "卡塔尔主权财富基金与能源、旅游及AI投资"
+    }
+  ],
+  "analysis": [
+    {
+      "label": "监管与创新",
+      "title": "香港与新加坡同步推进金融基础设施与风险边界",
+      "body": "香港金管局与证监会推动代币化及Project Ensemble合作；新加坡金管局则警告AI代理可能加快资金流动并抬高金融风险，同时与ABS公布PayNow第二代路线图。两地均在提升金融效率的同时强化风险识别与合规安排。"
+    },
+    {
+      "label": "资本流向",
+      "title": "家族办公室与对冲基金调整香港敞口",
+      "body": "香港一家家族办公室削减约39亿美元AI相关押注，同时对冲基金在香港争夺办公空间，BNY观点称香港谨慎再接触获得政策支持。资金配置呈现结构性调整，政策支持与办公需求仍是观察重点。"
+    },
+    {
+      "label": "区域互联",
+      "title": "中国—新加坡与海湾资本网络继续扩展",
+      "body": "中国与新加坡启动自由贸易协定升级谈判；卡塔尔主权财富基金与相关部长讨论能源、旅游和AI投资；阿联酋对加拿大700亿美元投资承诺受到关注。跨境贸易规则与主权资本配置成为区域连接主线。"
+    },
+    {
+      "label": "税务与合规",
+      "title": "离岸信托、保险销售与返程投资监管受关注",
+      "body": "北京明确离岸信托税务规则并豁免香港强积金账户，但有官员称新规放缓香港对内地客户保险销售；印度—阿联酋商业架构的FEMA、税务与实质风险亦被提示。跨境架构需更重视实质与合规。"
+    }
+  ],
+  "broadcastScript": {
+    "anchorName": "岚序",
+    "date": "2026-11-21",
+    "headline": "香港、新加坡与海湾市场情报：监管创新、家族办公室调仓与跨境合规并行",
+    "intro": "各位观众大家好，欢迎收看岚序财经。今天是2026年11月21日。接下来为您播报今日亚洲与海湾地区财经要点。",
+    "segments": [
+      {
+        "title": "今日概览",
+        "text": "本期情报覆盖香港、新加坡、阿联酋及海湾国家，主线包括香港监管论坛与家族办公室调仓、新加坡AI金融风险与支付及自贸协定进展，以及中东主权资本和跨境税务合规议题。"
+      },
+      {
+        "title": "香港彭博监管论坛聚焦市场韧性与创新",
+        "text": "第1条，香港香港彭博监管论坛聚焦市场韧性与创新。彭博全球监管论坛在香港举行，政策制定者和行业领袖围绕市场韧性与创新展开讨论。影响方面，论坛议题涉及监管与创新平衡，可能影响香港资本市场参与者的政策预期和合规安排。"
+      },
+      {
+        "title": "香港家族办公室削减39亿美元AI相关押注",
+        "text": "第2条，香港香港家族办公室削减39亿美元AI相关押注。彭博报道，香港一家家族办公室削减约39亿美元与人工智能相关的押注。影响方面，大额调仓反映该家族办公室调整AI相关风险敞口，值得关注对香港科技与AI相关资产资金流向的影响。"
+      },
+      {
+        "title": "AI金融分析师发布：香港上市公司与家族办公室获战略投资",
+        "text": "第3条，香港AI金融分析师发布：香港上市公司与家族办公室获战略投资。有消息称，AI金融分析师发布，香港上市公司与家族办公室获得战略投资。影响方面，若相关投资落地，可能推动香港上市公司和家族办公室采用AI金融分析工具，并带来新的合规与数据治理需求。"
+      },
+      {
+        "title": "经济部长与卡塔尔主权财富基金讨论能源、旅游与AI投资",
+        "text": "第4条，海湾国家经济部长与卡塔尔主权财富基金讨论能源、旅游与AI投资。经济、数字化、创业与旅游部长丹尼尔·扎姆菲尔与卡塔尔主权财富基金讨论能源、旅游和人工智能领域投资。影响方面，讨论涉及海湾主权资本与产业投资方向，可能为能源、旅游和AI项目带来跨境合作机会。"
+      },
+      {
+        "title": "对冲基金争夺香港办公空间以加速扩张",
+        "text": "第5条，香港对冲基金争夺香港办公空间以加速扩张。彭博报道，对冲基金在香港争夺办公空间，以推进扩张计划。影响方面，办公需求上升反映部分对冲基金仍视香港为区域扩张据点，可能支撑核心商业区租赁市场。"
+      }
+    ],
+    "outro": "今日重点，香港、新加坡与海湾市场情报：监管创新、家族办公室调仓与跨境合规并行。感谢收看岚序财经，我们明天见。"
+  }
+}
